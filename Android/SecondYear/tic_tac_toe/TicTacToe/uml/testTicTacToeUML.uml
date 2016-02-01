@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-512.0" y="166.7142857142857">no.woact.mikand.ticTacToe.controllers.activities.menu.Menu</node>
+    <node x="-568.5714285714286" y="-214.2857142857143">no.woact.mikand.ticTacToe.controllers.activities.menu.fragments.PlayerSelect</node>
+    <node x="-532.8571428571427" y="415.28571428571433">no.woact.mikand.ticTacToe.controllers.activities.menu.MenuTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.menu.Menu" target="no.woact.mikand.ticTacToe.controllers.activities.menu.fragments.PlayerSelect">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.menu.MenuTest" target="no.woact.mikand.ticTacToe.controllers.activities.menu.Menu">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="646.7142857142856" y="648.4285714285713" />
+  <SelectedNodes>
+    <node>no.woact.mikand.ticTacToe.controllers.activities.menu.Menu</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

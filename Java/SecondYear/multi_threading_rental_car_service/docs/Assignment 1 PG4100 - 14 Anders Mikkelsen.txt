@@ -1,0 +1,67 @@
+Assignment 1 2015 Advanced Java Programming 2 PG4100-14 Westerdals
+
+Code Style:
+
+I generally use Google Java Style and i prefer the 80 char width for code.
+This is mostly because I think code should be standard terminalcompatible.
+
+Design and implementation process:
+
+I orginally envisioned the RentalProcessor Class with statics and static methods
+, but eventually settled on the singleton DP. I think thats much more clean. One
+could argue that making it a singleton is uneccesary when we only have
+one instance of the RentalProcessor. But ive designed it to work with any
+number of customer and any number of leasers so for that reason I think a
+singleton is best, as there will and should never be more than one instance of
+RentalProcessor.
+
+I considered using a CountdownLatch to control when the customers should get
+access to the leasers but eventually I decided to rather have each object have
+their own lock which is released by the RentalProcessor instance when leasers
+open. The reasoning for this was that I honestly thought the way CountdownLatch
+was implemented in the java documentation looked sloppy and counterintuitive.
+
+Why would I pass a CountdownLatch object to the constructor when the customer
+object is perfectly capable of handling its own business? The customer stays at
+home until its notified that stores are open, minding its own business. I think
+this is more in line with OOP than passing an object from another class into the
+constructor to control the customers.
+
+Ive added my UML's, they are quite simple so I wont talk much about them.
+I have tried to make an effort to make some relatively sensible JavaDocs for my
+program and I think you should be able to understand most of the flow of the
+program just from reading them. They are in ./javadocs.
+
+I have also implemented a logger for each Leaser that the RentalProcessor will
+output upon exit. This was mostly for fun.
+
+Tests:
+
+I have only really been able to ascertain two areas of my code that need
+testing. One is the leaseing and delivering of cars in the Leaser class and
+this is done in a single testmethod in LeaserTest that ive called
+testConcurrency. The reason ive packaged leasing and delivering into one test
+is that there is really in my opinion no other logical way to do the tests
+satisfactory without running both methods. I have also removed the timers for
+the methods in my tests to attempt to force a concurrency problem. In addition
+to this Ive added a few tests to isolate the methods.
+
+The other is my RentalProccesor. I have decided to test addCustomer to check if
+the program waits as expected and getLeaser to check wether I actually get the
+Leaser with the most availible cars.
+
+The rest of the code is either trivial or so invested in my testConcurrency
+method that ive just left it out, as i can produce the error messages I need
+from testConcurrency to quickly locate the error in any of the other methods.
+
+In that regard testConcurrency is probably more of an integrated test more than
+a unit test.
+
+Three text files: (Avis / Hertz Rent-A-Wreck)
+
+These files are the output of the logs, to check rental history and to verify
+concurrency in a more visual manner than the tests.
+
+Anders Mikkelsen
+
+Video: https://www.youtube.com/watch?v=tvXa0f7zT3g

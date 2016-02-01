@@ -1,0 +1,40 @@
+.scroll-container{
+  position: relative;
+//  display: none;
+}
+.forms {
+  text-align: center;
+}
+
+.products-show {
+  text-align: center;
+}
+
+td.product{
+  text-align: center;
+}
+
+table {
+width: 100%;
+}
+
+
+@font-face {
+  font-family: "Montserrat-Light";
+  src: font-url("Montserrat-Light.otf") format("opentype");
+}
+
+
+
+.pagination {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+//  .previous_page { background:#7777ff; color:white }
+//  .previous_page.disabled { background: white; color: #777 }
+//  .current { background: yellow }
+//  .next_page { background: #7777ff; color: white }
+//  .next_page.disabled { background: white; color: #777 }
+}
+
+/* Set to height of slides */
+
+

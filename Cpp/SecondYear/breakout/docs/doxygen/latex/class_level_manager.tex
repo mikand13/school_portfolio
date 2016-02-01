@@ -1,0 +1,80 @@
+\hypertarget{class_level_manager}{}\section{Level\+Manager Class Reference}
+\label{class_level_manager}\index{Level\+Manager@{Level\+Manager}}
+
+
+This header file declares the \hyperlink{class_level_manager}{Level\+Manager}.  
+
+
+
+
+{\ttfamily \#include $<$Level\+Manager.\+h$>$}
+
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_level_manager_aeb43724114a2a794bf3421a8628d4d32}{}typedef std\+::vector$<$ \hyperlink{class_movement_component}{Movement\+Component} $\ast$ $>$ {\bfseries vector\+\_\+of\+\_\+ptrs\+\_\+movement\+\_\+components}\label{class_level_manager_aeb43724114a2a794bf3421a8628d4d32}
+
+\item 
+\hypertarget{class_level_manager_aef4b6c259dec0a9db7c4ec9b48011f12}{}typedef std\+::vector$<$ \hyperlink{class_collision_component}{Collision\+Component} $\ast$ $>$ {\bfseries vector\+\_\+of\+\_\+ptrs\+\_\+collision\+\_\+components}\label{class_level_manager_aef4b6c259dec0a9db7c4ec9b48011f12}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_level_manager_a59a77f39ca9734a471b1464ca86df28b}{}vector\+\_\+of\+\_\+ptrs\+\_\+movement\+\_\+components {\bfseries Get\+Movables} () const \label{class_level_manager_a59a77f39ca9734a471b1464ca86df28b}
+
+\item 
+\hypertarget{class_level_manager_a9ba375b7c61050e848e1cccb8e6db26b}{}vector\+\_\+of\+\_\+ptrs\+\_\+collision\+\_\+components {\bfseries Get\+Collidables} () const \label{class_level_manager_a9ba375b7c61050e848e1cccb8e6db26b}
+
+\item 
+\hypertarget{class_level_manager_afdd15d07f007a6f7636c600f12a38217}{}void {\bfseries New\+Game} ()\label{class_level_manager_afdd15d07f007a6f7636c600f12a38217}
+
+\item 
+\hypertarget{class_level_manager_adfb57eb51fdc979747b72b053b85ad14}{}void {\bfseries Increase\+Level} ()\label{class_level_manager_adfb57eb51fdc979747b72b053b85ad14}
+
+\item 
+\hypertarget{class_level_manager_a3a532d8bfb73ebd2d4d730680fc3d6cc}{}\hyperlink{class_player}{Player} $\ast$ {\bfseries Get\+Player} () const \label{class_level_manager_a3a532d8bfb73ebd2d4d730680fc3d6cc}
+
+\item 
+\hypertarget{class_level_manager_ab3ed0f936c599c1d69428f97a0240459}{}\hyperlink{class_ball}{Ball} $\ast$ {\bfseries Get\+Ball} () const \label{class_level_manager_ab3ed0f936c599c1d69428f97a0240459}
+
+\item 
+\hypertarget{class_level_manager_a5d03144fac306ca2f6d6ece22ff7da64}{}int {\bfseries Get\+Level} () const \label{class_level_manager_a5d03144fac306ca2f6d6ece22ff7da64}
+
+\item 
+\hypertarget{class_level_manager_af11dba6a95782f794bf6ce919fd236f2}{}const float \& {\bfseries Get\+Level\+Velocity} () const \label{class_level_manager_af11dba6a95782f794bf6ce919fd236f2}
+
+\item 
+\hypertarget{class_level_manager_a7f4c3e316d943742d87622ca3abf59a7}{}int {\bfseries Get\+Player\+Lives} () const \label{class_level_manager_a7f4c3e316d943742d87622ca3abf59a7}
+
+\item 
+\hypertarget{class_level_manager_a4dc326928bc59c2c1d14f0efa537e10b}{}void {\bfseries Reduce\+Player\+Lives} ()\label{class_level_manager_a4dc326928bc59c2c1d14f0efa537e10b}
+
+\item 
+\hypertarget{class_level_manager_a50df37143640928f6ec730a1d9b59672}{}void {\bfseries Clean\+Up} ()\label{class_level_manager_a50df37143640928f6ec730a1d9b59672}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the \hyperlink{class_level_manager}{Level\+Manager}. 
+
+The \hyperlink{class_level_manager}{Level\+Manager} is responsible for the creation and initialization of all gameplay elements of a level.
+
+In this class i have implemented the Data Locality Pattern for my components, this G\+R\+E\+A\+T\+L\+Y increased the performance of my gameloop.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Level\+Manager.\+h\item 
+Level\+Manager.\+cpp\end{DoxyCompactItemize}

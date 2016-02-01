@@ -1,0 +1,5 @@
+Level: 4 7320
+Level: 4 5960
+Level: 4 5000
+Level: 3 4000
+Level: 2 2520

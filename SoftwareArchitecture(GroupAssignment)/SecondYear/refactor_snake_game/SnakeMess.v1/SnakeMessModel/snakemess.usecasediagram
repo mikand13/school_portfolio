@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="d447e2b6-93c7-4537-aa4a-6444ac57c5f9" name="USE CASE" linkedPackageId="46641d35-f590-4747-bd03-555a5f527e63" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="2b016cd9-ff60-4f36-9314-41de119eb313" name="Player" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="81f64cad-e85b-4f90-b2a9-f926aba7b54c" />
+        <targetEnds>
+          <association Id="13c47afd-e932-4603-83f9-c525b821d069" isDerived="false" sourceEndRoleName="Player" targetEndRoleName="Start Game" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" LastKnownName="Start Game" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7a8e04d0-ff6c-4462-be5f-f90ebac70e74" name="Player" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="ab5b61e8-afe1-4ca7-9e0f-eeaed69dfecf" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="171b2447-4fc0-4a50-9a79-cee95bee6d05" name="Start Game" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="3d3567d1-4f14-4d2d-8b54-4d77d2f0ff78" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="d6bd1417-5746-432b-8ee2-54e0c2ea6e98" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="c35b3308-31d1-4930-8dfb-877f4b2eb83e" name="Control snake" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="3cdd5b43-eb22-485a-95ba-872e4080d1c4" />
+        <extendedCases>
+          <extend Id="70380549-e812-46d7-8b8f-5c92852ccae8">
+            <useCaseMoniker Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" LastKnownName="Start Game" />
+            <elementDefinition Id="51221c4b-d109-4245-85c5-7397af1b5f5a" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="24b09114-a7eb-4a98-b414-41b38646cbb0" name="End Game" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e1dbfe0c-f84a-4213-8ebf-2d175d380636" />
+        <extendedCases>
+          <extend Id="0de62b46-9622-4120-a82f-2e61c019562d">
+            <useCaseMoniker Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" LastKnownName="Start Game" />
+            <elementDefinition Id="fa95fbed-5159-4cd3-9ad7-1e49a5706fb9" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" name="Start Game" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="1c12f2ad-f1f9-430e-84e3-992770311207" name="Pause Game" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="baccae5e-0a5c-4b63-8b84-785742fe4e16" />
+        <extendedCases>
+          <extend Id="cce6d218-6601-47c6-bc3c-9bea906e3ffc">
+            <useCaseMoniker Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" LastKnownName="Start Game" />
+            <elementDefinition Id="74822d63-498f-44dd-8fc6-fbcba399d5f0" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="46641d35-f590-4747-bd03-555a5f527e63" name="ModelingProject1">
+    <elementDefinition Id="8ebfcc75-208e-422f-b492-ca994ef615dc" />
+    <profileInstances>
+      <packageHasProfileInstances Id="3eb6f9e1-870b-4eaf-8e1a-3e5bd967bb68">
+        <profileInstance Id="9302dbbc-4781-43d7-a39f-103f23e15350" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="4064d602-f045-4f2d-a0bc-7843cd0fb25d">
+        <profileInstance Id="d93ab4c9-3566-47e7-850a-c3323d311a43" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

@@ -1,0 +1,1 @@
+Feature: As the administrator I want to have access to all products, so I can do CRUD operations on them.

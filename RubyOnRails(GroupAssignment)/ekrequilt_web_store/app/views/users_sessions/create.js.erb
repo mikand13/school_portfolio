@@ -1,0 +1,16 @@
+<% if account_signed_in? %>
+    $('#sign-in-modal').foundation('reveal', 'close');
+
+    $(document).ajaxComplete(function(event, xhr, settings) {
+        var csrf_token = xhr.getResponseHeader('X-CSRF-Token');
+
+        if (csrf_token) {
+            $('meta[name="csrf-token"]').attr('content', csrf_token);
+        }
+    });
+
+    <%= render partial: 'layouts/status' %>
+<% else %>
+    $('#js-message').html("<%= escape_javascript(render partial: 'layouts/messages') %>");
+<% end %>
+

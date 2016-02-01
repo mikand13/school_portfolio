@@ -1,0 +1,63 @@
+/* Notice to user when nothing is stored */
+"ClickSearchToStart" = "Click \"Search IMDb\" in the top right to begin!";
+
+/* Title for the do a search alert */
+"DoASeach" = "Do a search!";
+
+/* Instructions for first search */
+"DoASearchInstructions" = "Click the search icon in the top right to begin!";
+
+/* Notice of empty reviewfield */
+"EmptyReview" = "You have not yet registered a review!";
+
+/* ImdbEntities as Episodes in plural form */
+"EpisodesName" = "Episodes";
+
+/* Title on OMDB error alert */
+"ExternalErrorOMDB" = "External Error OMDB";
+
+/* Notice on alert for external error in OMDB on imdbfetch */
+"ExternalErrorOMDBDescription" = "Sorry, there seems to have been an error with the OMDB API.";
+
+/* Notice on loadingwheel for imdbfetch */
+"FetchFromIMDbNotice" = "Fetching from IMDb...";
+
+/* ImdbEntities as Games in plural form */
+"GamesName" = "Games";
+
+/* Formatted string for hours and minutes */
+"HoursAndMinutes" = "0.f hours and 0.f minutes";
+
+/* ImdbEntities as Movies in plural form */
+"MoviesName" = "Movies";
+
+/* Title on no connection alert */
+"NoConnection" = "No Connection!";
+
+/* Notice on alert for no internet on imdbfetch */
+"NoConnectionDescription" = "Are you sure you are connected to the Internet?";
+
+/* Title on no hits alert */
+"NoResults" = "No hits!";
+
+/* Notice on alert for no hits on imdbfetch */
+"NoResultsDescription" = "Please try a different search...";
+
+/* Title on no title alert for searchform */
+"NoTitle" = "No title!";
+
+/* Notice on no title alert for searchform */
+"NoTitleDescription" = "Please enter a valid title!";
+
+/* When nothing is stored in user lib. */
+"NothingStored" = "Nothing is stored!";
+
+/* ImdbEntities as Series in plural form */
+"SeriesName" = "Series";
+
+/* Title on wrong year format alert for searchform */
+"WrongYearFormat" = "Year is in wrong format!";
+
+/* Notice on wrong year alert for searchform */
+"WrongYearFormatDescription" = "Please enter a valid year...";
+

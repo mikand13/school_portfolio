@@ -1,0 +1,13 @@
+jenkins:
+  build: .
+  dockerfile: Dockerfile-jenkins
+  links:
+    - wildfly
+  ports:
+    - "7070:8080"
+    - "50000:50000"
+wildfly:
+  build: .
+  dockerfile: Dockerfile-wildfly
+  ports:
+    - "8080:8080"

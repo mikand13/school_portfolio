@@ -1,0 +1,5508 @@
+
+LOG: b92e0ef6-7779-4386-a207-470d0adf2347
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 17
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: c6587fec-397d-4564-a9e0-3f7cfce3c94f
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 64
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 63e213a7-3327-4f46-82d6-dafb6233576d
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 1af1d527-89bb-4268-91a0-245d3aee6a5a
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: d9e6c5ea-cb07-4c22-bc08-ff50628dd8af
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 624abdc5-233f-4f36-88fb-8aca2404ac1d
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 135d50a3-e33e-4240-a709-38a043c91441
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: a556e06f-b47e-450a-b9f7-3eb11eadbee8
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 12
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 7809dea0-e57e-4c7b-9f46-28ebaac4d002
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 13
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3566fa7a-c810-42fd-9f57-d81c90dd91a9
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8fd6a76a-26ec-4e2c-806a-6c0d7e1f25a5
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 12
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 46e92e76-73d3-4e2d-8128-07b628acb9da
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6605bd95-3f8a-432d-b834-d74f5809427d
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2f8edf8a-ec63-47f2-8b25-792477019d36
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Customer: 65 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 58d18be6-2eb0-48b9-adf3-55f1e83f0ea9
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 17
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8fedd9db-68ac-41c6-80f9-9f1496ff3017
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Customer: 65 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 573f3fb1-334d-400d-a42e-6f0bf1caec86
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 65
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b541458e-bbfc-4ac2-ac60-0ca6c5af8a63
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 64
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 57c97c93-00d4-4bb2-8681-df3e6066060c
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 24d5ff59-449a-43aa-9050-873b18119c6e
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 13
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 49f2acfe-0618-4ae4-ade8-870b2014fd9f
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2ffd00f4-1a16-4317-91ae-9f30c0e47665
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 65
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 846c3e07-e266-4595-aa6d-3518810cc6df
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 35c746f0-71e5-41a3-91ce-642eb4366368
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b7d55568-eb49-488f-9f62-81004b8e5f6e
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a7866580-4740-42b1-91d6-6e399f94fd83
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 1 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 89071445-ff90-4a33-b231-773df7838f50
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 057d0d78-4ebf-4a40-a852-8d4b37d51211
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 1 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 33be23f5-658d-4f8f-850e-0f44fe98e77a
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 1
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0673486f-04d2-4ce0-b1e5-626df131f0b7
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cc4b9d3e-8210-445a-81a0-635322148c5b
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 18
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8e0ba328-e772-4c12-974a-605c7f852a12
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 930accae-d476-476f-91ee-888e07db7ad1
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 74
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2d6f8a79-5981-4b4a-8af9-5e2e5ef94fbd
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 25 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b50b24b6-18ab-4041-8a77-7f81a90b8820
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 75 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 127ea9be-a40d-42da-8ea1-d51dc0fd91d8
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cea3729e-7d11-4567-b607-ab2f57e6b5b7
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 25 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d5f24d7f-98a8-4246-9e15-b1ed4f0830be
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 41e28cf6-19b2-4d89-bf38-7b9cde1f977d
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 1
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: c1b75a4a-894f-441d-90aa-882df1fad50b
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Customer: 75 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 6a2e1a62-3e58-48bd-bd45-68a9b755312b
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 75
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0318bca7-c120-4700-a29f-f9fd009f48c1
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b9ffb3ad-f657-4f0c-b68e-911ad44818d7
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 6
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4c0bb1f8-4bc1-42b4-8b18-f56cb8c5c124
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 81a04fff-7a8b-4296-8ab4-6c2fc3a9488e
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 86ac3d6e-4e86-43f4-9b55-c2d8d10b129d
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 18
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 87459eae-1354-4ad3-9a8d-36a40494513e
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 75
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: e7092c81-0325-4145-9a9f-1a15696170b2
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: b22968a3-00d4-4a3e-abe1-1b4d44d016ff
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 58
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c1cfdd24-0b46-4db5-be37-d2b4e892ed6b
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 74
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 080b3a6f-9edc-4633-b9b5-28b6ac3c6f4e
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ccaa5880-a7a7-4454-8c1d-df84f1b89801
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Customer: 85 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: db2a3f84-3ae3-405d-9844-5e2c277c5f2c
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 6
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: de5719cb-ee68-4ef0-b699-e5dd2a558fc8
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Customer: 85 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4b02ebbf-f704-4d4a-bd85-e150100f7ace
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 85
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4d709f75-9580-4ffd-94d1-d7cda811809e
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 85
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c3e10305-510d-445c-9ec5-1c670e7c0c59
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 40
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 84c82a4f-19cd-4735-b232-1eaea977d240
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 58
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 1033a886-071a-4c32-b19f-744303acecdb
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 79e4a25a-a984-4782-a5ea-84128daf7929
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3c3e3fd5-94bb-41b6-ad5e-6003ac7f937b
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b6b0d05d-125a-44a7-ab5f-97cb9758a148
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 10 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5f2170f1-dbdd-4d1f-b47b-2b8364d30108
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 26 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 44fb75e4-139d-40e7-80b3-26611cc6510c
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 36009ce3-dd9c-49b4-820e-308c2aefb795
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 10 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a4115195-fab1-460a-80ab-1013ca137377
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 10
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 32f3af59-6941-47b3-b045-79187a27d4d6
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9d40539b-64ac-4a8f-b7b1-398c06c87d21
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 26 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 093874c3-84dd-4ac3-a520-f38900dbf4b0
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a50b2424-ec4e-4384-9bf2-9b1fdf5b7867
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 40
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9e1b126c-a41e-4711-b127-1c5959f91d64
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 453e566e-8201-4db3-9084-e5637cbf9e5b
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 383f4964-2eeb-4b13-9213-ed41207e9578
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 10
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 175947de-399e-4238-b337-f601420ba15d
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 51
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 420a9555-ed02-4a6e-97ad-d01120d3baf7
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 67
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 44e10c25-8533-4ed7-8a4d-6bcaa85be801
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 42f43349-1718-44dd-a2ae-71560146823c
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 98b551d0-25db-4b1f-95e1-ca9d4555d57e
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 51
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 87dd4bac-a79c-4d4c-8985-404b84866b29
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: fd523f09-d01d-4c67-9225-c16c553c0577
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 67
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 982d9999-0505-440f-b56b-7c568869c55a
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7f6afb11-a6e9-49bb-b707-b246ac6e39c4
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 78 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 23f1098a-6ed4-48c4-a31e-6fafd7f46bb0
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 71659146-99d2-4928-8238-a8946e3834ed
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 78 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 313e1ee8-8bae-4a18-bf7c-2d3c3e4d217f
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 78
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e6f8e7fe-bb79-4bd2-8bee-b6d6ff5fba45
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b3d39404-573e-4439-a3e4-77a5a2b36fc2
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c610b0d6-074f-4bae-ab8a-f9da3839c330
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 56 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6a6cc483-7ea4-45a8-a8b4-c6f95c4cd2c9
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 92 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8d4a6b8d-d107-4be1-8549-dd4eaac69c10
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 93 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0ee59711-d454-4854-b0a6-a14ef08347ac
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bb4267aa-db89-4dd5-ba17-1fbfed990616
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Customer: 56 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cbae7537-f748-47a6-9ed2-bedd238bc49a
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 56
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cef6238e-8dee-4367-9079-25e54f4f4cc0
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Customer: 74 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e6d5df25-498c-4cda-a233-d03ec72a6d18
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 78
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: bd62c26b-e4b7-447a-a568-9d691e836a1a
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Customer: 92 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 391d7016-3af1-41ee-a09d-1e9a5c274943
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 92
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 1290834c-fffa-4f7d-bb4f-3e9867029d6d
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 52ea3437-8c97-43e3-8786-c9f8d9871660
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Customer: 93 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2e709e38-eb1a-472e-a2a4-78c678c19e91
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 93
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9d9f51e4-dafc-4e19-a3ea-eac01c15af5c
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: da9aef7b-1494-4e29-a835-1f32306678c0
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Customer: 74 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 73124b36-9902-4254-9a18-074a23e7304a
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 74
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5b197321-2686-49c6-b22d-634bfa9bb0d0
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 56
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 74082d27-cda3-4442-be7b-4761a71946cf
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cb78a502-5298-4861-9c85-4ef09f9107c1
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 98
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 60dd1187-8247-4b59-a51e-256363b0a7fc
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 36
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7597bfc2-5a24-44a7-8aa1-de5ce3483be4
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 93
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: de244e6d-fbe0-4723-87e3-f80046e13089
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6d7c7579-8f61-4c54-bf7c-6c750db74455
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 98
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d0072794-c2da-4ac9-8901-d5647b44c123
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 55
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4d4f3ab7-2e78-437c-be55-c134a8f2efce
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 36
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: aec9044c-52a7-40d0-a52a-279b4efb8dc4
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 49
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f897ea85-baf4-4dca-bc92-cb6a1047ca18
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 74
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 04357cb4-8a7b-45bb-b669-6f7353ed9ce1
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 95
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 055b1269-fee8-4431-94c6-bd067c26eb55
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 92
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: dbe5ceda-a230-4d49-a79f-d4e201110d56
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 55
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: ae9d22d3-26d3-459d-aebb-70d152728fa5
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 94f74453-3c6c-43f1-ae1a-cfcdc915d2a6
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a4576260-8a3e-4df8-83d3-27842b7d7cd9
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9451c6b4-ae50-4434-a412-21a74f110320
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7d828088-0874-4572-b975-e70765c102b0
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Customer: 81 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6b5f9b9c-3ef5-4ad3-9de7-66a92535bbb2
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7423ea53-26af-4d91-8b7d-46b13f8910c9
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Customer: 81 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ee38a1ff-282f-4c37-a58c-e80f24e0c94a
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 81
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 333085db-3fd0-429f-bac2-24405e9643fd
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 95
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 61d4b980-3ef9-47a7-9a9e-42ff845b6bba
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0465cbad-cabc-4fdd-97b0-3ee90b32daa3
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 3facab4c-1ce8-4e8b-9030-4b44ae48f1e3
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 12
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 849b3163-375c-4417-9576-028886d7b7e0
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bf7d8a7c-c8d4-480b-9ffe-054fc3d1f59b
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 49
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8f37bbc7-844e-48f6-a424-e66d0b18a012
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4f051740-d44c-47e8-83ed-d628e07eedeb
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 70
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 336a2032-1e6d-485b-9458-3c5a353041a9
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 30a6dcea-b6a4-478e-8ed8-13de908a7dbe
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 058ac6ed-bd14-4cea-9193-0f43dc202a5f
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 81
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ab98da7e-9538-493e-9740-b737c148ce83
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 558dd35d-39fc-4d9d-84cd-bf85736efa74
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 70
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2557a7b0-ccd3-4a1a-a204-5b13cba4fd3b
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 95
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bceda174-385c-4e62-b569-3d17897854a2
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e772dcc5-5dc1-43e0-94eb-72d68a3a4c97
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: aca1ce41-3258-4b25-9fa8-9bac440861db
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 12
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 863eaa2d-7628-4af1-937f-e296522246f1
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f81a2c8f-7520-4359-ac0c-b366e782169d
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f833de06-34e8-467d-b99a-d8ac4d68e638
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0095199c-c081-4841-b2b5-c0c988a3d949
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8226586d-3057-490e-b1ab-c1b552415d03
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 91
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0a8f1aaa-10a9-493d-8fa2-384c0821f438
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 83c4be2b-08a9-4677-b4f7-1016af351e97
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 4
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 91a05cc7-89b2-41cb-b725-db6588dd445e
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 95
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: efb464b0-2bd1-418b-b9e4-c760dc30514f
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 78
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 549f8ecc-422a-4bbc-9ba6-f70eb0666f8b
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 4
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4006611f-d92d-474a-ba68-9c40b99b1b80
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2b24d03d-049c-4ebd-88f9-7afe7902e5b4
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 88ee1cd6-8745-4ada-af10-f6cc3a0d71ec
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cf298930-ce23-4cd8-b528-598d62e9c6b1
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 19 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2e61bb87-d286-4c16-9dab-ca9aaf6c0ea0
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 13 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6d8b86e9-386d-4b53-a5e8-0795972de8b9
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 39 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: fe62ba8e-3f4c-4ddf-b240-c683b1461d29
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b243ae1d-9e6f-4904-a44e-1d5c96d08a7c
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 19 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7305a778-89b6-42f8-b628-bba14e0336e7
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e03d481c-2474-419c-8229-36be645b18c5
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 80 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6b4087b6-bf2c-4818-bd18-645cd1cff88e
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 78
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 1cf181dd-1045-48eb-8a64-a905a0f196a3
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Customer: 13 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f0606f8c-0ef6-4575-a71f-68dabea6de2b
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 13
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 04cdaac9-5b01-403e-bdbb-15458a5703cf
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 13
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2e28962d-d954-440a-b5b0-1fb2ecd42618
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Customer: 39 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4e55fa1a-eca0-4cdb-87c4-b26f532d9aa4
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 39
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e84c8129-c941-4ea4-8432-38dec33800b5
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 91
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cf934513-a24d-4a2d-9125-2700dfe72cc4
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Customer: 80 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f94c953e-d3cc-4379-961a-062f22bfa3e7
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 80
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7b5c6395-119b-4dd4-b51b-2b581a51d43b
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: fbbad727-815d-4eba-88f5-44f50cedb42c
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: e04b625c-fb9f-4419-b1f6-ff8867f477d3
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 1cff81c2-c084-4f1e-a6fd-ed0d44ddd8ce
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 49
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2187d851-567c-476f-a71d-69aec406ce65
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d5e31008-ffc0-4516-accf-856577e2829c
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 68
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ad3ed882-389c-48a2-ac75-68ea9f7d58b7
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 39
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 31b3187d-ec03-4c4c-967c-5aee4ad7744c
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 55
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 89fbd5e6-a3fe-4abe-8c33-a8047ac7ad61
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 80
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: baab0f91-51cf-408e-a2ee-acbd30144d64
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 98
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 26164378-6bc0-4857-8770-c9953d0c37d4
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5f6717db-9f46-43e3-ad34-06b5080defc2
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 49
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: be721a22-217a-47ef-99fa-431fb412123f
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 41
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 3fa486c5-f8f8-4e6d-9206-e17dc3428904
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 54
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f7660a22-ac37-45db-a6f1-6d8a25c14537
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 68
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7f632065-c7ec-4510-b9d6-84b30bcb59b6
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 57
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a8a930a6-b02b-42c7-b4e1-32fd75118910
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 55
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0c4bfbab-7c22-416f-bc1f-7ce296c84a36
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7cdcfd8a-d41a-48b3-b804-bf67d3969971
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 41
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d858b937-5a8d-44f8-a2be-3cdb789990fd
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 68
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 49363173-8612-4b21-9a57-5941aee8f2b6
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 57
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ff803336-4866-482b-bf94-80bd63ae08ad
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0794422c-5f72-4e71-ae8e-6f51d3370579
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 98
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c7c4440f-aaf8-4985-8709-2210e97caed9
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6eee57cd-4486-4c81-8e74-deec6949d39d
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 54
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 63039c04-4aec-40d5-a871-ae835da5cefc
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 62
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 849e9130-2a81-4a53-a635-913c72e88cee
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c928a735-8367-4d23-bf27-bfe5fa289531
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4df63da8-1688-40e4-9d70-2ee323e62f8b
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 26d0ff3f-5463-4846-a855-b138632b1c5e
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8497cf45-0e66-4dd0-8687-812536df5177
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 68
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e8ec3188-5376-45fa-a1da-f7b1eb84faf3
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 61f0d304-63ad-4274-8fd2-5735a47e5b0f
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 50
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 625b63aa-2c6f-49f3-8e57-2807a291649b
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 62
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 1aa9e6a5-f62d-41ef-a0ab-102e77777ae9
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 64
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 9b4b7571-b200-456c-8471-649d09b727d2
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: a8ae6ab0-27c7-4211-9cc5-ce81bc11cda1
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 81
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 5d8caf17-1d4c-44b5-9388-19223c840353
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4b6bfa97-3ba8-4f7d-9b7c-b2251e71a6fa
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8af143df-63b3-482a-9841-fe2d1d509e1e
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b3547238-9fe3-43b6-b4c4-836f41a59818
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 64
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3e33fe58-e39b-4568-af7a-9d3ee4a1ddcd
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 152c6068-2f9c-44c9-8a87-0176f1a07801
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 81
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 29000efc-3870-4f5a-b252-d7d8ab966b42
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8c14a6d4-72ae-44c9-84e7-2d02a16e01be
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 47b7cbd6-9a2b-45df-b0f8-103fa455c546
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 07e45271-1324-4f7c-988c-1842b168f60e
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 2174496d-e33b-4bb0-b02b-87cdc825238c
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 38
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 082ad575-a521-48c0-b14a-abbcd660b591
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9d28f508-c07b-4730-b92f-10fd3281f0c2
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 069489c9-3f3a-4115-b2f7-080a88bf5109
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a881d932-22a1-47fc-a753-f9f9c14089e4
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 38
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: a01cacc2-75d2-4622-aa00-2d7f0a05f69b
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: fdbb0fed-e23e-48df-906b-7363ecb94117
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ca57e2f4-1f9f-4703-96a0-9c277a77df49
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 63
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7b809217-2094-4b5e-a10a-80ad9b3b22f3
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8944faca-189d-45e2-acf5-2f0a11191e53
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2dbfbf5a-5dd4-47cb-bcf2-453841ced551
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 23
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5ca52450-75ba-4645-9a55-4d4e62a3da3d
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b8c96ed2-ac9c-4f08-83c0-e956fb56655a
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 85
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ced35d4d-ba66-4816-addf-0273a2fa9bd9
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 23
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8cfedbd0-b16b-42a6-9608-5a055653221b
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 51d83ec6-f5b3-4fe2-8f1a-5a4ad2531348
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 88
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4f419f5c-8466-42d1-82fc-58a767da2774
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 87
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f0b6950f-99c7-444c-978c-3b744490c224
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 014ba839-c2ce-4be2-9892-f4d9609bf0c2
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3abae517-5142-4206-9926-8050c93b473e
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 25bc2fc0-205a-4809-9bdc-d79948a6a74b
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0ff26106-2b37-408c-bc6a-08aad9a1d010
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 85
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4810be04-6ee8-4458-acaf-d33bf3491014
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 21
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 827f0b9d-b42d-4e01-a56f-b4a087944e0d
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Customer: 3 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b48b3b77-f136-430a-9a5e-f6653c0ad15f
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f2c3c57c-4092-43ff-9105-a1ff350f1534
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Customer: 3 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e48e7d33-4c70-4f93-a5fb-6b8f83ae6a86
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 36d2d4fe-095e-4a27-a3f8-46147db69685
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 749e25d8-9d02-49a2-9401-078cf06cc14b
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: dc5323a5-d9b0-4318-b0cc-bebf128c4de4
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 21
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a6f0bac2-171a-4061-8cc2-c0f9383dc022
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 58
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 164f157c-8804-4062-b3bf-80395b3cbc01
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 3
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 10ab10b0-6ca5-4b1f-afce-a2969ee433ae
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 046673d7-817b-405f-b86d-37c732801964
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 87
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d3989aac-1559-4435-9df6-23c5f6800b57
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 94
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3cb1bd94-9fd3-478e-9d05-8b29fcfe12de
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 82f4fcdb-fea4-4735-ae8b-f17de31ad2ce
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 43
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 63c99349-0df6-4ce2-ac30-054980331cad
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 18a0181d-1575-4bc8-ba2a-e4258dc21716
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 41
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: f224d6cb-989b-47fa-b0bb-a8ffb98b00da
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 92
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 1f4c8130-24fa-4340-8314-a2a5cfd2bd85
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5c193d63-3cb4-40f0-9b94-1db1500691e0
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 58
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a2bf4376-bf3b-4edd-8baa-5c90d65841e7
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 5
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3dfe69d8-f0c9-419f-9780-e24001de0a5b
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Customer: 15 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: ff7962f8-753f-408b-8c8c-fd35f01d649d
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 41
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a545710b-0bfa-4b2b-9028-a5d23e90c0a9
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Customer: 15 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 00412803-38d6-40da-9053-2a1c9baa8ac2
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7056b155-18f7-4ce1-a279-d650e49cfe3b
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Customer: 82 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a2caa250-888e-468f-9c82-da9826be0522
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 92
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 77eb0429-92b1-485f-bf70-9a3b60430974
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Customer: 82 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a000627d-3031-4cf5-8020-3aaa385143ae
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 26a91874-8aa2-464b-9b42-f6c3a84d86a1
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 94
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5b2286d4-0fac-495b-89c6-3bc3f6e6e4f2
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 38
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b9183ab4-852e-4526-9603-c90cc99b4af9
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 5
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e891f795-5042-4c89-9e78-0056cb693a8d
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5058eb2d-c9b7-488d-a66c-2e718dd3f832
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 15
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: e4916eb6-74c4-42c2-a719-9e8a6b8a88ee
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 4c76229f-cdaa-4b11-8e1c-c76a3a987736
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 6ec69571-9bfb-4c6a-9cef-6f9c0ad0c47b
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 82
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: ae7f9722-1691-42eb-904f-5d854bce123d
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 65
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 6d15f550-be4f-4ebe-a787-decbe076113f
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 86f87f31-74fb-4020-bf5b-495298c119e8
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bcb75a6f-20e5-40ba-8fc7-e9f7a96d8876
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cf9eb6e0-8b68-4bb7-9432-4462ac54bf64
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 34d0fbf7-40e3-415b-8a5c-ceedf2248c1c
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 335d3f69-7cdd-44f1-a4e8-49be1b1ba211
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8ade498f-2f3e-4953-852f-7479243cc636
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b907e852-eb13-42ea-9893-8b472f0de969
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 26
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 88a96ec7-8810-4302-84f2-3a0dd0f3ab86
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 46
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0a3357e6-c1e2-4b81-8faa-4da3131bd6d6
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 65
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6c034e00-eea0-436e-ad36-0eab34a313a5
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: d3c6a742-bff7-42fb-a838-0470995fd923
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 38
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a7dbaef2-b815-45bb-a63e-e4f3b0db86fd
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 23
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bbe0e642-cd5a-4fba-be44-21d2bfc62cf2
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 20d7932a-5771-43e6-b0f8-114eb2d2606a
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 97
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 29bdb24e-3aad-4e82-9388-0a57cc21cb62
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 46
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0057899d-2c9e-4d64-bf57-c90ecfa1ae6b
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2e6b7254-32a1-41cf-9dbd-149ec7fa611e
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 97
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 0ec365de-7ec1-4b76-b962-8e5cd28b30c3
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 23
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 48d385ce-65f1-44a7-9425-bd94b24fe180
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 1
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 9bd30313-5c71-4205-94ab-c589f813bfce
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 29386b0b-e45d-4ac6-b56e-e6aaf7bf86fa
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 34
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9178646d-76bc-46d1-896b-bff4ac1de93d
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 002686c8-ff84-41a6-8178-ac2c77f9e42f
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 462ccd2e-becb-4063-bbef-6462544b40b4
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: af3b4488-9b12-4a0e-a62f-9df3d62535f5
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 1
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6e5c2388-efdd-47b3-ac4c-9bff9f3a52a8
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 73
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 143b33ff-c7f3-4ae9-a820-e04a97ae1ecd
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 20
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: d8b6de33-ddb7-4d5b-ba19-48c7d1d1a86d
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6e921fcd-a305-4f5c-bc4f-965b368f9f51
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 663f3d3c-0b63-4d97-8c39-2ebba458c2e3
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 48
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 6f33f22d-8208-4e4b-a5f4-5bed0dd52fc0
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 47
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 68fbe2a5-69e2-4bf5-8f42-89860bf90731
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 73
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7e2f241c-f477-4fd2-b179-cb433c911d07
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 36
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3e24db47-4a78-49b7-b4ab-31094f6d8f50
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: de111fd3-d3ac-4c97-b4fc-a998832a8e28
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 89
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5755d4db-896c-4796-812f-28b7846aa303
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0436c3f9-2cd8-4ee2-ab94-e15b9604d413
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 45
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 8aae5497-722a-44ce-ae1b-9a844c438b00
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 79
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 8b9b3dfd-4d61-4e1e-846c-5cf0381b1373
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 72
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 572bccc6-04ae-4149-9d7c-06a25025653b
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 69
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7fc11442-f444-46cf-86f2-3d9b02d5697a
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 48
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 557efb09-4135-4285-b958-00dbac167a7b
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3bf2e04e-d35a-4746-8cce-f364f8947853
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 76bc5cba-a5f7-4deb-97ab-7b1b2ba8cf53
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 29
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 13505290-e9ee-4154-b482-2eb294167186
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 69
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0fe3c376-417f-4ab0-908b-53fab2daa3eb
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 56
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 85f9f05b-6eed-4829-a59d-ffca59e0c224
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 29
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a5b552f8-e87a-447b-bd8f-6147356efc95
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 8
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 93b00a7d-c3ee-4e79-8aaf-50fc9cf70536
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 36
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c54e568b-f392-4855-8e18-1a65cd579340
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3fb87f65-ec8b-4a0d-8543-b264f14b8cfc
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 56
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0380c823-b93e-4183-bc28-8da1154a42a9
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: df598c17-84c8-4540-b826-12dfe2aee8e0
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 8
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 25e5eb55-399c-4b92-9b2c-249a8c5a2e09
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 21
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 68629863-a73e-48d8-8451-7dafae2f8ff4
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Customer: 33 is in a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 25fb83a0-6c60-4278-bcb8-a7b6f47de6b4
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 79
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 4eac71e8-7e07-4e68-bdf9-034848586ba0
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Customer: 33 has finished a queue at Hertz!
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 758d1ca2-928c-4a80-aa75-e349214c1974
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5e1d7bb3-788a-49e6-a846-0a946813d435
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 42
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a984862f-de29-4dfa-a5f2-654b1ae87a9a
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: cbd9bd8e-8e99-4d89-b601-730df106103d
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 86
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4baaf9f0-e434-414f-9bea-b40ccf8a9ff2
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 11
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2bd210d3-477c-42f9-811d-544d46b846ff
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 90
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 47478be1-85b0-4733-8ee4-37e200e78d23
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 50d86c44-03ac-4dac-9033-45941c586419
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 21
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 645c7c28-d3e3-4899-b31b-8d13c3c94f5e
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 9c0086f0-b4d7-4dc1-aaa9-80565ae08206
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 33
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: a52b9795-9f14-4cbc-8226-6fa5f0117f13
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 99
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 261f59ec-0d26-40e5-9e3a-8dbaf3080c0c
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 76
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 23f87186-e1da-4090-ac70-c5d5ffb2ede8
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 922ce4be-baf0-4bf4-a611-690b5f92a99f
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 66
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a5b66609-cee9-45ac-acb2-348cb0d56898
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 99952ff2-d491-431d-94fb-76cb81d43d7c
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 25
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: b49798ee-80e9-4574-b061-fd44d16050de
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 7
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 5ca0e24c-7551-47ef-aa91-a259d0b13bf6
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 31
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 0634649b-ad44-4dc1-a6da-b258e0b2a1d3
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 11
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bb0afb3e-bcd6-48d8-bc8d-afb59dc06d64
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 59
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 2a72ae2c-1d79-4137-98a9-681d7288874b
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Lease of: Hertz-> DD999999: Leased
+Leased to: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: dd33d4b8-da9e-4b2a-a0b8-c1d0be693f6c
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 99
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 03f8277c-aa60-4618-bd5a-bef6ec30db84
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 41acdc80-a00a-4093-97a7-bf08dbff4ce9
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 59
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 7b3c886e-eacc-403c-865b-59b662cca0e0
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Hertz-> AA000000: Availible
+Delivered from: Customer: 32
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: c087b4a3-bac2-432c-86eb-7c909e2843b6
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Delivery of: Hertz-> BB111111: Availible
+Delivered from: Customer: 7
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Availible
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 18ee8ef3-39f0-40f1-bfeb-9f0f9c57ec51
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Hertz-> AA000000: Leased
+Leased to: Customer: 22
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Availible
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: bfcdf25f-c95c-46fd-a5a5-e1c9c39dea5c
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Hertz-> BB111111: Leased
+Leased to: Customer: 28
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: a0d8c86c-6f95-47ea-b939-9534ce1155bc
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Hertz-> CC222222: Leased
+Leased to: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: f8e02545-470a-4ac0-a7b8-6930215c9a63
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 44
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********
+
+LOG: 4760409c-c9ed-4635-8f75-8604568eeb75
+
+DATE: Mon Feb 02 09:30:01 CET 2015
+
+Lease of: Hertz-> EE888888: Leased
+Leased to: Customer: 0
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Leased
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 754ee066-f7a5-4ec0-9bae-d54fd377d519
+
+DATE: Mon Feb 02 09:30:01 CET 2015
+
+Delivery of: Hertz-> CC222222: Availible
+Delivered from: Customer: 35
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Leased
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 4ac46015-e5e9-4335-97f7-a774254a06d1
+
+DATE: Mon Feb 02 09:30:01 CET 2015
+
+Delivery of: Hertz-> DD999999: Availible
+Delivered from: Customer: 19
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Leased
+******* Status for Hertz ********
+
+LOG: 3fa81a7f-b9fb-4782-8886-088ec8901b53
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Hertz-> EE888888: Availible
+Delivered from: Customer: 0
+
+******* Status for Hertz ********
+* Hertz-> AA000000: Leased
+* Hertz-> BB111111: Leased
+* Hertz-> CC222222: Availible
+* Hertz-> DD999999: Availible
+* Hertz-> EE888888: Availible
+******* Status for Hertz ********

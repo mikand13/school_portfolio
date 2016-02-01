@@ -1,0 +1,24 @@
+<section class="row forms">
+  <%= form_for(resource, as: resource_name, url: confirmation_path(resource_name), html: { method: :post }, remote: true) do |f| %>
+      <div id="js-message" class="forms large-8 large-centered columns"></div>
+      <fieldset>
+        <legend><%= t('devise.confirmations.resend_confirmation') %></legend>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :email %><br />
+            <%= f.email_field :email, autofocus: true %>
+          </div>
+        </div>
+
+        <%= recaptcha_tags %>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.submit t('devise.confirmations.resend_confirmation'), class: 'small button' %>
+          </div>
+        </div>
+      </fieldset>
+  <% end %>
+  <%= render 'devise/shared/links' %>
+</section>

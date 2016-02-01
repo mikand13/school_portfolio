@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-965.0" y="-27.33333333333303">no.wsact.mikand.pg4600.assignment2.MapApp.utils.coordinates.Converter</node>
+    <node x="1600.6666666666665" y="749.3333333333335">no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.OnOnlineListener</node>
+    <node x="-522.8333333333333" y="-61.66666666666666">no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.OnRuterDownloadEventListener</node>
+    <node x="686.9999999999998" y="264.99999999999994">no.wsact.mikand.pg4600.assignment2.MapApp.utils.location.LocationHandler</node>
+    <node x="-150.0" y="1069.3333333333335">no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterStop</node>
+    <node x="-809.333333333333" y="1119.3333333333335">no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.ruterExceptions.RuterNotAccesibleException</node>
+    <node x="1672.9999999999995" y="964.3333333333333">no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.ConnectionHandler</node>
+    <node x="424.4999999999998" y="1267.4999999999998">no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap.Populater</node>
+    <node x="933.3333333333331" y="1003.6666666666667">no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap</node>
+    <node x="-963.9999999999995" y="789.3333333333333">no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterDownloader</node>
+    <node x="1490.0" y="-68.66666666666663">no.wsact.mikand.pg4600.assignment2.MapApp.Map</node>
+    <node x="105.16666666666652" y="778.5000000000001">no.wsact.mikand.pg4600.assignment2.MapApp.maps.GenericMap</node>
+    <node x="-644.1666666666665" y="76.83333333333331">no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.OnRuterDownloadEventListener">
+      <point x="0.0" y="-257.5" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.Map" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.Map" target="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterStop">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.Map" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.OnOnlineListener">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.ConnectionHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.Map">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap" target="no.wsact.mikand.pg4600.assignment2.MapApp.Map">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.Map">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterDownloader" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.ruterExceptions.RuterNotAccesibleException">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap" target="no.wsact.mikand.pg4600.assignment2.MapApp.maps.GenericMap">
+      <point x="0.0" y="-177.0" />
+      <point x="0.0" y="73.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.Map" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.ConnectionHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterStop">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.ConnectionHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.connectivity.OnOnlineListener">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap.Populater" target="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap">
+      <point x="0.0" y="-100.0" />
+      <point x="0.0" y="196.5" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.GenericMap" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.location.LocationHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterDownloader" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap" target="no.wsact.mikand.pg4600.assignment2.MapApp.maps.RuterMap.Populater">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterAPIHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.ruter.RuterDownloader">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.utils.location.LocationHandler" target="no.wsact.mikand.pg4600.assignment2.MapApp.Map">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.MapApp.Map" target="no.wsact.mikand.pg4600.assignment2.MapApp.utils.location.LocationHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="628.0" y="779.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

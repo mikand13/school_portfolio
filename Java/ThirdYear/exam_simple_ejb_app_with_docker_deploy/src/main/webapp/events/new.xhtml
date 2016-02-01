@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <ui:composition template="../template.xhtml">
+        <ui:define name="content">
+            <p:messages />
+
+            <h:form>
+                <h:outputLabel for="title" value="Title:"/>
+                <h:inputText id="title" label="Title" required="true" value="#{eventController.event.title}"/>
+                <br/>
+
+                <h:outputLabel for="description" value="Description:"/>
+                <h:inputText id="description" label="Description" value="#{eventController.event.description}"/>
+                <br/>
+
+                <h:outputLabel for="eventType" value="Type:"/>
+                <h:selectOneMenu id="eventType" label="Type" required="true" value="#{eventController.event.eventType}">
+                    <f:selectItems value="#{eventController.getEventTypes()}"/>
+                </h:selectOneMenu>
+                <br/>
+
+                <h:outputLabel for="subject" value="Subject:"/>
+                <h:selectOneMenu id="subject" label="Subject" required="true" value="#{eventController.subjectId}">
+                    <f:selectItems value="#{eventController.getSubjects()}"/>
+                </h:selectOneMenu>
+                <br/>
+
+                <h:outputLabel for="startTime" value="Start Time:"/>
+                <p:calendar id="startTime" label="Starttime" required="true" value="#{eventController.event.startTime}"
+                            var="startTime" mode="popup" widgetVar="startTimeWidget"
+                            pattern="dd-MM-yyyy HH:mm" />
+                <br/>
+
+                <h:outputLabel for="endTime" value="End Time:"/>
+                <p:calendar id="endTime" label="Endtime" required="true" value="#{eventController.event.endTime}"
+                            var="endTime" mode="popup" widgetVar="endTimeWidget"
+                            pattern="dd-MM-yyyy HH:mm" />
+                <br/>
+
+                <h:commandButton value="Submit" action="#{eventController.create()}"/>
+            </h:form>
+        </ui:define>
+    </ui:composition>
+</html>

@@ -1,0 +1,10 @@
+var sign_in = $('#sign-in-modal');
+
+<% if resource.errors.empty? %>
+    sign_in.foundation('reveal', 'close');
+    <%= render partial: 'layouts/status' %>
+<% else %>
+    $('#js-message').html("<%= escape_javascript(render partial: 'layouts/messages') %>");
+<% end %>
+
+$('#main_window').html("<%= escape_javascript(render partial: 'welcome/index', locals: { resource: resource }) %>");

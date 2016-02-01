@@ -1,0 +1,1 @@
+Feature: As a customer I want to be able to register on the newsletter, so I can stay updated on any news from the site.

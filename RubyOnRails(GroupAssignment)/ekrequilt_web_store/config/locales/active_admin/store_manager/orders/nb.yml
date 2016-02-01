@@ -1,0 +1,17 @@
+nb:
+  active_admin:
+    orders:
+      all: Alle
+      completed: Fullført
+      pending: Venter behandling
+      refunded: Refundert
+      cancelled: Kansellert
+    users:
+      order_unprocessed: "Ubehandlet"
+      order_refunded: "Refundert"
+      order_voided: "Kansellert"
+  activerecord:
+    attributes:
+      order:
+        purchased_by_guest: "Denne ordren ble bestilt av en gjest!"
+  error_processing_order: "Det skjedde en feil under bekreftelsesprosessen, ta forbindelse med din systemadministrator."

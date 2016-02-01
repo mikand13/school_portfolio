@@ -1,0 +1,44 @@
+<section class="row forms">
+  <%= form_for resource, as: resource_name, url: accounts_confirmation_confirm_path, html: {method: 'put'}, id: 'activation-form', remote: true do |f| %>
+      <%= devise_error_messages! %>
+      <fieldset>
+        <legend><%= t('devise.confirmations.account_confirmation') %> <% if resource.email %> for <%= resource.email %><% end %></legend>
+
+        <% if @names_required %>
+            <div class="row">
+              <div class="large-12 columns">
+                <%= f.label :first_name, t('devise.confirmations.first_name') %> <%= f.text_field :first_name %>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="large-12 columns">
+                <%= f.label :last_name, t('devise.confirmations.last_name') %> <%= f.text_field :last_name %>
+              </div>
+            </div>
+        <% end %>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password, t('devise.confirmations.choose_password') %> <%= f.password_field :password %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password_confirmation, t('devise.confirmations.password_confirmation') %> <%= f.password_field :password_confirmation %>
+          </div>
+        </div>
+
+        <%= hidden_field_tag :confirmation_token, resource.confirmation_token %>
+        <%= hidden_field_tag :email, resource.email %>
+        <%= recaptcha_tags %>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.submit t('devise.confirm'), class: 'small button' %>
+          </div>
+        </div>
+      </fieldset>
+  <% end %>
+</section>

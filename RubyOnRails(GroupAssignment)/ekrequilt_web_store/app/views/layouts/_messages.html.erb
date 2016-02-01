@@ -1,0 +1,11 @@
+<% if notice %>
+  <div data-alert class="alert-box radius notice"><%= notice %></div>
+  <% flash.delete(:notice) %>
+<% end %>
+
+<% if alert %>
+  <div data-alert class="alert-box alert round alert"><%= alert %></div>
+  <% flash.delete(:alert) %>
+<% end %>
+
+<%= devise_error_messages! %>

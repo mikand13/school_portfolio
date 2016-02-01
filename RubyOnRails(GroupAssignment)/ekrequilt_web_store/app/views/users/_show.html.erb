@@ -1,0 +1,58 @@
+<section class="large-5 large-centered columns">
+  <fieldset>
+    <table id="customer_info">
+      <caption><%= t('users.orders.your_orders') %></caption>
+
+      <thead>
+      <tr>
+        <th><%= t('users.orders.number') %></th>
+        <th><%= t('users.orders.number_of_items') %></th>
+        <th><%= t('users.orders.total_price') %></th>
+        <th><%= t('users.orders.status') %></th>
+        <th><%= t('users.orders.purchased_at') %></th>
+        <th><%= t('users.orders.closed_at') %></th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <% @orders.each do |order| %>
+          <tr>
+            <td><%= link_to order.id, order_path(order) %></td>
+            <td><%=h order.line_items.size %></td>
+            <td><%=h order.price %></td>
+            <td><%=h I18n.t :"activerecord.attributes.order.status.#{order.status}" %></td>
+            <td><%=h order.purchased_at %></td>
+            <td><%=h order.closed_at %></td>
+
+            <% if order.authorized? %>
+                <td><%= link_to t('users.cancel_order'), order_path(order), method: :delete, class: 'button small info', remote: true %></td>
+            <% end %>
+          </tr>
+      <% end %>
+      </tbody>
+
+      <tfoot>
+      <tr>
+        <th colspan="7">
+          <hr/>
+
+          <div class="row forms">
+            <div class="large-12 columns">
+              <%= link_to t('continue_shopping'), products_path, class: 'button small info', remote: true %> |
+              <%= link_to t('user.administer_account'), edit_account_registration_path, class: 'button small info', remote: true %>
+            </div>
+
+            <div class="large-12 columns">
+              <% if @user.subscribed_newsletter? %>
+                  <%= link_to t('unsubscribe_from_newsletter'), newsletter_path(@user), method: :delete, class: 'button small alert', remote: true %>
+              <% else %>
+                  <%= link_to t('subscribe_to_newsletter'), newsletters_path(@user), method: :post, class: 'button small success', remote: true %>
+              <% end %>
+            </div>
+          </div>
+        </th>
+      </tr>
+      </tfoot>
+    </table>
+  </fieldset>
+</section>

@@ -1,0 +1,15 @@
+nb:
+  active_admin:
+    users:
+      customer_details: Kundeinformasjon
+      email: Epost
+      order_history: Ordrehistorikk
+      order_count: Antall ordre
+      order_sum: Kjøpt varer for
+      order_number: Ordrenummer
+      order_status: Status
+      order_sum: Sum
+      order_date: Dato
+      order_completed: Fullført
+      order_pending: Venter behandling
+  guest_email: "Gjestebrukere har ingen epost!"

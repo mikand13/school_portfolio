@@ -1,0 +1,163 @@
+<%= form_for(@order, html: { class: 'forms' }, remote: true) do |f| %>
+    <% if @order.errors.any? %>
+        <div class="row">
+          <div class="large-12 columns">
+            <fieldset>
+              <legend><%= pluralize(@order.errors.count, 'error') %> <%= t('order.prohibited')%></legend>
+
+              <ul>
+                <% @order.errors.full_messages.each do |message| %>
+                    <div class="row">
+                      <div class="large-12 columns">
+                        <li><%= message %></li>
+                      </div>
+                    </div>
+                <% end %>
+              </ul>
+            </fieldset>
+          </div>
+        </div>
+    <% end %>
+
+    <% if @order.express_token.blank? %>
+        <fieldset>
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :first_name, class: 'left'  %><br />
+              <%= f.text_field :first_name %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :last_name, class: 'left'  %><br />
+              <%= f.text_field :last_name %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :card_brand, class: 'left'  %><br />
+              <%= f.select :card_brand, [%w(Visa visa), %w(MasterCard master), %w(Discover discover), ['American Express', 'american_express']] %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :card_number, class: 'left'  %><br />
+              <%= f.text_field :card_number %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :card_verification, class: 'left'  %><br />
+              <%= f.text_field :card_verification %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :card_expires_on, class: 'left'  %><br />
+              <%= f.date_select :card_expires_on,
+                                discard_day: true,
+                                start_year: Date.today.year,
+                                end_year: (Date.today.year + 10),
+                                add_month_numbers: true %>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><%= t('activerecord.attributes.order.address') %></legend>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :street, class: 'left' %><br />
+              <%= f.text_field :street %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :zip, class: 'left'  %><br />
+              <%= f.text_field :zip %>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :city, class: 'left'  %><br />
+              <%= f.text_field :city %>
+            </div>
+          </div>
+
+          <% unless I18n.locale == :nb %>
+              <div class="row">
+                <div class="large-12 columns">
+                  <%= f.label :state, class: 'left'  %><br />
+                  <%= f.text_field :state %>
+                </div>
+              </div>
+          <% end %>
+
+          <div class="row">
+            <div class="large-12 columns">
+              <%= f.label :country, class: 'left'  %><br />
+              <%= f.text_field :country %>
+            </div>
+          </div>
+        </fieldset>
+    <% else %>
+        <%= f.hidden_field :express_token %>
+        <table id="customer_info">
+          <tr>
+            <th><%= t('users.name') %></th>
+            <th><%= t('users.street') %></th>
+            <th><%= t('users.city') %></th>
+            <th><%= t('users.zip') %></th>
+            <th><%= t('users.country') %></th>
+          </tr>
+
+          <tr>
+            <td><%=h @order.first_name %> <%=h @order.last_name %></td>
+            <td><%=h @order.street %></td>
+            <td><%=h @order.city %></td>
+            <td><%=h @order.zip %></td>
+            <td><%=h @order.country %></td>
+          </tr>
+        </table>
+
+        <hr>
+
+        <table id="line_items">
+          <tr>
+            <th><%= t('cart.product') %></th>
+            <th><%= t('cart.quantity') %></th>
+            <th class="price"><%= t('cart.unit_price') %></th>
+            <th class="price"><%= t('cart.full_price') %></th>
+          </tr>
+          <% for line_item in @cart.line_items %>
+              <tr class="<%= cycle :odd, :even %>">
+                <td><%=h line_item.product.name %></td>
+                <td class="qty"><%= line_item.quantity %></td>
+                <td class="price"><%= line_item.product.price %> <%= t('cart.currency') %></td>
+                <td class="fullprice"><%= line_item.price %> <%= t('cart.currency') %></td>
+              </tr>
+          <% end %>
+          <tr>
+            <td class="total price" colspan="4">
+              <%= t('cart.total') + ' ' + @cart.price.to_s %> <%= t('cart.currency') %>
+            </td>
+          </tr>
+        </table>
+
+        <hr/>
+    <% end %>
+    <div class="row">
+      <div class="large-12 columns">
+        <%= f.submit t('send'), class: 'button small success' %> |
+        <%= link_to( t('abort'), user_cart_path(@order.user_id), class: 'button small alert', remote: true) %>
+      </div>
+    </div>
+<% end %>

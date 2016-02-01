@@ -1,0 +1,15 @@
+maven-plugin:2.7.1
+git:2.4.0
+git-parameter:0.4.0
+promoted-builds:2.24
+credentials:1.24
+git-client:1.19.0
+scm-api:1.0
+mailer:1.16
+token-macro:1.11
+matrix-project:1.6
+ssh-credentials:1.11
+parameterized-trigger:2.29
+github 1.10
+github-api 1.59
+github-oauth 0.12

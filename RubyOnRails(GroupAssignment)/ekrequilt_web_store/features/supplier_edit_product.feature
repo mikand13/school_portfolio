@@ -1,0 +1,1 @@
+Feature: As a supplier I want to be able to edit my products, so I can update prices and other information about one of my products.

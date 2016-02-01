@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Ekrequilt</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <%= stylesheet_link_tag 'application' %>
+  <%= javascript_include_tag 'vendor/modernizr' %>
+  <%= javascript_include_tag 'application.js', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body class="<%= controller_name %>">
+<%= render partial: 'layouts/header' %>
+<section id="main_window">
+  <%= yield %>
+</section>
+<%= render partial: 'layouts/footer' %>
+
+<script>
+    $(document).foundation();
+    $(document).on('close.fndtn.reveal', '#sign-in-modal', function () {
+        $('#sign-in-modal').html("");
+    });
+
+    $(function () {
+        $("a[href=#menuExpand]").click(function (e) {
+            $(".links").toggleClass("menuOpen");
+            e.preventDefault();
+        });
+    });
+
+    $(function () {
+        $("a[href=#categoryExpand]").click(function (e) {
+            $(".top-bar-section").toggleClass("menusOpen");
+            e.preventDefault();
+        });
+    });
+</script>
+</body>
+</html>

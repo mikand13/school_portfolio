@@ -1,0 +1,5401 @@
+
+LOG: 1a31601f-eeb1-43b1-b761-6833f3a4199d
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: af2ecd69-e329-4dd8-b63a-ba0cb7b19d8b
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 0
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 2957f4dc-b881-4ce6-9396-8a34a42768fb
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 461be534-b7c8-4a05-9528-fd4af5f89586
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: bfca50f0-d1ab-4c63-ac8c-b84cfcccb4bd
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 020cc308-5f82-41ad-ad01-3c1ad30a2976
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Customer: 20 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 01e69d6c-67f1-4db9-a326-abef6701119b
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Customer: 18 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e0b9176a-6b09-4cc5-a2f1-3be03731bf8a
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2e542003-df97-44bb-bdfa-3f35531938b7
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Customer: 20 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d8b7f6d2-f1eb-4779-8a80-abc49c05bac6
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 947d61df-f07c-4980-b792-3a898bfec63a
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 9b6a0faa-3762-4207-a980-10234f4b95c0
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Customer: 18 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 73075554-ad12-4ed1-af5f-2527a1b1bc17
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 748b7ac9-0087-4aa7-9e89-3613e64df2e6
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 735a19e3-3dd9-45c0-8e54-ce6f8acc50ec
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 610fe4b5-8ea2-4974-b6bf-a3175af85417
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 866beec7-5f71-4d78-95da-144d49afeb84
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 0f41d932-d493-48ef-8140-5002d2f3d70b
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 56
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: fd778fda-4b11-40f9-9a1b-269f5830c937
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 676a8b35-3089-4e36-8afc-bcda0992b2d0
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Customer: 48 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 65fa08f7-9182-4813-8a32-c566bd7aaf8d
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 37f5214e-859d-4c7c-8b9e-89b98c35a001
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Customer: 48 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ae36b8e1-7dbb-43cd-b48d-9efc12d39234
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 48
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 72e95163-b8ec-4ea5-bf2f-78138e9944ef
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 0
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 66c72fc0-bf27-4ecf-b624-76dfd2b6c109
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 16
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d19dbdeb-c77e-4f68-a0cd-68a4d328d066
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 765e6071-2de3-465d-acf9-61d4e03b9a6e
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 70e960cf-204e-431a-a96b-b6af34dfbddc
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 56
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: bddeceae-0008-4616-9191-affa096564e1
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3935fa15-379d-4f3f-9656-23562a0840a5
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 520a6dc6-af77-47e8-8972-22e81204ce0a
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c1ab1e10-317a-462a-8b41-40ec80c35c2d
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 48
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 87fc7096-20bf-4516-8d7e-9cf00a6a508f
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 8
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d95fce75-0e13-4a97-af61-15b0a65cd893
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d3ab31f1-058e-4fef-a83c-d0bbe6ee1276
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1d33c975-1b44-4277-b74e-deaa1b4257f0
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Customer: 95 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d6a1aa78-fef5-4aa0-b1ab-e690c5dc7178
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Customer: 96 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fdbce412-6b90-4dba-9203-ed537e77b4a5
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8de2fe0f-7dfc-4b20-9189-9d2c824a2aba
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 95 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 36bd77ff-0c3a-40b5-b293-b0d6eebc106b
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 95
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: bc37dec4-ca39-4207-8f00-a34b1e4a7f52
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 22db3933-fb0d-4ec3-9215-f53ca0e37630
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 96 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 95648e51-8b18-438f-ba6b-6ac703a31242
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1f1e0d04-7fc2-4eac-b565-144480907ce7
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 16
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: afed0cee-574c-44aa-b0f4-ea85df745678
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 13
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8ff57f7b-eea1-49e7-a69b-1f9d1b5fca53
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 95
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d788f8ad-dba4-45c0-9255-dce5524ef511
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: e3e6d3fa-bf19-4a6e-99a0-317688245cd0
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 90
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 3628e614-971c-4e6e-8103-446262d460aa
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: b53ee37a-4a37-4fc8-8764-f3c5450a5812
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 70b737b3-1980-43e0-be32-e3df5123b88e
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 23552b89-4455-4145-b215-09a680f79b6d
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 8
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 00e77acb-1ad8-4448-89f1-a77e0fc78703
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 984740c1-bf71-480d-bb33-8cdac25ad90b
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Customer: 7 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a7df6caf-b29e-4b6f-9894-789428b6c45d
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: d3247af3-b9fa-4c40-a06c-2f71f2f2dd9f
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Customer: 7 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 34d51a5a-2a35-43e5-8853-844ad5c4a8d6
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 7
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 51419336-8eb5-4b7f-8f0e-f53e6f3695fd
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 90
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 38663ecb-6949-4dae-882b-5dd72eb226f0
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c23e3713-71dd-442d-891c-042a1bc60fde
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 19c5b7d6-a731-4514-aa57-6cde7be1c706
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 26
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7340c42a-b3fe-4f25-8b9e-316f9ac513f9
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 468dfb98-882b-49e1-9764-6fad15098f5f
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 7
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: c9bfdfa3-d6f1-40f6-a689-f7c5f22cee7a
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 13
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: ae9cf170-fed9-41d4-8ab4-73ab454a78ab
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 5
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: d5183dce-0f2f-4195-a84c-146cbb624adf
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 1ad287d7-18a9-4c2a-87fc-33c19890d243
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 72865b13-3705-49ae-b00c-e6d6488b8943
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 26
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4c82ab5f-43ef-467f-8bdf-bf9e6324b84e
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 68
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 62d4f50a-8c69-4081-91b0-6df8ae0f28ef
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 064e7a9d-a1f1-4599-bba0-cf6940843e5f
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 49974b01-2757-4df3-aec8-ec64dc3f3136
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d5f0ad7a-38c2-435c-9f08-ca564b3b933e
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 17
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 26565b84-2454-4a13-b26c-dcc14e82bc51
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 5
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ea7d4547-dd8c-40e1-be68-5ba5e1166018
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 318e0d58-1ba7-493b-9165-739691b7fc22
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 34
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2e5f6c52-febb-41a8-a257-000c86a5a78a
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 4be080ec-5d2c-40ab-a21b-65411eaf537c
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 49
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 34b7c8fe-240c-4db5-9de6-f2c59a80333c
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 24f998f0-4778-4035-83c9-05466ee400ff
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 68
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 6de84c2b-a417-40b7-8951-0356cb16ff38
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 57e905c2-ec37-4d42-8be8-3eaac354f5ea
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Customer: 94 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 62ab281d-ec5b-4b11-9e43-281b3c4ba87a
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Customer: 66 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 64b7a055-05f1-4cdf-8595-2912821dcd06
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Customer: 81 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9facab10-775a-4165-bf35-42f9bf03a39f
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Customer: 79 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7391bd6a-f99f-49b5-a743-126f52e5b8ea
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 58968257-23a2-4f44-9849-dc086b4ac4f9
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Customer: 94 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 494a6f56-b38d-4081-b840-40a95f1c1007
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: be946f5a-35b1-4452-83d4-f3604c102c0a
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 17
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8dd37274-b224-4c18-9bb8-40fb8fc56552
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Customer: 66 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 164434e9-abff-4c79-b8fc-e42c72015d79
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 046ceb3c-8e00-4bb7-af4b-5b2cfaf83fa9
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 34
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d5c51dd9-4a83-43e1-8ecc-e1fd07c033dd
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 81 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ec18684c-6095-445a-94b5-e643270f738e
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 81
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a2a806be-9de7-422d-b191-cceeec838840
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 75 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b1b1ce97-0ec6-4c57-9796-87f4f3b20ccd
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 49
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1ec2746f-9c74-4487-894f-d4f21f940fed
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 79 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2dba5519-ad9a-4af6-b6b8-8657f2bde882
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c9d33d93-a6c6-4f00-a265-68fe18e3184e
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 73d5dc3a-1cfb-4c99-ae10-dc6c249efb00
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Customer: 75 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: a1517dbd-0e28-4b23-9e71-b4e30eb252bb
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 75
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5c7f4867-ad6c-4075-83ba-36be1ef9c62a
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: cedcb541-6b9a-49a3-9098-bac93b374de0
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 64
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f668fa4c-c4dc-4138-baf7-18b9c0bc415e
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8aad2ad8-7fc7-4366-af44-5dcb9bad671b
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 89
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d8a8cbe0-7840-402d-ab52-fa7552fe904b
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 81
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 93a8024a-00f2-4b76-b64f-afcb1fa7877f
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: da241db9-70f2-4440-8478-0cad92761616
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 39a212dc-d848-404b-818f-619159724042
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 70
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 14caad3b-9ce0-46c8-bc21-1981ff7b866e
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 64
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7b8aac4f-c7a6-481e-b08f-67463e0e0c43
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 89
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 96c773ba-9973-4aa6-b68d-7b37483253c4
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 452aae0c-24bd-4cab-a174-e54c749b115e
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 45
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2237fc66-08bd-4528-8c74-8798420c6560
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 75
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 38c3a485-1f76-4455-905e-d76976d6ea0a
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 70
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 2142a653-3f54-4dbb-b460-93d95a6c8d97
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: a1269214-ed99-4bee-8e1f-8fdd179623f4
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 80
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 09e7faf0-5f33-4e36-a98e-17efeac1d9f6
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 919ce085-adce-42e8-b9db-4027cbf23ca4
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 71d1e3fd-731e-468a-b38b-f22c588c929e
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 45
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7b7d8a0d-31da-4e71-adde-c7903dcf6cb0
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5535c99f-cc52-4c49-89bf-be2b67964cb6
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d9b23145-cc11-47fb-a06b-2e811fa85115
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 71
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0243e60b-ff3b-4179-b842-a1acfd11a5ab
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Customer: 61 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 69d2fd9d-f3a7-401e-b48d-f15179bf1196
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: df4f43fa-d7d3-44ca-af9b-ef1d27945679
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Customer: 61 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3945f024-d9f0-4be5-9045-1e6a3cbdd43d
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 61
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 27a121d7-2220-4a81-94c4-1fa76a73a808
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5729caf9-c3ff-4b82-96ea-535a6946ff96
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 28
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1a9b34b0-c5ba-499e-b033-b9d9dff660e5
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d1d4101e-ec8a-4124-b3f6-b7089d1494a6
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 67
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a554fa62-468c-443e-8258-ce0576b1764c
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 71
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2fd15eb2-5e1a-4c3b-ba0d-f70b70feeb9a
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 80
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 897336a3-60d2-4293-bfeb-ed32c9ca04d9
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 58d86382-bf54-4b36-8751-39a938a2c3ca
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 26
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c24b2921-96fb-401b-b767-8e431827e1ef
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 61
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 232dfbb9-159b-4e5f-8abe-d44dc90be5eb
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 42
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 91407c4d-f900-4c23-bb01-44059ff71aed
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 28
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7b5e412b-0529-4097-aad6-449bb9647a70
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 1
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fcf63b25-34dc-49a9-8d8a-46d4813284e3
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Customer: 57 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 59124367-b5dd-4601-bfa2-aa9f98c6af3f
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 42
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 602d4357-a2ed-47fd-ba0b-2d4555e81770
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Customer: 57 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1b359ce5-33a6-4e8a-b3ee-ee96f96d3f28
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 57
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 736bc020-0e5d-47fa-9095-7700a98053fd
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 26
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 075080fc-df48-4739-aa04-a67ebe90c133
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 094aba0a-02df-40cb-977f-1b12227bbf04
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 67
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e0b074dd-766f-4232-afc3-6590dc59c053
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: dab831f7-5e4d-499b-929b-c62cf7305993
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c47ef2d7-efad-4517-aaa9-65c0785c6fb8
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: cdaa2e60-c007-47ef-af27-db9dac88a51f
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 1
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7d0ff7af-4de4-4449-bff3-665e7e1cb6e9
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 43
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 974a9542-9cc7-4f91-8057-d68dc9473f95
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 57
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3fd16bda-c002-41a8-aa0a-bf44f5665ddd
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 6730dd2b-f738-48ad-a5c6-a896cc9451f0
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: a8d66e1e-3bfc-4efc-8f55-105493ff8aa2
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 690db88f-573f-435a-a023-a3679a24c6fb
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 1f6eb842-83d8-432e-9c3c-0addffc4d6ff
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 102b20f3-7a26-4134-87e5-4a4d6a27074f
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: b30479da-5ea5-46d1-bab2-a1c6dcf86f91
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 25
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 381ca9c6-a828-48bc-b6b4-aa46dc2b8fb1
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 43
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 96d3610a-37be-4d9a-912b-f15669b7e9c8
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 92ef8f16-b035-40a8-b38a-42b6cadcd42c
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 49dd90a2-5947-4c03-a68f-01ccd8b71fbb
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: cc8c37b4-be5b-4015-a153-c9398a1a915c
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 44
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c9b714d9-4873-4486-8df9-49200701d32a
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 25
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: cec6af5a-813b-482d-bb03-1eb65cc36049
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 97
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 43fecac6-3c0c-45b2-819c-38c68a8d9d49
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 40
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 6ce1e248-e3b3-4214-a17a-f942cfaba6f7
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f4a8908a-bf8d-4754-9ad6-c55c41d5b662
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 64
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 13522a68-1f47-48ad-a6a4-64f8f24327ac
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 40
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: f38594e2-d8c6-4434-b1e5-5a5100578798
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 1
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8819979b-6694-4a9c-9dc7-6996353a5e7b
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 64
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a367e327-8b7a-4dae-affb-1beac5e96f1e
+
+DATE: Mon Feb 02 09:29:22 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 65
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2e12ac9e-2aa1-457d-aef2-e8f9edc6eaf2
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8b67db3d-3f92-4996-8164-638f42daa5c9
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c631c0f4-34f2-4259-807f-f76846753708
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Customer: 50 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9819dd0a-51bb-45cb-acb0-b4583e9d8d8b
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Customer: 84 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 131ad1db-65b5-4413-8b8c-91bcf84db79a
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8e5f0d1f-b4f3-443e-910c-4d0732f9e3f3
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Customer: 50 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5826783a-3e6f-480d-b418-cea000c63ecd
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5e553c00-e0d4-4105-a730-f4f5da0c1c5d
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 65
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c01cf30d-eb1e-4e88-af8a-bc095691f210
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Customer: 84 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 32d371cc-d33a-4dbc-99f9-dbd50adae7bd
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 84
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7e7d171c-a408-46d3-a31b-93d460e22423
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 97
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d7f209da-f504-44ac-a8ec-aeb91cc7d3c7
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 23
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a539ba31-6cf7-4e1f-984a-1a7bd0ff5302
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 23
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8c3b2614-d3c2-4ff1-b48d-4389a347adfd
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 1
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 34b9e076-1993-4629-84ee-1ad36318a7c8
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 53
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 681f763e-491b-48f8-bf2c-b39f51c47234
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: d61ac0dc-8d21-4484-a49d-ce4a914c66f1
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 91
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 8cdad242-9fec-4557-87fc-36066a810a80
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 46
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1fd0bc65-5233-4cec-a0ab-f7adf142d95f
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f8a61f60-bda6-49b1-9fd3-e0939f31884b
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 80
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 34781971-51fe-40fe-9eb6-15a419f716b4
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 84
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 6f6d8e63-6e79-492f-a435-b64ea1cb5c51
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ecd64587-2376-42c8-841b-ee4692ad5d46
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 91
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 09a1fefe-eae6-49f5-9d3b-aea75eb028fe
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 86
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5fd15499-cfb9-48c9-84a4-2cf03d719d2b
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 53
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3a8d2c48-c5c9-4e32-9618-0a1bf16a90c6
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4184d864-6b4c-4d4f-b7b8-c6e6f1618b82
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 46
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 11536fae-4f89-4705-af42-634d56b9a960
+
+DATE: Mon Feb 02 09:29:28 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 76
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d6f5cab3-eec2-4175-ad09-b829df2bec69
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 80
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8f432a82-5e15-475b-a909-b7865a85727e
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 86
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8cd412c3-9a74-419c-aa8d-5b9efb805a97
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 22
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a641e26e-31c3-4a0a-ade7-18628814ca33
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b49adc95-f977-4c42-b6c7-999f9e938c85
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 31
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 39d80e2b-1bc4-419b-932c-0a2d85b45ab1
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7828a1c0-74e9-4536-9664-3fb51589f3ff
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 31
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3bbebf30-18a8-4632-8683-8b770d555509
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 15
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5aa34880-aaa1-4928-81a6-fdca14164bd6
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Customer: 36 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f5349a89-e009-463d-9bce-359189b5f53c
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 47852e88-f20d-4b99-9597-f9cadb341bbb
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Customer: 36 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ebfefda4-b94d-4315-ad71-a8d18704d2d7
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 36
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f0d760f2-5384-4805-980d-2cb02664a3b6
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 76
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 3dda6ace-48e7-4157-8031-cfb621075913
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 8
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 385c533c-8219-44fd-ac2c-281ea5d20313
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Customer: 6 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fd117264-8e37-4594-b2c9-eea97906a943
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 22
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 56e23585-22eb-4c48-adbe-ad99b79a0203
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Customer: 6 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b0d8fad7-bddd-4926-ba4d-4f47f0eee3a0
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 6
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 215e9745-10ab-4c81-a46b-a0f3a4d5d047
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 62a23568-5962-4f0e-ade3-01d8eece7c3f
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 15
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 718da8e6-f5b9-4a11-b325-eeeb9768b43f
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 53
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 19cbcd11-f08f-4232-b186-731b4595410a
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 75
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 34545683-5afc-4d51-bb96-1fa0eac59cf2
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 36
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 813ab621-b0d1-4e38-8007-13bce3ffb80c
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d4b9b596-2cac-43ca-9b10-2e19748fec9a
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 8
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: ba69093b-31d5-4613-b983-bd0360e1f57a
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 97
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4b286511-81c8-4a52-b20b-11368bc81a0f
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 53
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fab1ed88-8fa0-435f-bc4d-f7246f7d6358
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7763fb56-b2b7-4ad9-984d-a0363e0c690b
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 75
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ab4d54b6-1444-4bcf-84ef-bf1eab0553b1
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1e122a0e-551b-420f-b73e-141d8a99e5f3
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5010fe4a-ed81-437b-b288-fddbb47ede24
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 41
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 61a8d377-536e-48ca-92de-7ef10cf21a44
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 6
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5970bbec-2a2c-4c3c-8993-69407e62e57e
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 28
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f3eeff8a-ea1d-47f1-b7a8-393a4316f359
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3613df54-5190-4d9e-b841-4265bd26c3b4
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 50e30892-25ab-4775-909c-caeb0937994c
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a3936537-2390-4153-9971-73a412abf877
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 41
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 38cb5759-c460-4fcf-948c-021c4a86217e
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 42178710-7467-4796-8584-924b347331a9
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0c26cd8f-4a98-4728-a075-2503fd34047d
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 28
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1f8b5161-72b3-45ba-adba-73089166136e
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4fc79443-886c-4ce9-a271-cada0725d03f
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 44a131c2-040f-41a8-8fb8-4189a4465824
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1eae340f-940d-49c2-a959-190345440ebd
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 13
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 69b29f5e-440d-44d3-b114-b9b2c853584e
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d0f37d7e-fdc8-488d-b1ab-7a70677ac8f4
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 97
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 531f44fe-47fa-4bf6-9537-b677d4d429c3
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 79bfe332-1ba2-4c04-94e5-295536bce60e
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ae74463e-9b52-41a9-bf36-7b40fc302d1c
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 41022758-1f38-452b-81bb-5dd037037540
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 9
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 925d33a8-5259-46e6-87da-bd9a43cbf441
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8d37ff5c-63ec-4a76-b792-415c17e1ede6
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 11
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fc2a0984-7979-457f-8c97-a447e9998911
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2d3b439e-b35f-4003-be44-0b2cba57f4e8
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 13
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e416117c-4bf6-45c1-b9ec-e99ce9a84c42
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 07a5b780-87b8-432b-9673-709c2262bc53
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 59492adc-5256-4368-a677-616d61c3ecb4
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f240a1ac-a2bc-4d6e-9a5c-391b4ff4b799
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e121df04-ed87-4712-8bb6-67c2789995f6
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ed7427bd-9783-4e19-92dc-dc7006e20707
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f5b17bb7-0254-4d9e-8c44-1a21161059bd
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 91
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d4e8fcf2-ddda-4537-bd22-547176f66498
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 66
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: cfb4fd0e-1795-4c58-a9b2-96270794c72e
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 2fb4c9ac-5bba-43e1-b61d-6c3d552ae25c
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 93
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 1b1f64fe-ee07-460a-84c2-0f28dd8e29c0
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 49
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 43342310-222e-411a-ad55-a2012e6207c6
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 87
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 263db68d-699a-440e-8eea-46de11c54d3f
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fa76f5c4-50ff-4b97-9bc1-c5a6764c3aa4
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 49
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: a6d1f71e-ffce-4f3a-91ca-a0268096bec9
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 562b19c5-d5d9-492d-adda-c3592e1f4b95
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 91
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 59643dc1-ca05-419e-868a-936b4e44221e
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 55
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 54ae15e6-44be-467b-a7f5-24fcf0aa2d7d
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d8447900-2a34-4a6a-a1a7-75893d589cf8
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 37
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ca942eaa-fdea-491d-804b-85c2b4167c2c
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 10
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 51ca4306-bea3-42d5-8b8a-0a243ee65c4c
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 69
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0d2cae46-be33-4c22-85a7-daf2fec3a25b
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4a88ddc2-87b0-4534-bf27-21293b42c579
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c5e63646-2e7b-4c28-b270-2498f7a30a44
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 93
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9ed0c59a-b30c-464e-9552-b2cf708393bc
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: de2aa8cc-c53e-4f60-b97c-c17cce19c7af
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 37
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: eb4dfc9c-9515-4950-8f9f-d61b8e95b9a2
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 63
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3cc6888d-f796-4dab-a82f-b16cb2bc184e
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 18
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 28f9da23-e8a5-48f6-88fb-246af96c3e53
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 10b46ea3-5b53-4433-bbdb-511c625e95fd
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 69
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: ed2968d3-5e52-4cd1-b7ef-caf173ed0c12
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 19
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2a227379-98be-4483-8221-d2a1fb590c20
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 55
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 48642e44-a6d1-4d4d-a924-0ebda2a5d73a
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 32
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b501cafc-ee62-419b-8c94-921690cd1773
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9c9a18b0-4a77-4ca4-8adb-40dd393a6dd3
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 43
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: aabbb98b-a9be-41b1-b1a3-51d66a56c7c6
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 63
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0a12e97c-f3da-4d12-8e4d-421fa555a324
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 82
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9a977774-22fc-484f-a16d-80c47a99e4ea
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Customer: 42 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 735950b1-ebd3-4774-b080-affd3090b001
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 32
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b80899c1-59eb-4a83-a41e-4b3626d28649
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Customer: 42 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2a4c010d-b9ed-483f-8c59-4035a0c1237d
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 42
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c554d17d-ea18-4942-904d-01d1154ad18a
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 43
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e67ff5bf-a4b3-46eb-8355-bf64f12c3ec1
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8b36bb0d-f633-4d1d-a25c-96a5c976a916
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Customer: 71 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: fde18619-607b-44ac-ab38-1d9f80505191
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Customer: 60 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 59875a4d-5f26-42a8-a2cf-ad203e6c2381
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 82
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d838e1e8-5247-428e-8035-9f6c87cc2f42
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Customer: 71 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 85dfc010-342d-4970-97b6-e77d57d389aa
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 71
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c479d044-6c3d-4f8c-bdf6-3d8ba45ec9e0
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 79
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0104c8de-11d3-4a20-9014-bc57fc692963
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Customer: 60 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ec6ef59e-36cb-48fe-a1dd-6020a7b03627
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8dc9428d-a19f-4713-88b8-a257fddeea8c
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 19
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: d56a57f4-5ad9-4589-9828-f2f5af72a83a
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5959459f-ffcb-4b6f-9915-22ac97a1532a
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 42
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d48819bb-e00f-49df-81b2-a6bd950745b0
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 0
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a37f08d7-ec2e-4c5f-8c29-d3bfef8041ac
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 59
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4811c43c-2f2f-4d42-be70-b3f35e758696
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 15
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5dbe6992-8054-49c5-9090-4515304f34c0
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 83
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: b8b3bdab-7e78-4c69-abff-0768ce5a2fb1
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 98
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9f660890-753f-4054-954e-e476c8087a14
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 0
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 14004593-7a23-4a63-860c-aed8e3d22933
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 88a77a54-753a-47a0-852f-757fa233b698
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 60
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: a3462655-3a41-4377-909b-a08799a0cdf7
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 70
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1cfdd988-7ebb-49c7-be27-bd2ae9bb20bf
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 15
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f6bb5150-5919-4252-a13c-e68018a1d744
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1ace63bd-3915-418b-acbf-6a7d2d48f4c6
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 71
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: c8cdd3e3-404b-4318-bbac-7e0f32a6fa11
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 08d6d4b6-dd59-4848-b304-5a53059af324
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 50
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 0748a82c-c36b-43fa-8bdd-4965f0030ad9
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 92
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b12218f5-6e1a-4f02-8ec5-f56d8738d39b
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: dd7c19c4-58f5-4460-8ff7-16da10cb5868
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e21d743f-21fe-46e0-93e6-42cceb748123
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Customer: 96 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: b3a64e39-aa60-48b9-894b-b5bab9c64362
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Customer: 54 is in a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ae56bf22-9938-4d24-bd07-7d2891ce5712
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 70
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 2dede5d2-9135-4798-ab76-b53e1760bcc8
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Customer: 96 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: eb04c5a6-32b6-49c8-b046-a3d354190b26
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8ba294ef-a3bb-4640-b732-9e53cd3a1e37
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 98
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 4cc37384-8e67-4baa-98e0-b402cce46103
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Customer: 54 has finished a queue at Rent-A-Wreck!
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: f27191b2-5eb1-41c8-9c05-c01310a27a8a
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1b15d515-cba1-4941-ae4a-0d7cf883905b
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 14
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 4bf92b72-6d11-4e53-9687-ca6e751f610d
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 5
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: f2cfba09-e589-4695-a1cf-94cc952c2e25
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 77
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: d87f9019-7f95-493d-91bb-8f640a234f9b
+
+DATE: Mon Feb 02 09:29:54 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 65
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 7adb768d-4d4d-4232-b9fa-bb0878e60125
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 94
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 3b3360dc-0e19-4b35-b762-fab6774cb0da
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 6e281715-0e48-4b37-b3ed-931d52491d1d
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 5
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 591382d8-4e70-42c1-b0f9-c8df352e6209
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: bce55248-0933-42aa-9e93-51ebbb9bfe85
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 96
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9867b7e9-2742-4dc6-9447-e3255252edc7
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 57
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 464c8dfd-72d5-4883-bacd-528ac204c8ec
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 54
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: c472e98d-342c-470c-94f5-ae1fc262d6ad
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 8036b9d5-1481-4903-a92c-3bac8f41b0e2
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 58
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e04e4444-36bb-49c6-89ed-ccdcb4a1a583
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5d524dd0-fa5a-4383-9e7f-602b7dbf8382
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 65
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 5ac290c3-1eeb-4c5b-aa36-2ac4ed24a325
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Lease of: Rent-A-Wreck-> CC222222: Leased
+Leased to: Customer: 40
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: cc8e44db-6bff-4f75-8d48-ad909b106fcd
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 20
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 1547d7dd-954f-4591-9802-6db6febaabfb
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Rent-A-Wreck-> DD999999: Availible
+Delivered from: Customer: 57
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: ac62ec0f-295d-47ca-aa27-620d501e5802
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 62
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 0a52ced7-755d-409e-9093-e8e15e226122
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Lease of: Rent-A-Wreck-> BB111111: Leased
+Leased to: Customer: 17
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Availible
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 26203d2e-5811-4c53-b8a9-9c188697bff2
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Rent-A-Wreck-> DD999999: Leased
+Leased to: Customer: 27
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: ac8d5a34-6eef-4bea-90b2-6a4af06da85a
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 24
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 994ef7b8-18fe-436d-940b-94d0b237aae8
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Rent-A-Wreck-> AA000000: Leased
+Leased to: Customer: 47
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 7fe0d026-af54-4fcb-9741-aeb95fc99d91
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Rent-A-Wreck-> EE888888: Leased
+Leased to: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Leased
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 18476afc-f2e8-4458-bf6c-13e73ba539ce
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> CC222222: Availible
+Delivered from: Customer: 40
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Leased
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: 9a9bab9b-8a90-4145-8caf-233404fed393
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> AA000000: Availible
+Delivered from: Customer: 47
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Leased
+******* Status for Rent-A-Wreck ********
+
+LOG: e2f0571c-c491-463d-a0fb-ed9389b0a85f
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> EE888888: Availible
+Delivered from: Customer: 73
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Leased
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********
+
+LOG: 09414868-0ef2-4aef-aaa8-0efaa54452eb
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Rent-A-Wreck-> BB111111: Availible
+Delivered from: Customer: 17
+
+******* Status for Rent-A-Wreck ********
+* Rent-A-Wreck-> AA000000: Availible
+* Rent-A-Wreck-> BB111111: Availible
+* Rent-A-Wreck-> CC222222: Availible
+* Rent-A-Wreck-> DD999999: Leased
+* Rent-A-Wreck-> EE888888: Availible
+******* Status for Rent-A-Wreck ********

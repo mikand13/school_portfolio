@@ -1,0 +1,63 @@
+/* Notice to user when nothing is stored */
+"ClickSearchToStart" = "Klikk på \"Søk IMDb\" øverst til høyre for å begynne!";
+
+/* Title for the do a search alert */
+"DoASeach" = "Gjør et søk!";
+
+/* Instructions for first search */
+"DoASearchInstructions" = "Klikk på søk ikonet øverst til høyre for å begynne!";
+
+/* Notice of empty reviewfield */
+"EmptyReview" = "Du har ikke enda registrert en anmeldelse!";
+
+/* ImdbEntities as Episodes in plural form */
+"EpisodesName" = "Episoder";
+
+/* Title on OMDB error alert */
+"ExternalErrorOMDB" = "Ekstern feil OMDB";
+
+/* Notice on alert for external error in OMDB on imdbfetch */
+"ExternalErrorOMDBDescription" = "Beklager, det ser ut til å skjedd en feil i OMDB APIet.";
+
+/* Notice on loadingwheel for imdbfetch */
+"FetchFromIMDbNotice" = "Henter fra IMDb...";
+
+/* ImdbEntities as Games in plural form */
+"GamesName" = "Spill";
+
+/* Formatted string for hours and minutes */
+"HoursAndMinutes" = "0.f timer og 0.f minutter";
+
+/* ImdbEntities as Movies in plural form */
+"MoviesName" = "Filmer";
+
+/* Title on no connection alert */
+"NoConnection" = "Ingen forbindelse!";
+
+/* Notice on alert for no internet on imdbfetch */
+"NoConnectionDescription" = "Er du sikker på at du er koblet til Internet?";
+
+/* Title on no hits alert */
+"NoResults" = "Ingen treff!";
+
+/* Notice on alert for no hits on imdbfetch */
+"NoResultsDescription" = "Vennligst prøv et annerledes søk...";
+
+/* Title on no title alert for searchform */
+"NoTitle" = "Ingen tittel!";
+
+/* Notice on no title alert for searchform */
+"NoTitleDescription" = "Vennligst skriv inn en tittel!";
+
+/* When nothing is stored in user lib. */
+"NothingStored" = "Ingenting er lagret!";
+
+/* ImdbEntities as Series in plural form */
+"SeriesName" = "Serier";
+
+/* Title on wrong year format alert for searchform */
+"WrongYearFormat" = "Årstallet er i feil format!";
+
+/* Notice on wrong year alert for searchform */
+"WrongYearFormatDescription" = "Vennligst skriv inn et år...";
+

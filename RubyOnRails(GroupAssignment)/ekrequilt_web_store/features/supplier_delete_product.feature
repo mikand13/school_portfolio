@@ -1,0 +1,1 @@
+Feature: As a supplier I want to be able to delete my products, so I can remove my products that are out of production.

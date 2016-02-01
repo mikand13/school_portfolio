@@ -1,0 +1,11 @@
+$('#sign-in-modal').foundation('reveal', 'close');
+$('#main_window').html("<%= escape_javascript(render partial: 'welcome/index', locals: { resource: resource }) %>");
+<%= render partial: 'layouts/status' %>
+
+$(document).ajaxComplete(function(event, xhr, settings) {
+    var csrf_token = xhr.getResponseHeader('X-CSRF-Token');
+
+    if (csrf_token) {
+        $('meta[name="csrf-token"]').attr('content', csrf_token);
+    }
+});

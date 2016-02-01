@@ -1,0 +1,5 @@
+<section>
+    <p><%= t('welcome') %><%= @email %>!</p>
+    <p><%= t('confirmation_instructions_html') %></p>
+    <p><%= link_to t('confirm_my_account'), confirmation_url(@resource, confirmation_token: @token) %></p>
+</section>

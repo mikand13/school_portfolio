@@ -1,0 +1,1 @@
+rake test && cucumber features/ && rake stats

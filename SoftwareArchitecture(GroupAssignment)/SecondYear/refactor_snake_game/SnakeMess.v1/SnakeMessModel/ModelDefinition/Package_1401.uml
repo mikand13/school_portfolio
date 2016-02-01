@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm9="http://schemas.microsoft.com/dsltools/UseCaseModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="dbb4bf71-9e11-4509-803b-d251c155a264"
+  name="SnakeMess.Driver" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="5f5a685f-028d-4ad0-bb0f-c316b9bd7d7a"
+        name="StartupManager"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <targetEnds>
+          <association
+            Id="030e71a4-2ee7-49d7-9c4a-832badd27776"
+            isDerived="false"
+            sourceEndRoleName="StartupManager"
+            targetEndRoleName="GameManager"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="b4a1b737-12f4-4905-bb64-2ec23188f04e"
+              LastKnownName="GameManager"
+              LastKnownLocation="Package_1241.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="6c5a9f2a-ebaf-4899-ac36-9e3229fcc25e"
+                  name="StartupManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="bd7bd8d5-9efd-4056-8767-a00cec5d77f2"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="b4030505-fae0-4244-a0b7-ae20b2ff4baf"
+            isDerived="false"
+            sourceEndRoleName="StartupManager"
+            targetEndRoleName="SnakePit"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="41d7289c-0d95-4613-857d-f84e9264e4bc"
+              LastKnownName="SnakePit"
+              LastKnownLocation="Package_1243.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="e55cb28c-5025-4c3a-ac54-3062b887a262"
+                  name="StartupManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="3011f30a-0b7f-472a-9c8c-4cf90c64047f"
+                  name="SnakePit"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <ownedOperationsInternal>
+          <operation
+            Id="dac483db-df15-4de5-aaca-dc6aee8f86f2"
+            name="Main"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="70f0bef2-2932-4b7e-8746-2561d4c3aebf"
+                  direction="Return"
+                  isUnique="false">
+                  <type_NamedElement>
+                    <undefinedTypeMoniker
+                      Id="7662210e-97fe-46c6-9fbb-af26df1c6d55"
+                      LastKnownName="void"
+                      LastKnownLocation="Package_1241.uml" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

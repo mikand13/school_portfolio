@@ -1,0 +1,63 @@
+Assignment 2 2015 Advanced Java Programming 2 PG4100-14 Westerdals
+
+Code Style:
+
+I generally use Google Java Style and i prefer the 100 char width for code.
+
+Design and implementation process:
+
+So welcome to my as usual completely overengineered assignment. I'm first gonna run through some
+of my additions. I decided to make the server into an application server with a greeter instead
+of a specialized quizserver. Mostly for the challenge of setting it up like that. I have also
+added the logger from the last assignment to provide debugging and to make a small options
+console on the serverside. This console also supplies a way to shutdown the server, reasonably safe.
+
+My SQL handling is a modified and slimmed down version of my SQL handling from last semester.
+
+So as i've already mentioned I envisioned an application server which could easily be expanded
+with new applications. I believe i have succeeded in this. If you want to add another application
+now you simply do so by making an appropriate model for it and adding a doApplication() method in
+the ClientGreeter to start up the application following the procedure that is easily visible in
+the other models. The independent reader and writers in the client should be able to handle most
+basic applications.
+
+The supplied Javadocs and UMLS should be sufficient to understand my idea, before looking at the
+implementation. I used the UMLS as a guideline for my implementation and did some changes along
+the way, mostly in the way the server and user communicated.
+
+I have spent quite some time trying to make these applications robust and handling any and all
+exceptions I could think of. This might make the code look a bit ugly but it sure does run well!
+
+In the beggining i had a very strict policy between the server and client with a kind of give and
+take approach. Eventually I changed it to use a thread in the ApplicationClient that reads the
+server and launches a responseevent for the user whenever the server ends its output. I think
+this is a cleaner approach. So when my reader quits its loops because the server signifies Exit
+it will terminate and join with the main ApplicationClient thread which will then clean up and
+close. The user will then be prompted to end his application. I considered doing like i did in
+the ServerOptionsController so the user application will end itself without blocking on scanner
+but in the end I think its better for the user to be prompted that the application is closed so
+he knows whats going on.
+
+I have also managed to isolate the Client from any classes the Server uses so it is entirely
+standalone.
+
+Tests:
+
+Mostly based on business logic. I also have some tests that iterate through the server
+communication to see that everything works the way it should. I dont make my own test db this
+time around because the dbhandler is not capable of doing mallable code on the db so it is in
+other words "safe".
+
+I do however test on a different port than production so that you can test and run the server
+side by side.
+
+You will probably find some things are lacking in the testing, like f.ex the shutdown of the
+server but as that was not part of the assignment i didnt focus on it.
+
+Textfiles:
+
+Log output from server is output to root folder.
+
+Anders Mikkelsen
+
+Video: https://www.youtube.com/watch?v=paov5xoUEak

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <ui:composition template="../template.xhtml">
+        <ui:define name="content">
+            <h:form>
+                <h:outputLabel for="name" value="Name:"/>
+                <h:inputText id="name" label="Name" required="true" value="#{subjectController.subject.name}"/>
+                <p:message for="name" style="color: red" />
+                <br/>
+
+                <h:outputLabel for="location" value="Location:"/>
+                <h:selectOneMenu id="location" label="Location" required="true" value="#{subjectController.locationId}">
+                    <f:selectItems var="location" value="#{subjectController.getLocations()}"/>
+                </h:selectOneMenu>
+                <p:message for="location" style="color: red" />
+                <br/>
+
+                <h:outputLabel for="users" value="Users:"/>
+                <h:selectManyCheckbox id="users" label="Users" value="#{subjectController.userIds}">
+                    <f:selectItems value="#{subjectController.getUsers()}" />
+                </h:selectManyCheckbox>
+                <p:message for="users" style="color: red" />
+                <br/>
+
+                <h:commandButton value="Submit" action="#{subjectController.create()}"/>
+            </h:form>
+        </ui:define>
+    </ui:composition>
+</html>

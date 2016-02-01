@@ -1,0 +1,116 @@
+en:
+  buy: Add to quiltbag
+  order_error: An error occured, order cancelled.
+  order_completed: Order completed!
+  continue_shopping: Continue shopping
+  checkout: Checkout
+  back: Back
+  send: Send
+  abort: Abort
+  new_order: New Order
+  confirm_order: Confirm Order
+  products:
+    title: Listing Products
+    category: Category
+    sub_category: Subcategory
+  cart:
+    total: "Total:"
+    no_line_items_in_cart: "You have zero items in your quiltbag!"
+    name: "Quiltbag"
+    product: "Product"
+    quantity: "Qty"
+    unit_price: "Price per unit"
+    full_price: "Full price"
+    currency: "USD"
+  admin_page: Admin
+  store_manager_page: Store Manager
+  devise:
+    login: Login
+    log_out: Log out
+    confirmations:
+      resend_confirmation: "Resend confirmation mail"
+      no_confirmation: "Not received confirmation mail?"
+      resend_confirmation_form: "Send confirmation mail"
+      account_confirmation: "Account confirmation"
+      first_name: "First name:"
+      last_name: "Last name:"
+      choose_password: "Choose a password:"
+      password_confirmation: "Repeat password:"
+    registrations:
+      sign_up: "Register"
+      do_sign_up: "Register"
+      delete_account: "Delete my account"
+      current_password: "(we need your current password to confirm changes)"
+      leave_empty_if_no_change: "(leave empty if you dont wish to change)"
+      awaiting_confirmation: "Awaiting confirmation for:"
+    passwords:
+      forgotten: "Forgot your password?"
+      change_password: "Change your password"
+      new_password: "New password"
+      forgotte_password: "Forgotten your password?"
+      reset: "Send reset email"
+    failure:
+      locked_link:
+        no_mail: "Not received unlock instructions?"
+    login_with: "Login with"
+    confirm: "Confirm"
+  edit: "Edit"
+  update: "Update"
+  account_confirmation: "Account confirmation"
+  first_name: "First name:"
+  order:
+    show:
+      first_name: "First name:"
+      last_name: "Last name:"
+      sum: "Sum:"
+    prohibited: "prohited this order from being completed."
+  order_cost: Ordered for
+  uri_hack: "Ikke hack uri'en!"
+  empty_quiltbag: "Empty quiltbag"
+  users:
+    name: "Name: "
+    street: "Street: "
+    city: "City: "
+    zip: "Zip: "
+    country: "Country: "
+    cancel_order: "Cancel order"
+    orders:
+      number_of_items: "Line items:"
+      total_price: "Total price:"
+      status: "Status:"
+      purchased_at: "Order placed:"
+      closed_at: "Processed:"
+      your_orders: "Your orders"
+      number: "Ordernumber:"
+      transactions:
+        number: "Transaction number:"
+        name: "Transactions"
+      transations:
+        created: "Processed:"
+      action: "Action:"
+  orders:
+    confirm: "Confirm purchase of the following items:"
+  mypage: "My page"
+  activerecord:
+    attributes:
+      product_category:
+        name: "Category"
+  unsubscribe_from_newsletter: "Click to unsubscribe from newsletter"
+  subscribe_to_newsletter: "Subscribe to newsletter"
+  root: "Ekrequilt"
+  address: Address
+  fourotwo: "Oops, a 422 error occured!"
+  fourofour: "Oops, a 404 error occured!"
+  fivehundred: "Oops, a 500 error occured!"
+  try_again: "Try again!"
+  address: Address
+  items_sold: Quantity sold
+  confirm_order: Confirm order
+  cancel_order: Cancel order
+  refund_order: Refund order
+  email_cannot_be_blank: "Email cannot be blank"
+  user:
+    change_password: "Change password"
+    administer_account: "Administer account"
+  cancel_account: "Cancel account:"
+  authorize_order: "Authorize Order"

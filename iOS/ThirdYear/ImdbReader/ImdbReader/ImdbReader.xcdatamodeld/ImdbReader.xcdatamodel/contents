@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="14F27" minimumToolsVersion="Automatic">
+    <entity name="Actor" representedClassName=".Actor" parentEntity="Person" syncable="YES">
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="actors" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <entity name="Country" representedClassName=".Country" parentEntity="Nameable" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="countries" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <entity name="Director" representedClassName=".Director" parentEntity="Person" syncable="YES">
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="directors" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <entity name="Episode" representedClassName=".Episode" parentEntity="ImdbEntity" syncable="YES">
+        <attribute name="episodeNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="season" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="seriesImdbId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="series" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Series" inverseName="episodes" inverseEntity="Series" syncable="YES"/>
+    </entity>
+    <entity name="Game" representedClassName=".Game" parentEntity="ImdbEntity" syncable="YES"/>
+    <entity name="Genre" representedClassName=".Genre" parentEntity="Nameable" syncable="YES">
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="genres" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <entity name="ImdbEntity" representedClassName="ImdbEntity" isAbstract="YES" syncable="YES">
+        <attribute name="awards" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imdbId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imdbRating" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="imdbVotes" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="metascore" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="plot" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="posterUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rated" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="released" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="review" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="runtimeMinutes" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userRating" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="year" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="actors" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Actor" inverseName="imdbEntities" inverseEntity="Actor" syncable="YES"/>
+        <relationship name="countries" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Country" inverseName="imdbEntities" inverseEntity="Country" syncable="YES"/>
+        <relationship name="directors" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Director" inverseName="imdbEntities" inverseEntity="Director" syncable="YES"/>
+        <relationship name="genres" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Genre" inverseName="imdbEntities" inverseEntity="Genre" syncable="YES"/>
+        <relationship name="languages" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Language" inverseName="imdbEntities" inverseEntity="Language" syncable="YES"/>
+        <relationship name="writers" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Writer" inverseName="imdbEntities" inverseEntity="Writer" syncable="YES"/>
+    </entity>
+    <entity name="Language" representedClassName=".Language" parentEntity="Nameable" syncable="YES">
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="languages" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <entity name="Movie" representedClassName=".Movie" parentEntity="ImdbEntity" syncable="YES"/>
+    <entity name="Nameable" representedClassName=".Nameable" isAbstract="YES" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Person" representedClassName=".Person" isAbstract="YES" parentEntity="Nameable" syncable="YES"/>
+    <entity name="Series" representedClassName=".Series" parentEntity="ImdbEntity" syncable="YES">
+        <relationship name="episodes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Episode" inverseName="series" inverseEntity="Episode" syncable="YES"/>
+    </entity>
+    <entity name="Writer" representedClassName=".Writer" parentEntity="Person" syncable="YES">
+        <relationship name="imdbEntities" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ImdbEntity" inverseName="writers" inverseEntity="ImdbEntity" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Actor" positionX="106" positionY="-351" width="128" height="60"/>
+        <element name="Country" positionX="-0" positionY="216" width="128" height="75"/>
+        <element name="Director" positionX="340" positionY="-355" width="128" height="60"/>
+        <element name="Episode" positionX="313" positionY="278" width="128" height="105"/>
+        <element name="Game" positionX="90" positionY="-342" width="128" height="45"/>
+        <element name="Genre" positionX="448" positionY="-279" width="128" height="60"/>
+        <element name="ImdbEntity" positionX="72" positionY="-162" width="207" height="345"/>
+        <element name="Language" positionX="502" positionY="-189" width="128" height="60"/>
+        <element name="Movie" positionX="169" positionY="239" width="128" height="45"/>
+        <element name="Nameable" positionX="90" positionY="-342" width="128" height="60"/>
+        <element name="Person" positionX="70" positionY="-486" width="128" height="45"/>
+        <element name="Series" positionX="72" positionY="323" width="128" height="58"/>
+        <element name="Writer" positionX="-108" positionY="-288" width="128" height="60"/>
+    </elements>
+</model>

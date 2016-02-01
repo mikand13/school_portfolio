@@ -1,0 +1,9 @@
+en:
+  active_admin:
+    products:
+      created_at: Opprettet %{date}
+      all: All
+      in_stock: In stock
+      out_of_stock: Out of stock
+  newsletter_sent: "Newsletter sent!"
+  newsletter: "Newsletter"

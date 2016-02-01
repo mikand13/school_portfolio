@@ -1,0 +1,80 @@
+Dr. Memory version 1.8.1 build 0 built on Feb 17 2015 19:08:31
+Dr. Memory results for pid 1156: "Breakout.exe"
+Application cmdline: "C:\Users\Anders\Documents\SkolearbeidNITH\PG4400\Assignment1\Release\Breakout.exe"
+Recorded 108 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin\suppress-default.txt
+
+Error #1: UNINITIALIZED READ: reading 1 byte(s)
+GameManager::CheckForKeysIntro
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(354):
+GameManager::RunGameLoop
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(78):
+SDL_main    
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\main.cpp(6):
+WinMain     
+    x:\projects\sdl\src\main\windows\sdl_windows_main.c(177):
+
+Error #2: UNINITIALIZED READ: reading 1 byte(s)
+GameManager::CheckForKeysInitAndRunning
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(373):
+GameManager::RunGameLoop
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(83):
+SDL_main    
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\main.cpp(6):
+WinMain     
+    x:\projects\sdl\src\main\windows\sdl_windows_main.c(177):
+
+Error #3: UNINITIALIZED READ: reading 1 byte(s)
+GameManager::CheckPlayerMovement
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(386):
+PlayerMovementComponent::Update
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\playermovementcomponent.cpp(14):
+GameManager::IterateComponents
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(295):
+GameManager::RunGameLoop
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(85):
+SDL_main    
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\main.cpp(6):
+WinMain     
+    x:\projects\sdl\src\main\windows\sdl_windows_main.c(177):
+
+Error #4: UNINITIALIZED READ: reading 1 byte(s)
+GameManager::CheckPlayerMovement
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(391):
+PlayerMovementComponent::Update
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\playermovementcomponent.cpp(14):
+GameManager::IterateComponents
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(295):
+GameManager::RunGameLoop
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(85):
+SDL_main    
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\main.cpp(6):
+WinMain     
+    x:\projects\sdl\src\main\windows\sdl_windows_main.c(177):
+
+Error #5: UNINITIALIZED READ: reading 1 byte(s)
+GameManager::CheckForKeysInitAndRunning
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(366):
+GameManager::RunGameLoop
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\gamemanager.cpp(83):
+SDL_main    
+    c:\users\anders\documents\skolearbeidnith\pg4400\assignment1\breakout\main.cpp(6):
+WinMain     
+    x:\projects\sdl\src\main\windows\sdl_windows_main.c(177):
+
+===========================================================================
+FINAL SUMMARY:
+
+DUPLICATE ERROR COUNTS:
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+      0 unique,     0 total unaddressable access(es)
+      5 unique,     5 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+      0 unique,     0 total,      0 byte(s) of leak(s)
+      0 unique,     0 total,      0 byte(s) of possible leak(s)
+Details: C:\Users\Anders\AppData\Roaming\Dr. Memory\DrMemory-Breakout.exe.1156.000\results.txt

@@ -1,0 +1,57 @@
+\hypertarget{class_collision_manager}{}\section{Collision\+Manager Class Reference}
+\label{class_collision_manager}\index{Collision\+Manager@{Collision\+Manager}}
+
+
+This header file declares the \hyperlink{class_collision_manager}{Collision\+Manager} for my game.  
+
+
+
+
+{\ttfamily \#include $<$Collision\+Manager.\+h$>$}
+
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_collision_manager_a41e4913345084ce048c9c8ad96bdeafe}{}typedef std\+::unique\+\_\+ptr$<$ std\+::vector$<$ std\+::shared\+\_\+ptr$<$ \hyperlink{class_collision}{Collision} $>$ $>$ $>$ {\bfseries vector\+\_\+of\+\_\+collisions}\label{class_collision_manager_a41e4913345084ce048c9c8ad96bdeafe}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_collision_manager_a8080db3a454be3b32505713bc6c3b1b3}{}void {\bfseries Add\+Game\+Object\+To\+Collision\+Grid} (\hyperlink{class_game_object}{Game\+Object} \&go)\label{class_collision_manager_a8080db3a454be3b32505713bc6c3b1b3}
+
+\item 
+\hypertarget{class_collision_manager_aa58022d2f80eb264c6f66e92a7209cf8}{}void {\bfseries Update\+Game\+Object\+Position} (\hyperlink{class_game_object}{Game\+Object} \&go)\label{class_collision_manager_aa58022d2f80eb264c6f66e92a7209cf8}
+
+\item 
+\hypertarget{class_collision_manager_ac1b05ae3761a90c75820edece9c7f938}{}void {\bfseries Remove\+Game\+Object\+From\+Collision\+Grid} (\hyperlink{class_game_object}{Game\+Object} \&go)\label{class_collision_manager_ac1b05ae3761a90c75820edece9c7f938}
+
+\item 
+\hypertarget{class_collision_manager_adb6ac040ca57dd43a1cff9e04ab3ab9d}{}vector\+\_\+of\+\_\+collisions {\bfseries Check\+For\+Collisions} (const \hyperlink{class_game_object}{Game\+Object} \&go)\label{class_collision_manager_adb6ac040ca57dd43a1cff9e04ab3ab9d}
+
+\item 
+\hypertarget{class_collision_manager_a3b1e3278a8aa71146b3cbb83e8f88d6b}{}void {\bfseries Clean\+Up} ()\label{class_collision_manager_a3b1e3278a8aa71146b3cbb83e8f88d6b}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the \hyperlink{class_collision_manager}{Collision\+Manager} for my game. 
+
+It uses a spatial partitioning grid and checks single objects against it. It\textquotesingle{}s is designed to only be sent movables every frame. That compared with a spatial partioning grid and a simple Bounding\+Box collision detection gives great performance!
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Collision\+Manager.\+h\item 
+Collision\+Manager.\+cpp\end{DoxyCompactItemize}

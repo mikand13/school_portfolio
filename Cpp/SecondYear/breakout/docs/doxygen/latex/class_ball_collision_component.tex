@@ -1,0 +1,69 @@
+\hypertarget{class_ball_collision_component}{}\section{Ball\+Collision\+Component Class Reference}
+\label{class_ball_collision_component}\index{Ball\+Collision\+Component@{Ball\+Collision\+Component}}
+
+
+This header file declares the component used for handling collisions in the \hyperlink{class_ball}{Ball} \hyperlink{class_game_object}{Game\+Object}.  
+
+
+
+
+{\ttfamily \#include $<$Ball\+Collision\+Component.\+h$>$}
+
+Inheritance diagram for Ball\+Collision\+Component\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=4.000000cm]{class_ball_collision_component}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_ball_collision_component_a89716dc3b14195064f1ba82c1b59f5bb}{}{\bfseries Ball\+Collision\+Component} (\hyperlink{class_game_object}{Game\+Object} $\ast$const go)\label{class_ball_collision_component_a89716dc3b14195064f1ba82c1b59f5bb}
+
+\item 
+\hypertarget{class_ball_collision_component_a39e998b01d44fedb05e908a6f10e7202}{}void {\bfseries Update} () override\label{class_ball_collision_component_a39e998b01d44fedb05e908a6f10e7202}
+
+\item 
+\hypertarget{class_ball_collision_component_a51ce8485efacd4da61692b79a7d9a87c}{}void {\bfseries Handle\+Collision} (const \hyperlink{class_game_object}{Game\+Object} \&collidee) override\label{class_ball_collision_component_a51ce8485efacd4da61692b79a7d9a87c}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_ball_collision_component_a9837dc881118a8301c12fe3e84eef29c}{}void {\bfseries Handle\+Player\+Collision} (const \hyperlink{class_player}{Player} \&collidee)\label{class_ball_collision_component_a9837dc881118a8301c12fe3e84eef29c}
+
+\item 
+\hypertarget{class_ball_collision_component_a1f582b16fc10e8c23245ce6a204c316d}{}void {\bfseries Handle\+Brick\+Collision} (const \hyperlink{class_brick}{Brick} \&collidee)\label{class_ball_collision_component_a1f582b16fc10e8c23245ce6a204c316d}
+
+\item 
+\hypertarget{class_ball_collision_component_a609fe70bf85ba2c9b28d2812cc036892}{}bool {\bfseries Check\+For\+Wall\+Collision} ()\label{class_ball_collision_component_a609fe70bf85ba2c9b28d2812cc036892}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_ball_collision_component_a0dbf72b26b0ee1311f94fb3aae543f98}{}\hyperlink{class_ball}{Ball} $\ast$ {\bfseries ball\+\_\+}\label{class_ball_collision_component_a0dbf72b26b0ee1311f94fb3aae543f98}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the component used for handling collisions in the \hyperlink{class_ball}{Ball} \hyperlink{class_game_object}{Game\+Object}. 
+
+It is updated every frame and is called by Handle\+Collision if involved in a collision.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Ball\+Collision\+Component.\+h\item 
+Ball\+Collision\+Component.\+cpp\end{DoxyCompactItemize}

@@ -1,0 +1,3 @@
+module ActiveAdmin::UsersHelper
+
+end

@@ -1,0 +1,11 @@
+<section class="row forms large-4 large-centered columns">
+  <fieldset>
+    <% if @order.express_token.blank? %>
+        <legend><%= t('new_order') %></legend>
+    <% else %>
+        <legend><%= t('confirm_order') %></legend>
+    <% end %>
+
+    <%= render 'form' %>
+  </fieldset>
+</section>

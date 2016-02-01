@@ -1,0 +1,71 @@
+<header>
+  <div class="row">
+    <hr>
+    <div class="category">
+      <div class="category_smallScreen">
+        <%= link_to '#categoryExpand' do %>
+            Category
+            <!--<%= image_tag 'http://alexandstein.com/resources/images/icons/hamburger.png', alt: 'Menu', height: 60, width: 60 %>-->
+        <% end %>
+      </div>
+      <div class="large-12 columns">
+        <nav class="top-bar">
+          <section class="top-bar-section" data-topbar data-options="navigation">
+
+            <ul class="right">
+              <% ProductCategory.all.each do |pc| %>
+                  <li>
+                    <%= link_to products_path(category: pc.id), remote: true do %>
+                        <span class="link-border-bottom"><%= pc.name %></span>
+                    <% end %>
+                  </li>
+              <% end %>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    <hr>
+  </div>
+</header>
+
+<div class="contain-to-grid fixed">
+  <nav class="top-bar-stuff" data-topbar data-options="sticky_on: large" role="navigation">
+    <div class="logo-details">
+      <%= link_to root_path, id: 'logo', remote: true do %>
+          <%= image_tag 'http://globalplanit.ca/wp-content/uploads/2013/06/client-logo-placeholder.png' %>
+      <% end %>
+    </div>
+
+    <div class="search-form-search">
+      <%= form_tag products_path, class: 'form-inline', id: 'search-field', method: :get, remote: true do %>
+          <%= text_field_tag :search, params[:search], placeholder: 'Search stuffs' %>
+          <input type="submit" value="Search" class="action-btn accent-text" name="submit" id="search-submit">
+      <% end %>
+    </div>
+
+    <div class="menu">
+      <div class="menuIcon">
+        <%= link_to '#menuExpand' do %>
+            <%= image_tag 'http://alexandstein.com/resources/images/icons/hamburger.png', alt: 'Menu', height: 60, width: 60 %>
+        <% end %>
+      </div>
+      <div id="status_buttons" class="links">
+        <%= render partial: 'layouts/status_buttons' %>
+      </div>
+    </div>
+  </nav>
+</div>
+
+<%= render partial: 'users_sessions/sign_in_modal' %>
+
+<div id="message" class="forms large-8 large-centered columns">
+  <% if controller.request.format.html? %>
+      <%= render partial: 'layouts/messages' %>
+  <% end %>
+</div>
+
+
+</div>

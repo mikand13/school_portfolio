@@ -1,0 +1,12 @@
+nb:
+  mailer:
+    news: Nyheter
+    news_products: Nye produkter
+    products:
+      title: Sjekk disse produktene
+    contact_form: "Kontaktskjema Ekrequilt"
+    contact: "Ditt kontaktskjema til Ekrequilt"
+    contact_us: "Kontakt oss"
+    contact_email: "Epost:"
+    contact_content: "Innhold:"
+    thank_you_for_your_contact: "Takk, vi vil svare deg snarest mulig!"

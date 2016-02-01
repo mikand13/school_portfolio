@@ -1,0 +1,31 @@
+<ul>
+  <% if !admin_account_signed_in? && controller_name != 'carts' %>
+      <li>
+        <%= link_to t('cart.name') + " (#{@user.cart.line_items_count})", user_cart_path(@user.id), id: 'cart-link', class: 'small button success radius', remote: true %>
+      </li>
+  <% end %>
+  <% if account_signed_in? || admin_account_signed_in? %>
+      <% if admin_account_signed_in? %>
+          <li>
+            <% if current_admin_account.role?(:admin) %>
+                <%= link_to t('admin_page'), admin_dashboard_path, class: 'small button success radius' %>
+            <% else %>
+                <%= link_to t('store_manager_page'), store_manager_dashboard_path, class: 'small button success radius' %>
+            <% end %>
+          </li>
+      <% else %>
+          <li>
+            <%= link_to t('mypage'), user_path(@user.id), class: 'small button success radius', remote: true %>
+          </li>
+      <% end %>
+      <li>
+        <%= link_to t('devise.log_out'), destroy_account_session_path, class: 'small button success radius', method: :delete, remote: true %>
+      </li>
+  <% else %>
+      <% if controller_name != 'admin_users_sessions' %>
+          <li>
+            <%= link_to t('devise.login'), new_account_session_path, class: 'small button success radius', remote: true %>
+          </li>
+      <% end %>
+  <% end %>
+</ul>

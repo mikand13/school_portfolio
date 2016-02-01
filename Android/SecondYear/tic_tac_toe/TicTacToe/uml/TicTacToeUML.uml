@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-187.11805555555566" y="-858.8333333333334">no.woact.mikand.ticTacToe.controllers.activities.game.fragments.Pause</node>
+    <node x="765.5486111111111" y="-292.5">no.woact.mikand.ticTacToe.models.utils.result.Results</node>
+    <node x="142.36805555555543" y="-345.83333333333326">no.woact.mikand.ticTacToe.models.utils.pause.SwipePause</node>
+    <node x="320.3819444444439" y="-1134.8333333333335">no.woact.mikand.ticTacToe.controllers.activities.menu.Menu</node>
+    <node x="-1131.6666666666665" y="-889.5000000000001">no.woact.mikand.ticTacToe.models.utils.gameManager.GameAi</node>
+    <node x="778.3333333333333" y="-1136.8333333333335">no.woact.mikand.ticTacToe.controllers.activities.result.Result</node>
+    <node x="288.54861111111086" y="-860.8333333333333">no.woact.mikand.ticTacToe.controllers.activities.menu.fragments.PlayerSelect</node>
+    <node x="682.6666666666667" y="-0.16666666666651508">no.woact.mikand.ticTacToe.models.utils.fragments.FragmentTransactions</node>
+    <node x="-707.1180555555557" y="-167.4999999999999">no.woact.mikand.ticTacToe.models.game.GameManager</node>
+    <node x="-543.5208333333334" y="-1132.5">no.woact.mikand.ticTacToe.models.game.ImageContainer</node>
+    <node x="126.70833333333314" y="464.4999999999998">no.woact.mikand.ticTacToe.controllers.activities.game.Game</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="no.woact.mikand.ticTacToe.models.game.GameManager" target="no.woact.mikand.ticTacToe.models.game.ImageContainer">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.game.Game" target="no.woact.mikand.ticTacToe.models.game.GameManager">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.menu.Menu" target="no.woact.mikand.ticTacToe.controllers.activities.menu.fragments.PlayerSelect">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.models.utils.pause.SwipePause" target="no.woact.mikand.ticTacToe.controllers.activities.game.fragments.Pause">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.game.Game" target="no.woact.mikand.ticTacToe.models.game.ImageContainer">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.controllers.activities.game.Game" target="no.woact.mikand.ticTacToe.models.utils.pause.SwipePause">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.models.utils.gameManager.GameAi" target="no.woact.mikand.ticTacToe.models.game.ImageContainer">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.models.game.GameManager" target="no.woact.mikand.ticTacToe.models.utils.gameManager.GameAi">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6" x="309.8333333333335" y="-546.3333333333333" />
+  <SelectedNodes>
+    <node>no.woact.mikand.ticTacToe.models.utils.gameManager.GameAi</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

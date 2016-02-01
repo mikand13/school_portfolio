@@ -1,0 +1,72 @@
+\hypertarget{class_s_d_lsound}{}\section{S\+D\+Lsound Class Reference}
+\label{class_s_d_lsound}\index{S\+D\+Lsound@{S\+D\+Lsound}}
+
+
+This header file declares the facade for S\+D\+L\+\_\+mixer.  
+
+
+
+
+{\ttfamily \#include $<$S\+D\+Lsound.\+h$>$}
+
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_s_d_lsound_a27bf722536cbdd17222b44edbbec4e49}{}enum {\bfseries E\+Song} \{ {\bfseries I\+N\+T\+R\+O\+\_\+\+M\+U\+S\+I\+C}, 
+{\bfseries G\+A\+M\+E\+\_\+\+M\+U\+S\+I\+C}, 
+{\bfseries G\+A\+M\+E\+O\+V\+E\+R\+\_\+\+M\+U\+S\+I\+C}
+ \}\label{class_s_d_lsound_a27bf722536cbdd17222b44edbbec4e49}
+
+\item 
+\hypertarget{class_s_d_lsound_ab679a879ea206f956c579f785a3973cc}{}enum {\bfseries E\+Sound} \{ {\bfseries P\+L\+A\+Y\+E\+R\+\_\+\+H\+I\+T\+\_\+\+S\+O\+U\+N\+D}, 
+{\bfseries B\+R\+I\+C\+K\+\_\+\+H\+I\+T\+\_\+\+S\+O\+U\+N\+D}, 
+{\bfseries B\+A\+L\+L\+\_\+\+D\+E\+A\+T\+H\+\_\+\+S\+O\+U\+N\+D}
+ \}\label{class_s_d_lsound_ab679a879ea206f956c579f785a3973cc}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_s_d_lsound_a407dc7704779a2bd25895d0f70aaba75}{}void {\bfseries Init} ()\label{class_s_d_lsound_a407dc7704779a2bd25895d0f70aaba75}
+
+\item 
+\hypertarget{class_s_d_lsound_a2cbfa4bc2f720c1d7f6782796373582d}{}void {\bfseries Kill} ()\label{class_s_d_lsound_a2cbfa4bc2f720c1d7f6782796373582d}
+
+\item 
+\hypertarget{class_s_d_lsound_aa25c6a8e6653fbf92d61577e0367948a}{}bool {\bfseries Is\+Music\+Playing} ()\label{class_s_d_lsound_aa25c6a8e6653fbf92d61577e0367948a}
+
+\item 
+\hypertarget{class_s_d_lsound_ad1f30c7cdbcec3ce8e33bb3a8719cbcf}{}void {\bfseries Play\+Song} (E\+Song song)\label{class_s_d_lsound_ad1f30c7cdbcec3ce8e33bb3a8719cbcf}
+
+\item 
+\hypertarget{class_s_d_lsound_a29af593912b3be92b465726cabc75a5c}{}void {\bfseries Swap\+Song} (E\+Song song)\label{class_s_d_lsound_a29af593912b3be92b465726cabc75a5c}
+
+\item 
+\hypertarget{class_s_d_lsound_a7545264d62aecd3ccda80de15a7879e8}{}void {\bfseries Kill\+Song} ()\label{class_s_d_lsound_a7545264d62aecd3ccda80de15a7879e8}
+
+\item 
+\hypertarget{class_s_d_lsound_a623308fa01a7d506d196966b22bea59d}{}void {\bfseries Play\+Sound} (E\+Sound sound)\label{class_s_d_lsound_a623308fa01a7d506d196966b22bea59d}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the facade for S\+D\+L\+\_\+mixer. 
+
+In this class I declare all consts for songs and sound have provided a simple enum interface for playing songs and sounds.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+S\+D\+Lsound.\+h\item 
+S\+D\+Lsound.\+cpp\end{DoxyCompactItemize}

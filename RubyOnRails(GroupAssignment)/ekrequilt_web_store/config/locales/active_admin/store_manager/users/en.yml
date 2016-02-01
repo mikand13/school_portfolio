@@ -1,0 +1,15 @@
+en:
+  active_admin:
+    users:
+      customer_details: Customer details
+      email: Email
+      order_history: Order history
+      order_count: Order count
+      order_sum: Purchases worth
+      order_number: Order Id
+      order_status: Status
+      order_sum: Sum
+      order_date: Date
+      order_completed: Completed
+      order_pending: Pending
+  guest_email: "Guest users do not have an email"

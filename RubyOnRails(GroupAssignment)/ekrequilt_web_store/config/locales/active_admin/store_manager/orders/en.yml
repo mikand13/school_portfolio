@@ -1,0 +1,17 @@
+en:
+  active_admin:
+    orders:
+      all: All
+      completed: Completed
+      pending: Pending
+      refunded: Refunded
+      cancelled: Cancelled
+    users:
+      order_unprocessed: "Unprocessed"
+      order_refunded: "Refunded"
+      order_voided: "Voided"
+  activerecord:
+    attributes:
+      order:
+        purchased_by_guest: "Purchased by guest account!"
+  error_processing_order: "Error processing order, contact system administrator."

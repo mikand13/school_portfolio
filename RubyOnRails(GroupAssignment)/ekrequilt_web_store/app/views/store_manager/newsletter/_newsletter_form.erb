@@ -1,0 +1,14 @@
+<%= form_tag(deliver_new_newsletter_path, method: :post, html: {class: 'forms'}) do |f| %>
+    <fieldset>
+      <div class="row">
+        <div class="large-12 columns">
+          <%= label_tag :content, t('mailer.contact_content')  %><br />
+          <%= text_area_tag :content, nil, rows: 50 %>
+        </div>
+      </div>
+
+      <div class="large-12 columns">
+        <%= submit_tag t('send'), class: 'button small success' %>
+      </div>
+    </fieldset>
+<% end %>

@@ -1,0 +1,10 @@
+no.woact.mikand.ticTacToe.controllers.activities.game
+no.woact.mikand.ticTacToe.controllers.activities.game.fragments
+no.woact.mikand.ticTacToe.controllers.activities.menu
+no.woact.mikand.ticTacToe.controllers.activities.menu.fragments
+no.woact.mikand.ticTacToe.controllers.activities.result
+no.woact.mikand.ticTacToe.models.game
+no.woact.mikand.ticTacToe.models.utils.fragments
+no.woact.mikand.ticTacToe.models.utils.gameManager
+no.woact.mikand.ticTacToe.models.utils.pause
+no.woact.mikand.ticTacToe.models.utils.result

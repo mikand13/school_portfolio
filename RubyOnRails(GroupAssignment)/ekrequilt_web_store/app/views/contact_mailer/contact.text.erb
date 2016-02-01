@@ -1,0 +1,8 @@
+<%= t('mailer.contact') %>!
+===============================================
+
+<%= @content %>
+
+<%= url_for(controller: 'welcome',
+            action: 'index',
+            only_path: false) %>

@@ -1,0 +1,39 @@
+<section class="large-5 large-centered columns">
+  <fieldset>
+    <table id="order_info">
+      <caption><%= t('users.orders.transactions.name') %></caption>
+
+      <thead>
+      <tr>
+        <th><%= t('users.orders.action') %></th>
+        <th><%= t('users.orders.total_price') %></th>
+        <th><%= t('users.orders.transations.created') %></th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <% @order.order_transactions.each do |t| %>
+          <tr>
+            <td><%=h I18n.t :"activerecord.attributes.order.transaction.action.#{t.action}" %></td>
+            <td><%=h number_to_currency(t.amount / 100) if t.amount %></td>
+            <td><%=h t.created_at %></td>
+          </tr>
+      <% end %>
+      </tbody>
+
+      <tfoot>
+      <tr>
+        <th colspan="7">
+          <hr/>
+
+          <div class="row forms">
+            <div class="large-12 columns">
+              <%= link_to t('mypage'), user_path(@order), class: 'button small info', remote: true %>
+            </div>
+          </div>
+        </th>
+      </tr>
+      </tfoot>
+    </table>
+  </fieldset>
+</section>

@@ -1,0 +1,48 @@
+<section class="forms">
+  <div class="row">
+    <div class="large-12 columns">
+      <h1><%= t('mailer.products.title') %>!</h1>
+    </div>
+  </div>
+
+  <hr/>
+
+  <% @products.each do |product| %>
+      <section role="main" class="scroll-container">
+        <div class="row">
+          <div class="large-16">
+
+            <fieldset>
+              <ul class="left">
+                <li class="img">
+                  <%= image_tag (product.image) %>
+                </li>
+              </ul>
+
+              <div class="row">
+                <div class="large-4 columns">
+                  <ul class="pricing-table">
+                    <li class="title">
+                      <%= product.name %>
+                    </li>
+                    <li class="price">
+                      <%= number_to_currency product.price %>
+                    </li>
+                    <li class="description">
+                      <%= product.description %>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </fieldset>
+          </div>
+        </div>
+      </section>
+  <% end %>
+
+  <hr/>
+
+  <a href="<%= url_for(controller: 'welcome',
+                       action: 'index',
+                       only_path: false) %>">Ekrequilt</a>
+</section>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/spacer"
+            android:id="@+id/resultTextView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/goAgain"
+            android:id="@+id/goAgainButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_toStartOf="@+id/resultTextView"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exit"
+            android:id="@+id/exitButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toEndOf="@+id/resultTextView"/>
+
+    <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/highScoreListView"
+            android:layout_below="@+id/resultTextView"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/goAgainButton"
+            android:choiceMode="none"/>
+</RelativeLayout>

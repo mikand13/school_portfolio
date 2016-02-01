@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>PG5100</title>
+    </h:head>
+
+    <h:body>
+        <h:form>
+            <p:menubar>
+                <p:submenu label="User">
+                    <p:menuitem value="New" url="/users/new.jsf"/>
+                    <p:menuitem value="List" url="/users/index.jsf"/>
+                </p:submenu>
+    
+                <p:submenu label="Subject">
+                    <p:menuitem value="New" url="/subjects/new.jsf"/>
+                    <p:menuitem value="List" url="/subjects/index.jsf"/>
+                </p:submenu>
+
+                <p:submenu label="Event">
+                    <p:menuitem value="New" url="/events/new.jsf"/>
+                    <p:menuitem value="List" url="/events/index.jsf"/>
+                </p:submenu>
+
+                <p:submenu label="Location">
+                    <p:menuitem value="New" url="/locations/new.jsf"/>
+                    <p:menuitem value="List" url="/locations/index.jsf"/>
+                </p:submenu>
+            </p:menubar>
+        </h:form>
+
+        <br/>
+        <ui:insert name="content">Default content</ui:insert>
+        <br/>
+
+        <p style="text-align: center">&copy; Anders Mikkelsen</p>
+    </h:body>
+</html>

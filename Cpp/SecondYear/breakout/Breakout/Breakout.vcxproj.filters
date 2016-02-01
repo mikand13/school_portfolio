@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\images">
+      <UniqueIdentifier>{8b63425f-ff31-4281-a75b-223c022fc933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\music">
+      <UniqueIdentifier>{299c8962-9820-463a-bc64-0ee0c3f79d63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\sounds">
+      <UniqueIdentifier>{df7d17fb-2af8-4f1b-8868-62a47d6752e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{7454947b-6c2d-47b9-be6c-a2768ab1ed06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Collision">
+      <UniqueIdentifier>{df68c9e9-b14c-49ca-b9d8-2cea48f5feea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Movement">
+      <UniqueIdentifier>{cc5c3dcb-d29a-4844-b6e2-c414556cf689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Collision\Ball">
+      <UniqueIdentifier>{b14df9eb-50c1-4a51-879f-9884ef34d7b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Collision\Brick">
+      <UniqueIdentifier>{aecdab51-f709-4dcc-b3ca-3218107d6e89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Collision\Player">
+      <UniqueIdentifier>{ec8308a2-c1c6-482b-8a3d-e27850519f8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Movement\Ball">
+      <UniqueIdentifier>{5c1e51b9-9bd1-481c-b031-d78aa1e3290b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Movement\Player">
+      <UniqueIdentifier>{0807c175-0fec-454b-9cb8-cf9da120a624}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects">
+      <UniqueIdentifier>{ffe90706-ceb7-4b1f-b881-d758e8564bf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Base">
+      <UniqueIdentifier>{424a48dc-161c-4546-b8f2-fae30598a6fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Factories">
+      <UniqueIdentifier>{e2e4e6eb-674a-42dd-a07c-7b6a84679770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Factories\Brick">
+      <UniqueIdentifier>{504f1b49-66e0-4ef7-80fa-68467f2a32f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{58e984ee-ec87-4aa0-8f1d-0f2de41606e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Game">
+      <UniqueIdentifier>{1ff473fc-5f9a-44a8-a640-e68d7ec59f4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Input">
+      <UniqueIdentifier>{a070a60a-563a-4bbc-8c73-ece335110e02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Collision">
+      <UniqueIdentifier>{377e8130-da71-4768-876f-dd5f44d75324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Level">
+      <UniqueIdentifier>{66e09d60-f0a1-4d65-b148-a401be7c01f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Collision\Collisions">
+      <UniqueIdentifier>{7a372ee1-ed71-46c4-922a-426b12ab85d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{a2783956-9118-4f1e-a2b9-17543d13756d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Base">
+      <UniqueIdentifier>{c27b55b3-476c-4baf-99bb-2ee700c7cd88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components">
+      <UniqueIdentifier>{4a82e804-d720-4a9f-9e20-6573acfa55ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Collision">
+      <UniqueIdentifier>{2fa50abf-75ef-4e14-abfb-b49a8250f847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Movement">
+      <UniqueIdentifier>{de50476f-f8df-45af-a970-b66bc9f692a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Collision\Player">
+      <UniqueIdentifier>{66d76c64-fd83-4176-bc3d-5377b179e59d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Collision\Ball">
+      <UniqueIdentifier>{757b0c2e-47e4-42dc-b2a4-42e6de0851c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Collision\Brick">
+      <UniqueIdentifier>{02ee2b3a-7f36-40d7-8369-e39c90fa2892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Movement\Player">
+      <UniqueIdentifier>{d4818f4e-9f3b-4962-882d-647ffac19da9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components\Movement\Ball">
+      <UniqueIdentifier>{bf4ba874-9160-41e4-af43-43c21efacf8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects">
+      <UniqueIdentifier>{fbdba12e-1722-45d9-bf1e-b9794ff569f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Base">
+      <UniqueIdentifier>{b17b1d26-b1dc-46b9-81c4-eeb4898b7742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Factories">
+      <UniqueIdentifier>{f25de270-5eee-4361-aa49-5ec8b1d9c028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Factories\Brick">
+      <UniqueIdentifier>{ff1f11ed-a302-47a9-948e-bb2e1ec4869c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{86ec1a1c-03d1-402a-ab63-7d90f3c32686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Game">
+      <UniqueIdentifier>{64dda76f-10df-4997-a7f4-876ff18f2884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Input">
+      <UniqueIdentifier>{731e3841-cfc7-4b9a-9cdf-8f781845576f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Level">
+      <UniqueIdentifier>{0a70dacb-7e4a-40be-9fc2-6731a3a4f7e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Collision">
+      <UniqueIdentifier>{02f74c60-9384-4bad-bb52-08c72c8f975a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Collision\Collisions">
+      <UniqueIdentifier>{c89cd633-7431-40e9-a66b-3e2db3504fc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Main">
+      <UniqueIdentifier>{54f8c396-3a4a-4771-81b2-d484538ef759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{5c91e9a7-4caa-4451-998c-2b9611264cc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Externals">
+      <UniqueIdentifier>{cc96dcf5-db15-41cd-a57a-f92c7dbf9215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Externals\SDL">
+      <UniqueIdentifier>{b8100786-4530-4bea-b7a2-ae394aa0961d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Externals\SDL\Video">
+      <UniqueIdentifier>{39183039-276b-466b-b330-b39963f72bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Externals\SDL\Sound">
+      <UniqueIdentifier>{bed3467b-f7ae-4caf-9e74-a03bb5e2333a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Externals">
+      <UniqueIdentifier>{dd42aeeb-5dd8-4c9b-bb5c-96a8f67d79fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Externals\SDL">
+      <UniqueIdentifier>{951484ca-af26-4844-b82a-ca0df2cfb2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Externals\SDL\Video">
+      <UniqueIdentifier>{2f815cd0-7e04-4986-8cac-4690df6c16aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Externals\SDL\Sound">
+      <UniqueIdentifier>{67d76944-7c4a-4259-b1ef-0c61747cb70e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Externals\SDL\Exceptions">
+      <UniqueIdentifier>{eeba6d09-18ca-432a-b5fe-9f362aa2b2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Externals\SDL\Exceptions">
+      <UniqueIdentifier>{9c32543c-e790-4f7e-ad39-56bf5f9c3c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\fonts">
+      <UniqueIdentifier>{0e0a0a99-7931-486d-beb8-c49fa4567547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Level\Utils">
+      <UniqueIdentifier>{18045097-c1f8-4289-a8d3-251c47eb6d59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\texts">
+      <UniqueIdentifier>{f34a1d6d-7e1c-499d-9955-b105439540a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers\Score">
+      <UniqueIdentifier>{48f3e275-5a5e-44d6-91e9-c6c38df1f3d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers\Score">
+      <UniqueIdentifier>{993664af-fa93-4e64-b91e-4e68ec2823b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Diagram">
+      <UniqueIdentifier>{85cb712f-65df-4c58-99bd-854e6369b0c7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BallCollisionComponent.h">
+      <Filter>Header Files\Components\Collision\Ball</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickCollisionComponent.h">
+      <Filter>Header Files\Components\Collision\Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCollisionComponent.h">
+      <Filter>Header Files\Components\Collision\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMovementComponent.h">
+      <Filter>Header Files\Components\Movement\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="BallMovementComponent.h">
+      <Filter>Header Files\Components\Movement\Ball</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\GameObjects\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickFactory.h">
+      <Filter>Header Files\Factories\Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickFlyWeight.h">
+      <Filter>Header Files\Factories\Brick</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Header Files\Managers\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Header Files\Managers\Collision\Collisions</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Header Files\Managers\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Managers\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Managers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files\Components\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="DeltaTimer.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SDLsound.h">
+      <Filter>Header Files\Externals\SDL\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SDLvideo.h">
+      <Filter>Header Files\Externals\SDL\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="SDLInitializationException.h">
+      <Filter>Header Files\Externals\SDL\Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="FileHandler.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectSpawner.h">
+      <Filter>Header Files\Managers\Level\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>Header Files\Managers\Score</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BallCollisionComponent.cpp">
+      <Filter>Source Files\Components\Collision\Ball</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickCollisionComponent.cpp">
+      <Filter>Source Files\Components\Collision\Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCollisionComponent.cpp">
+      <Filter>Source Files\Components\Collision\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="BallMovementComponent.cpp">
+      <Filter>Source Files\Components\Movement\Ball</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMovementComponent.cpp">
+      <Filter>Source Files\Components\Movement\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\GameObjects\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickFlyWeight.cpp">
+      <Filter>Source Files\Factories\Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickFactory.cpp">
+      <Filter>Source Files\Factories\Brick</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Source Files\Managers\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Source Files\Managers\Collision\Collisions</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Managers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Managers\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Source Files\Managers\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="DeltaTimer.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SDLsound.cpp">
+      <Filter>Source Files\Externals\SDL\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SDLvideo.cpp">
+      <Filter>Source Files\Externals\SDL\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="SDLInitializationException.cpp">
+      <Filter>Source Files\Externals\SDL\Exceptions</Filter>
+    </ClCompile>
+    <ClCompile Include="FileHandler.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files\Managers\Score</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\Resources\fonts\breakout.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\images\blue_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\brown_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\game_over.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\green_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\intro_placeholder.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\orange_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\player_ball.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\player_bar.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\red_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="..\Resources\images\yellow_brick.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\Resources\music\game_music.wav">
+      <Filter>Resource Files\music</Filter>
+    </Media>
+    <Media Include="..\Resources\music\game_over_music.wav">
+      <Filter>Resource Files\music</Filter>
+    </Media>
+    <Media Include="..\Resources\music\intro_music.wav">
+      <Filter>Resource Files\music</Filter>
+    </Media>
+    <Media Include="..\Resources\sounds\ball_death.wav">
+      <Filter>Resource Files\sounds</Filter>
+    </Media>
+    <Media Include="..\Resources\sounds\brick_hit.wav">
+      <Filter>Resource Files\sounds</Filter>
+    </Media>
+    <Media Include="..\Resources\sounds\player_hit.wav">
+      <Filter>Resource Files\sounds</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Resources\texts\high_scores.txt">
+      <Filter>Resource Files\texts</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\docs\ClassDiagram.cd">
+      <Filter>Class Diagram</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+<section class="forms">
+  <div class="row">
+    <div class="large-12 columns">
+        <h1><%= t('mailer.contact_form') %>!</h1>
+    </div>
+  </div>
+
+  <hr/>
+
+  <div class="row">
+    <div class="large-12 columns">
+        <%= @content %>
+    </div>
+  </div>
+
+  <hr/>
+
+  <div class="row">
+    <div class="large-12 columns">
+      <a href="<%= url_for(controller: 'welcome',
+                  action: 'index',
+                  only_path: false) %>">Ekrequilt</a>
+    </div>
+  </div>
+</section>

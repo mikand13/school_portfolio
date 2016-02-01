@@ -1,0 +1,6 @@
+$('#added_to_cart_modal').foundation('reveal', 'open');
+
+setTimeout(function(){
+    $('#added_to_cart_modal').foundation('reveal', 'close');
+    $('#status_buttons').load('/' + ' #status_buttons');
+}, 1000);

@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ball" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACABAACAAAAAAAAAAAAAAAAAAAAEQAIAAEAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallCollisionComponent" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="CollisionComponent" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="2" />
+        <Point X="13.375" Y="2" />
+        <Point X="13.375" Y="0.846" />
+        <Point X="14.25" Y="0.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgQQAAAAAAAEgAAAAAAEAAAABgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BallCollisionComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallMovementComponent" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAABAAAAA=</HashCode>
+      <FileName>BallMovementComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAAAAAAQ=</HashCode>
+      <FileName>Brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrickCollisionComponent" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="CollisionComponent" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="2" />
+        <Point X="13.375" Y="2" />
+        <Point X="13.375" Y="2.846" />
+        <Point X="14.25" Y="2.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAACAAAQAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BrickCollisionComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrickFactory">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="BrickFactory::shared_ptr_brick" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BrickFactory.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="BrickFactory::map_of_flyweights" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BrickFactory.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAAAAAAAAAAgAAAAAAABAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>BrickFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrickFlyWeight">
+    <Position X="27.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BrickFlyWeight::EBrickType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BrickFlyWeight.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAogAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>BrickFlyWeight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAIAAAAAAAAABEAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Collision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionComponent" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionManager">
+    <Position X="23.5" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="CollisionManager::vector_of_collisions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CollisionManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="CollisionManager::vector_of_go_maps" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CollisionManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="CollisionManager::two_d_arr_go_maps" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CollisionManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QBQAAAAEAAAAQIAACAABIAAEABAAAAAAAQAAAEiAAAA=</HashCode>
+      <FileName>CollisionManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAgAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeltaTimer">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="DeltaTimer::hr_clock" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DeltaTimer.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="DeltaTimer::time_point" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DeltaTimer.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="DeltaTimer::duration" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DeltaTimer.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEQgAAAAACAABQAAAASAAAAEAAAAEAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DeltaTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDLsound">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SDLsound::ESong" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLsound.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SDLsound::ESound" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLsound.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAQAAIAAGAAAAAAAAAAAIgAABACAAAEIAAyEQCADAA=</HashCode>
+      <FileName>SDLsound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileHandler">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAIAAAAAAAAAEAAAAAABAgAg=</HashCode>
+      <FileName>FileHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="19" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="GameManager::shared_ptr_go" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="GameManager::vector_of_shared_ptrs_go" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="GameManager::vector_of_go_ptrs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="GameManager::vector_of_strings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIFCoBBpEAQAkQkJBgGUAAIAAhAAIAAARIQpCEBQAJA=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAAAAAAIAEAAIAAAAAAwAggQBAAABAAAAAIABAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObjectSpawner&lt;T&gt;">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>GameObjectSpawner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager">
+    <Position X="21.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAgAAAAAgAAgAAAIAQAAEAAAAAIIBAAAA=</HashCode>
+      <FileName>InputManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="LevelManager::vector_of_ptrs_movement_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_ptrs_collision_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_player_movement_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_ball_movement_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_player_collision_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_ball_collision_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="LevelManager::vector_of_brick_collision_components" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LevelManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ICAEAAERDIwAAAAAAIEEAIIDDAEAAAAQAAElAUgAAwA=</HashCode>
+      <FileName>LevelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementComponent" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCollisionComponent" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="CollisionComponent" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="2" />
+        <Point X="13.375" Y="2" />
+        <Point X="13.375" Y="1.75" />
+        <Point X="14.25" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>PlayerCollisionComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovementComponent" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAgQAgAAAAAA=</HashCode>
+      <FileName>PlayerMovementComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="29.5" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="ScoreManager::vector_of_strings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ScoreManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAQABggAABAAAAAAAAEAAAABAAAAgAAAABA=</HashCode>
+      <FileName>ScoreManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDLInitializationException">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SDLInitializationException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDLvideo">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="SDLvideo::vector_of_shared_ptr_gos" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLvideo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="SDLvideo::vector_of_strings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLvideo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="SDLvideo::map_of_brick_textures" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLvideo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="SDLvideo::map_of_go_textures" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SDLvideo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gGwAgAAQUEQBBEAFgQAAAwAgAgERARgKACECCVBAJCQ=</HashCode>
+      <FileName>SDLvideo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Updateable" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EGameState" Collapsed="true">
+    <Position X="19" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAIAAAAABAAAAECAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

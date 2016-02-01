@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui" >
+    <ui:composition template="../template.xhtml">
+        <ui:define name="content">
+            <f:metadata>
+                <f:viewParam name="id" value="#{locationController.locationId}"/>
+                <f:viewAction action="#{locationController.show()}"/>
+            </f:metadata>
+
+            <h:outputText value="#{flash.get('created')}" />
+
+            <h2><h:outputText value="#{locationController.location.getLocationDescription()}"/></h2>
+
+            <p:panel>
+                <ui:fragment rendered="true">
+                    <li>Id:
+                        <h:outputText value="#{locationController.location.id}"/>
+                    </li>
+                </ui:fragment>
+
+                <ui:fragment rendered="true">
+                    <li>Room:
+                        <h:outputText value="#{locationController.location.room}"/>
+                    </li>
+                </ui:fragment>
+
+                <ui:fragment rendered="true">
+                    <li>Building:
+                        <h:outputText value="#{locationController.location.building}"/>
+                    </li>
+                </ui:fragment>
+            </p:panel>
+        </ui:define>
+    </ui:composition>
+</html>

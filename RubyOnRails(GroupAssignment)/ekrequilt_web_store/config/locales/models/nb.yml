@@ -1,0 +1,102 @@
+nb:
+  activerecord:
+    errors:
+      models:
+        account:
+          attributes:
+            password:
+              taken_in_past: "er blitt brukt før"
+    models:
+      account:
+        one: Konto
+        other: Kontoer
+      inventory:
+        one: Lager
+        other: Lagere
+      order:
+        one: Ordre
+        other: Ordre
+      order_transaction:
+        one: Transaksjon
+        other: Transaksjoner
+      product:
+        one: Produkt
+        other: Produkter
+      product_category:
+        one: Kategori
+        other: Kategorier
+      user:
+        one: Bruker
+        other: Brukere
+    attributes:
+      account:
+        password: Passord
+        provider: Tilbyder
+        created_at: Opprettet
+        updated_at: Sist endret
+        email: Epost
+        sign_in_count: Innlogginger
+        confirmed_at: Tidspunkt bekreftet
+        confirmation_sent_at: Bekreftelse sendt
+        failed_attempts: Mislykkede forsøk
+        first_name: Fornavn
+        last_name: Etternavn
+        full_name: Navn
+      inventory:
+        available_quantity: Tilgjengelige varer
+        pending_sale: Ventende salg
+        created_at: Opprettet
+        updated_at: Sist endret
+      order:
+        ip_address: IP-adresse
+        first_name: Fornavn
+        last_name: Etternavn
+        street: Gatenavn
+        city: By
+        state: Kommune
+        country: Land
+        zip: Postnummer
+        card_number: Kortnummer
+        card_verification: Verifiseringskode Kort (CVV)
+        card_brand: Korttype
+        card_expires_on: Utløpsdato
+        open: Åpen
+        status: Status
+        purchased_at: Kjøpt
+        closed_at: Stengt
+        created_at: Opprettet
+        updated_at: Sist endret
+        user: Bruker
+        status:
+          one: Status
+          other: Statuser
+          unprocessed: Ubehandlet
+          authorized: Bestilt
+          captured: Sendt
+          refunded: Refundert
+          voided: Kansellert
+        transaction:
+          action:
+            authorize: Bestilt
+            capture: Sendt
+            refund: Refundert
+            void: Kansellert
+        address: "Adresse"
+      product:
+        id: Løpenummer
+        name: Navn
+        product_category: Kategori
+        price: Pris
+        image:
+          one: Bilde
+          other: Bilder
+        description: Beskrivelse
+        created_at: Opprettet
+        updated_at: Sist endret
+      user:
+        first_name: Fornavn
+        last_name: Etternavn
+        full_name: Navn
+        created_at: Opprettet
+        updated_at: Sist endret
+        subscribed_newsletter: Abonnerer på nyhetsbrev

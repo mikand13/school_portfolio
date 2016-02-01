@@ -1,0 +1,1 @@
+Feature: As a customer I want to be able to register my card information on my page, so I do not have to enter it into the system every time I make a purchase.

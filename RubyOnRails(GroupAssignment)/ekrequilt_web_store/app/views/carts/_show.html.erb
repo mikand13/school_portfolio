@@ -1,0 +1,43 @@
+<% 'Shopping Cart' %>
+<section id="show_cart" class="forms large-5 large-centered columns">
+  <fieldset>
+    <% if @cart.price > 0 %>
+        <table id="line_items">
+          <tr>
+            <th><%= t('cart.product') %></th>
+            <th><%= t('cart.quantity') %></th>
+            <th class="price"><%= t('cart.unit_price') %></th>
+            <th class="price"><%= t('cart.full_price') %></th>
+          </tr>
+          <% for line_item in @line_items %>
+              <tr class="<%= cycle :odd, :even %>">
+                <td><%=h line_item.product.name %></td>
+                <td class="qty"><%= line_item.quantity %></td>
+                <td class="price"><%= line_item.product.price %> <%= t('cart.currency') %></td>
+                <td class="fullprice"><%= line_item.price %> <%= t('cart.currency') %></td>
+              </tr>
+          <% end %>
+          <tr>
+            <td class="total price" colspan="4">
+              <%= t('cart.total') + ' ' + @cart.price.to_s %> <%= t('cart.currency') %>
+            </td>
+          </tr>
+        </table>
+
+        <hr/>
+        <div class="row">
+          <div class="large-12 columns">
+            <%= link_to t('empty_quiltbag'), user_cart_path, method: :delete, class: 'button small info', remote: true %> |
+            <%= link_to t('continue_shopping'), products_path, class: 'button small info', remote: true %> |
+            <%= link_to t('checkout'), new_order_path, class: 'button small success', remote: true %> |
+            <%= link_to image_tag('https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif'), express_new_order_path %>
+          </div>
+        </div>
+    <% else %>
+        <div class="row large-12 columns large-centered">
+          <h1><%= t('cart.no_line_items_in_cart')%></h1>
+          <%= link_to t('continue_shopping'), products_path, class: 'button small success', remote: true %>
+        </div>
+    <% end %>
+  </fieldset>
+</section>

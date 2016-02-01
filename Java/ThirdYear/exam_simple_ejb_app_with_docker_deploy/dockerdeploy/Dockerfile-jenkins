@@ -1,0 +1,27 @@
+FROM jenkins
+
+USER root
+RUN apt-get update && apt-get install maven -y
+RUN apt-get install openjdk-7-jre
+
+ENV MAVEN_HOME /usr/share/maven
+
+VOLUME /var/jenkins_home
+
+# install java
+ENV java_version 1.8.0_11
+ENV filename jdk-8u11-linux-x64.tar.gz
+ENV downloadlink http://download.oracle.com/otn-pub/java/jdk/8u11-b12/$filename
+
+RUN wget --no-cookies --header "Cookie: oraclelicense=accept-securebackup-cookie" -O /tmp/$filename $downloadlink
+
+RUN mkdir /opt/java-oracle && tar -zxf /tmp/$filename -C /opt/java-oracle/
+ENV JAVA_HOME /opt/java-oracle/jdk$java_version
+ENV PATH $JAVA_HOME/bin:$PATH
+
+# preconfigure maven location
+COPY preconfigured-maven.xml /usr/share/jenkins/ref/hudson.tasks.Maven.xml
+
+COPY plugins.txt /usr/share/jenkins/ref/
+
+RUN /usr/local/bin/plugins.sh /usr/share/jenkins/ref/plugins.txt

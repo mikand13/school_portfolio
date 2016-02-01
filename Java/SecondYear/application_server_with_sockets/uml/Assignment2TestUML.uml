@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-684.0" y="400.0">no.wsact.mikand.pg4100.assignment2.views.CalculatorTest</node>
+    <node x="-685.0" y="-85.0">no.wsact.mikand.pg4100.assignment2.models.DatabaseHandlerTest</node>
+    <node x="-306.0" y="402.0">no.wsact.mikand.pg4100.assignment2.views.ClientGreeterTest</node>
+    <node x="113.83333333333348" y="105.16666666666663">no.wsact.mikand.pg4100.assignment2.controllers.ApplicationClientTest</node>
+    <node x="-272.8333333333333" y="117.33333333333331">no.wsact.mikand.pg4100.assignment2.controllers.mocks.MockApplicationServer</node>
+    <node x="39.66666666666663" y="-131.83333333333337">no.wsact.mikand.pg4100.assignment2.controllers.ApplicationClientTestOffline</node>
+    <node x="66.83333333333337" y="313.1666666666667">no.wsact.mikand.pg4100.assignment2.views.QuizerTest</node>
+    <node x="-685.0" y="79.0">no.wsact.mikand.pg4100.assignment2.models.mySqlConnectorModels.TableTest</node>
+    <node x="-388.0" y="-83.0">no.wsact.mikand.pg4100.assignment2.models.MySqlConnectorBoklisteTest</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="-116.0" y="233.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

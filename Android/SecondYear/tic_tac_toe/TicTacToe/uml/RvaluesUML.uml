@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1397.0" y="235.0">no.woact.mikand.ticTacToe.R.string</node>
+    <node x="1196.5" y="0.0">no.woact.mikand.ticTacToe.R</node>
+    <node x="328.0" y="887.0">no.woact.mikand.ticTacToe.BuildConfig</node>
+    <node x="2017.0" y="73.5">no.woact.mikand.ticTacToe.R.layout</node>
+    <node x="1019.0" y="427.0">no.woact.mikand.ticTacToe.R.animator</node>
+    <node x="0.0" y="968.0">no.woact.mikand.ticTacToe.Manifest.permission</node>
+    <node x="0.0" y="91.0">no.woact.mikand.ticTacToe.R.id</node>
+    <node x="127.0" y="968.0">no.woact.mikand.ticTacToe.Manifest.permission_group</node>
+    <node x="831.0" y="403.0">no.woact.mikand.ticTacToe.R.drawable</node>
+    <node x="1245.0" y="427.0">no.woact.mikand.ticTacToe.R.color</node>
+    <node x="82.75" y="887.0">no.woact.mikand.ticTacToe.Manifest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="no.woact.mikand.ticTacToe.R.color" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-39.5" />
+      <point x="1311.0" y="71.0" />
+      <point x="1219.8333333333333" y="71.0" />
+      <point x="3.3333333333332575" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.R.string" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-231.5" />
+      <point x="1697.0" y="61.0" />
+      <point x="1226.5" y="61.0" />
+      <point x="10.0" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.Manifest.permission_group" target="no.woact.mikand.ticTacToe.Manifest">
+      <point x="0.0" y="-15.5" />
+      <point x="205.0" y="943.0" />
+      <point x="152.5" y="943.0" />
+      <point x="23.25" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.R.layout" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-75.5" />
+      <point x="2113.0" y="51.0" />
+      <point x="1233.1666666666667" y="51.0" />
+      <point x="16.666666666666742" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.R.animator" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-39.5" />
+      <point x="1122.0" y="71.0" />
+      <point x="1213.1666666666667" y="71.0" />
+      <point x="-3.3333333333332575" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.Manifest.permission" target="no.woact.mikand.ticTacToe.Manifest">
+      <point x="0.0" y="-15.5" />
+      <point x="53.5" y="943.0" />
+      <point x="106.0" y="943.0" />
+      <point x="-23.25" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.R.drawable" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-63.5" />
+      <point x="915.0" y="61.0" />
+      <point x="1206.5" y="61.0" />
+      <point x="-10.0" y="15.5" />
+    </edge>
+    <edge source="no.woact.mikand.ticTacToe.R.id" target="no.woact.mikand.ticTacToe.R">
+      <point x="0.0" y="-375.5" />
+      <point x="405.5" y="51.0" />
+      <point x="1199.8333333333333" y="51.0" />
+      <point x="-16.666666666666742" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="1086.0" y="517.0" />
+  <SelectedNodes>
+    <node>no.woact.mikand.ticTacToe.R.id</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

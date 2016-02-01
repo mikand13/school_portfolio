@@ -1,0 +1,46 @@
+<section class="row forms">
+  <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: {class: 'forms', method: :put }, remote: true) do |f| %>
+      <div id="js-message" class="forms large-8 large-centered columns"></div>
+      <fieldset>
+        <legend><%= t('edit') %> <%= resource_name.to_s.humanize %></legend>
+
+        <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
+            <div class="row">
+              <div class="large-12 columns"><%= t('devise.registrations.awaiting_confirmation') %> <%= resource.unconfirmed_email %></div>
+            </div>
+        <% end %>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :current_password %> <i><%= t('devise.registrations.current_password')%></i><br />
+            <%= f.password_field :current_password, autocomplete: 'off' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password %> <i><%= t('devise.registrations.leave_empty_if_no_change') %></i><br />
+            <%= f.password_field :password, autocomplete: 'off' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password_confirmation %><br />
+            <%= f.password_field :password_confirmation, autocomplete: 'off' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.submit t('update'), class: 'small button' %>
+          </div>
+        </div>
+      </fieldset>
+  <% end %>
+
+  <h3><%= t('cancel_account') %></h3>
+
+  <%= button_to t('devise.registrations.delete_account'), registration_path(resource_name), class: 'small button', data: { confirm: 'Er du sikker?' }, method: :delete, remote: true %>
+</section>
+

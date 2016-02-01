@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-874.3333333333334" y="469.6666666666667">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.db.OnResultDBReadyListener</node>
+    <node x="1241.0" y="9.666666666666742">no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.MemorizeFragment</node>
+    <node x="-286.9999999999999" y="-205.33333333333303">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.db.ResultDBHelper</node>
+    <node x="582.0" y="0.0">no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game</node>
+    <node x="" y="">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler.DBFetcher</node>
+    <node x="" y="">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.contacts.ContactHandler</node>
+    <node x="-8.0" y="118.66666666666674">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.Result</node>
+    <node x="165.66666666666663" y="645.3333333333333">no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.NewHighScore</node>
+    <node x="-598.3333333333333" y="571.3333333333333">no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results</node>
+    <node x="-589.9999999999999" y="-50.0">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler</node>
+    <node x="1214.6666666666665" y="439.66666666666663">no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.GuessFragment</node>
+    <node x="515.3333333333333" y="763.0000000000005">no.wsact.mikand.pg4600.assignment2.KimsGame.utils.fragments.FragmentOperations</node>
+    <node x="163.66666666666697" y="851.0">no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.ShowHighScores</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game" target="no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.MemorizeFragment">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results" target="no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.ShowHighScores">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler" target="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.NewHighScore" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.Result">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game" target="no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.GuessFragment">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.contacts.ContactHandler">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler.DBFetcher" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.db.OnResultDBReadyListener">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.Result">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler.DBFetcher" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.db.ResultDBHelper">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.db.OnResultDBReadyListener">
+      <point x="0.0" y="-124.5" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results" target="no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.NewHighScore">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.NewHighScore" target="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler.DBFetcher" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler">
+      <point x="0.0" y="-52.5" />
+      <point x="0.0" y="256.5" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.Result">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.MemorizeFragment" target="no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.results.fragments.ShowHighScores" target="no.wsact.mikand.pg4600.assignment2.KimsGame.results.Results">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.game.fragments.GuessFragment" target="no.wsact.mikand.pg4600.assignment2.KimsGame.game.Game">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler" target="no.wsact.mikand.pg4600.assignment2.KimsGame.utils.results.ResultHandler.DBFetcher">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="352.9999999999998" y="240.66666666666657" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,30 @@
+<section class="row forms">
+  <%= form_for(resource, as: resource_name, url: password_path(resource_name), html: {class: 'forms',  method: :put }, remote: true) do |f| %>
+      <div id="js-message" class="forms large-8 large-centered columns"></div>
+      <%= f.hidden_field :reset_password_token %>
+      <fieldset>
+        <legend><%= t('devise.passwords.change_password') %></legend>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password, t('devise.passwords.new_password') %><br />
+            <%= f.password_field :password, autofocus: true, autocomplete: 'off' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.label :password_confirmation, t('devise.confirm') + ' ' + t('devise.passwords.new_password') %><br />
+            <%= f.password_field :password_confirmation, autocomplete: 'off' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <%= f.submit t('devise.passwords.change_password'), class: 'small button' %>
+          </div>
+        </div>
+      </fieldset>
+  <% end %>
+</section>
+

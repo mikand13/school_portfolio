@@ -1,0 +1,57 @@
+\hypertarget{class_player_collision_component}{}\section{Player\+Collision\+Component Class Reference}
+\label{class_player_collision_component}\index{Player\+Collision\+Component@{Player\+Collision\+Component}}
+
+
+This header file declares the component used for handling collisions in the \hyperlink{class_player}{Player} \hyperlink{class_game_object}{Game\+Object}.  
+
+
+
+
+{\ttfamily \#include $<$Player\+Collision\+Component.\+h$>$}
+
+Inheritance diagram for Player\+Collision\+Component\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=4.000000cm]{class_player_collision_component}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_player_collision_component_a007c4a2259a2de566e9fe839d314a85b}{}{\bfseries Player\+Collision\+Component} (\hyperlink{class_game_object}{Game\+Object} $\ast$const go)\label{class_player_collision_component_a007c4a2259a2de566e9fe839d314a85b}
+
+\item 
+\hypertarget{class_player_collision_component_a273de888e068ea2968bd60448de19dc0}{}void {\bfseries Update} () override\label{class_player_collision_component_a273de888e068ea2968bd60448de19dc0}
+
+\item 
+\hypertarget{class_player_collision_component_a076fe4db176e98dee1d73dc993c747fd}{}void {\bfseries Handle\+Collision} (const \hyperlink{class_game_object}{Game\+Object} \&collidee) override\label{class_player_collision_component_a076fe4db176e98dee1d73dc993c747fd}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_player_collision_component_aaa64c1874d00d74dae3511cda38fcfb5}{}\hyperlink{class_player}{Player} $\ast$ {\bfseries player\+\_\+}\label{class_player_collision_component_aaa64c1874d00d74dae3511cda38fcfb5}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the component used for handling collisions in the \hyperlink{class_player}{Player} \hyperlink{class_game_object}{Game\+Object}. 
+
+It is updated every frame and is called by Handle\+Collision if involved in a collision.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Player\+Collision\+Component.\+h\item 
+Player\+Collision\+Component.\+cpp\end{DoxyCompactItemize}

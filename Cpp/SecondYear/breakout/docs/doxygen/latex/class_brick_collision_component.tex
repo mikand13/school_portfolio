@@ -1,0 +1,57 @@
+\hypertarget{class_brick_collision_component}{}\section{Brick\+Collision\+Component Class Reference}
+\label{class_brick_collision_component}\index{Brick\+Collision\+Component@{Brick\+Collision\+Component}}
+
+
+This header file declares the component used for handling collisions in the \hyperlink{class_brick}{Brick} \hyperlink{class_game_object}{Game\+Object}.  
+
+
+
+
+{\ttfamily \#include $<$Brick\+Collision\+Component.\+h$>$}
+
+Inheritance diagram for Brick\+Collision\+Component\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=4.000000cm]{class_brick_collision_component}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_brick_collision_component_ac2c7dfafc9fea0857d018e52879a9847}{}{\bfseries Brick\+Collision\+Component} (\hyperlink{class_game_object}{Game\+Object} $\ast$const go)\label{class_brick_collision_component_ac2c7dfafc9fea0857d018e52879a9847}
+
+\item 
+\hypertarget{class_brick_collision_component_a944b2ff38843cda6bd387a198470552c}{}void {\bfseries Update} () override\label{class_brick_collision_component_a944b2ff38843cda6bd387a198470552c}
+
+\item 
+\hypertarget{class_brick_collision_component_a601bd53d0b9e8383e6a5e47d549587ab}{}void {\bfseries Handle\+Collision} (const \hyperlink{class_game_object}{Game\+Object} \&collidee) override\label{class_brick_collision_component_a601bd53d0b9e8383e6a5e47d549587ab}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_brick_collision_component_af80c273547fd6e0e8046183dea6f3105}{}\hyperlink{class_brick}{Brick} $\ast$ {\bfseries brick\+\_\+}\label{class_brick_collision_component_af80c273547fd6e0e8046183dea6f3105}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the component used for handling collisions in the \hyperlink{class_brick}{Brick} \hyperlink{class_game_object}{Game\+Object}. 
+
+It is updated every frame and is called by Handle\+Collision if involved in a collision.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Brick\+Collision\+Component.\+h\item 
+Brick\+Collision\+Component.\+cpp\end{DoxyCompactItemize}

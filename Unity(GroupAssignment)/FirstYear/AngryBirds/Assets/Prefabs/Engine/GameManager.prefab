@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  - 114: {fileID: 11400002}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -.131140083, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb810897280af0143ad823db15b264b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a133733957d7f954ea360497799f460e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PIG: 100
+  PIG_WITH_HELMET: 200
+  KING_PIG: 500
+  RED_BIRD: 100
+  FAT_BIRD: 200
+  ORANGE_BIRD: 300
+  BLACK_BIRD: 400
+  BLOCK_WOOD: 50
+  CIRCLE_WOOD: 50
+  RECTANGLE_WOOD: 50
+  SHORTESTRECTANGLE_WOOD: 25
+  SHORTRECTANGLE_WOOD: 25
+  SMALLBLOCK_WOOD: 25
+  TRIANGLE_WOOD: 70
+  TRIANGLE2_WOOD: 70
+  SMALLBLOCK_STONE: 25
+  SMALLESTBLOCK_STONE: 15
+  BLOCK_STONE: 50
+  BLOCK2_STONE: 50
+  SMALLCIRCLE_STONE: 25
+  CIRCLE_STONE: 50
+  RECTANGLE_STONE: 50
+  SHORTESTRECTANGLE_STONE: 15
+  SHORTRECTANGLE_STONE: 25
+  LONGRECTANGLE_STONE: 70
+  FATRECTANGLE_STONE: 70
+  TRIANGLE_STONE: 70
+  TRIANGLE2_STONE: 70
+  BLOCK_GLASS: 50
+  SMALLBLOCK_GLASS: 25
+  SMALLESTBLOCK_GLASS: 15
+  CIRCLE_GLASS: 50
+  SMALLCIRCLE_GLASS: 25
+  FATRECTANGLE_GLASS: 70
+  RECTANGLE_GLASS: 50
+  SHORTRECTANGLE_GLASS: 25
+  SHORTESTRECTANGLE_GLASS: 15
+  LONGRECTANGLE_GLASS: 70
+  TRIANGLE_GLASS: 70
+  TRIANGLE2_GLASS: 70
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

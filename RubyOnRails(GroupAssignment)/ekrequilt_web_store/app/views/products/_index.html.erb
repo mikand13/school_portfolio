@@ -1,0 +1,41 @@
+<section role="main" class="forms large-5 large-centered columns scroll-container">
+  <fieldset>
+    <legend><%= t('products.title') %></legend>
+        <div class="row">
+          <div class="large-16">
+            <div class="products-show">
+              <p id="notice"><%= notice %></p>
+
+              <table>
+                <tr>
+                  <% @products.each_slice(3) do |slice| %>
+                      <% slice.each do |product| %>
+                          <td class="product">
+                            <div class="th">
+                              <%= link_to product, class: 'product-link', remote: true do %>
+                                  <% if product.image_url %>
+                                      <%= image_tag product.image_url, alt: product.name, width: 250, height: 250 %>
+                                  <% else %>
+                                      <%= image_tag 'http://placehold.it/140x100', alt: product.name, width: 250, height: 250 %>
+                                  <% end %>
+                              <% end %>
+                            </div>
+                            <ul>
+                              <li><%= product.name %></li>
+                              <li><%= number_to_currency product.price %></li>
+                            </ul>
+                            <hr>
+
+                          </td>
+                      <% end %>
+                      </tr>
+                  <% end %>
+                  </table>
+
+              <%= will_paginate @products, previous_label: '<<', next_label: '>>' %>
+              <br>
+            </div>
+          </div>
+        </div>
+  </fieldset>
+</section>

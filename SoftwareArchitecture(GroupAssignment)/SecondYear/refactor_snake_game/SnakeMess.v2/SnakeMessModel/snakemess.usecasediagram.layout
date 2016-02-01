@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="fakmadr">
+  <useCaseModelRootMoniker Id="d447e2b6-93c7-4537-aa4a-6444ac57c5f9" />
+  <nestedChildShapes>
+    <actorShape Id="d7344ed9-ae5c-4e7c-843b-02212c28d722" absoluteBounds="0.5, 2.125, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="2b016cd9-ff60-4f36-9314-41de119eb313" LastKnownName="Player" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="98361796-b73c-4b49-9d8e-3199c52ac7bf" absoluteBounds="4.125, 3.5, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="c35b3308-31d1-4930-8dfb-877f4b2eb83e" LastKnownName="Control snake" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseShape Id="55056fa7-b78e-4729-9d57-8521862c58fe" absoluteBounds="4.125, 0.75, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="24b09114-a7eb-4a98-b414-41b38646cbb0" LastKnownName="End Game" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseShape Id="ebfef273-8dfb-4ae8-af59-892416d33657" absoluteBounds="2.125, 2.125, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="16f7276f-a3ad-4bf8-bfc7-1bce6934e044" LastKnownName="Start Game" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseAssociationConnector edgePoints="[(1 : 2.375); (2.125 : 2.375)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110" sourceMultiplicity="" targetMultiplicity="">
+      <associationMoniker Id="13c47afd-e932-4603-83f9-c525b821d069" />
+      <relativeChildShapes />
+      <nodes>
+        <actorShapeMoniker Id="d7344ed9-ae5c-4e7c-843b-02212c28d722" />
+        <useCaseShapeMoniker Id="ebfef273-8dfb-4ae8-af59-892416d33657" />
+      </nodes>
+    </useCaseAssociationConnector>
+    <extendConnector edgePoints="[(4.33091415116248 : 1.2021840210758); (2.91908584883752 : 2.1728159789242)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="Black" useCaseStereotype="«extend»">
+      <extendMoniker Id="0de62b46-9622-4120-a82f-2e61c019562d" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="55056fa7-b78e-4729-9d57-8521862c58fe" />
+        <useCaseShapeMoniker Id="ebfef273-8dfb-4ae8-af59-892416d33657" />
+      </nodes>
+    </extendConnector>
+    <extendConnector edgePoints="[(4.33091415116248 : 3.5478159789242); (2.91908584883752 : 2.5771840210758)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="Black" useCaseStereotype="«extend»">
+      <extendMoniker Id="70380549-e812-46d7-8b8f-5c92852ccae8" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="98361796-b73c-4b49-9d8e-3199c52ac7bf" />
+        <useCaseShapeMoniker Id="ebfef273-8dfb-4ae8-af59-892416d33657" />
+      </nodes>
+    </extendConnector>
+    <useCaseShape Id="da1c52c5-8a48-4554-90ae-dfbfe4bcc66c" absoluteBounds="4.125, 2.125, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="1c12f2ad-f1f9-430e-84e3-992770311207" LastKnownName="Pause Game" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <extendConnector edgePoints="[(4.125 : 2.375); (3.125 : 2.375)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="Black" useCaseStereotype="«extend»">
+      <extendMoniker Id="cce6d218-6601-47c6-bc3c-9bea906e3ffc" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="da1c52c5-8a48-4554-90ae-dfbfe4bcc66c" />
+        <useCaseShapeMoniker Id="ebfef273-8dfb-4ae8-af59-892416d33657" />
+      </nodes>
+    </extendConnector>
+    <rectangleShape Id="9b354ed0-11a8-4487-a3a5-4f857dabc157" absoluteBounds="1.75, 0.5, 3.75, 3.75" outlineColor="83, 134, 191" outlineThickness="0.03125" />
+  </nestedChildShapes>
+</useCaseDiagram>

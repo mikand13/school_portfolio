@@ -1,0 +1,1 @@
+Feature: As the administrator I want to be able to unlock users, so I can resolve a locked user as quickly as possible.

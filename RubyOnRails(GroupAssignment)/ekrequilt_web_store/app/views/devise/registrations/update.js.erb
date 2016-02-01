@@ -1,0 +1,6 @@
+<% if resource.errors.empty? %>
+    $('#sign-in-modal').foundation('reveal', 'close');
+    <%= render partial: 'layouts/status' %>
+<% else %>
+    $('#js-message').html("<%= escape_javascript(render partial: 'layouts/messages') %>");
+<% end %>

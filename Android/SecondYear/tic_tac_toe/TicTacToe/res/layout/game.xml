@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/mainGameWindow"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:padding="5dp">
+    <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/playerOneTextGame"
+                android:textSize="24sp"
+                android:padding="5dp"
+                android:id="@+id/playerOneNameGame"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/playerTwoTextGame"
+                android:textSize="24sp"
+                android:padding="5dp"
+                android:id="@+id/playerTwoNameGame"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="@string/gamePlayerDoneButtonText"
+                android:id="@+id/gamePlayerDoneButton"
+                android:layout_gravity="center_horizontal"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"/>
+    </RelativeLayout>
+
+    <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gameGameBoard"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true">
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="fill_parent">
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/upperLeftCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/upperCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/upperRightCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+        </TableRow>
+
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="fill_parent">
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/leftCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/center"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/rightCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+        </TableRow>
+
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="fill_parent">
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/lowerLeftCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/lowerCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+            <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/lowerRightCenter"
+                    android:src="@drawable/empty"
+                    android:contentDescription="@string/imageDescriptorsInGame"
+                    android:background="@color/white" android:padding="3dp"/>
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/gamePauseText"
+                android:id="@+id/gamePauseText"
+                android:textSize="16sp"
+                android:textIsSelectable="false"
+                android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+</RelativeLayout>

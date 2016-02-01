@@ -1,0 +1,12 @@
+en:
+  mailer:
+    news: News
+    news_products: New products
+    products:
+      title: "Check out these products"
+    contact_form: "Contact form Ekrequilt"
+    contact: "Your contactform"
+    contact_us: "Contact us"
+    contact_email: "Email:"
+    contact_content: "Content:"
+    thank_you_for_your_contact: "Thank you, we will respond as soon as possible!"

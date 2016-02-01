@@ -1,0 +1,180 @@
+@import "bourbon";
+
+.link-border-bottom {
+  &:hover {
+    border-bottom: 1px solid #54A792;
+  }
+}
+
+.products-header {
+  text-align: center;
+}
+
+nav.top-bar {
+  text-align: center;
+}
+
+.top-bar-section {
+  position: relative;
+  display: inline-block;
+}
+
+.category_smallScreen {
+  display: none;
+}
+
+@media only screen and (max-width: 650px) {
+  .category {
+    .top-bar-section {
+      max-height: 0;
+      overflow: hidden;
+      float: none;
+//      text-align: center;
+      width: 100%;
+      @include transition(max-height 0.5s);
+      &.menusOpen {
+        max-height: 500px;
+        @include transition(max-height 0.5s)
+      }
+      ul {
+        li {
+          display: inline-block;
+          width: 100%;
+          background: none;
+        }
+        a {
+          display: block;
+          padding: 10px 0;
+          width: 50%;
+        }
+      }
+
+    }
+
+  }
+
+  .category_smallScreen {
+    display: inline-block;
+  }
+
+}
+
+.dropdown {
+  border: 1px solid #e6e6e6;
+}
+
+.search-form-search {
+  position: absolute;
+  left: 50%;
+  margin: 10px auto 0;
+  margin-left: -110px; /* endre ved mediaqueries*/
+}
+
+#search {
+  font-weight: normal;
+  color: #000000;
+  border-right: 0px;
+  width: 186px;
+  height: 32px;
+  box-sizing: border-box;
+  font-size: 0.875em;
+  padding: 6px 9px 6px;
+  float: left;
+  border-radius: 3px 0px 0px 3px;
+}
+
+#search-submit {
+  width: 32px;
+  height: 32px;
+  float: left;
+  background: rgba(250, 250, 250, 0.5) url(//cdn.shopify.com/s/files/1/0237/4165/t/25/assets/desktop-search.png?7199838819773399496) no-repeat center center;
+  padding: 0px 0px 0px 0px;
+  border-radius: 0px 3px 3px 0px;
+  border: 1px solid #d2d2d2;
+  border-left: 0 none;
+  text-indent: -9999px;
+}
+
+#status_buttons {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0;
+}
+
+#status_buttons li {
+  display: inline-block;
+  line-height: 50px;
+}
+
+.contain-to-grid {
+  background-color: #54A792;
+  height: 60px;
+}
+
+.top-bar-stuff {
+  padding: 5px;
+  position: relative;
+  text-align: center;
+  display: block;
+}
+
+.contain-to-grid a {
+  color: #ffffff;
+  float: right;
+}
+
+.contain-to-grid a:hover {
+  color: #ff0099;
+}
+
+.logo-details {
+  max-width: 50px; /* endres til logo størrelse*/
+  display: inline-block;
+  float: left;
+}
+
+.links a {
+  padding-right: 20px;
+}
+
+.menuIcon {
+  display: none;
+}
+
+@media only screen and (max-width: 1000px) {
+  .menu {
+    .links {
+      max-height: 0;
+      overflow: hidden;
+      float: none;
+      text-align: center;
+      width: 100%;
+      @include transition(max-height 0.5s);
+      &.menuOpen {
+        max-height: 1000px;
+        @include transition(max-height 0.5s)
+      }
+      ul {
+        li {
+          //          display: block;
+          width: 100%;
+          //          background: #000;
+        }
+        a {
+          padding: 10px 0;
+          width: 50%;
+        }
+      }
+
+    }
+  }
+
+  .menuIcon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+
+

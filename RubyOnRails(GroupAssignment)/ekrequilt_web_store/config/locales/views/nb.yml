@@ -1,0 +1,115 @@
+nb:
+  buy: Legg i quiltepose
+  order_error: Det skjedde en feil, kjøpet er kansellert.
+  order_completed: Ordre lagt inn!
+  continue_shopping: Fortsett å handle
+  checkout: Sjekk ut varene
+  back: Tilbake
+  send: Send
+  abort: Avbryt
+  new_order: Ny Ordre
+  confirm_order: Bekreft din bestilling
+  products:
+    title: Produkter
+    category: Kategori
+    sub_category: Subkategori
+  cart:
+    total: "Totalt:"
+    no_line_items_in_cart: "Du har ingen varer i quilteposen din!"
+    name: "Quiltepose"
+    product: "Produkt"
+    quantity: "Ant"
+    unit_price: "Pris per enhet"
+    full_price: "Full pris"
+    currency: "NOK"
+  admin_page: Admin
+  store_manager_page: Butikksjef
+  devise:
+    login: Logg inn
+    log_out: Logg ut
+    confirmations:
+      resend_confirmation: "Send bekrefelsesepost på nytt"
+      no_confirmation: "Ikke fått bekreftelsesmail?"
+      resend_confirmation_form: "Send bekreftelsesmail"
+      account_confirmation: "Bekreft konto"
+      first_name: "Fornavn:"
+      last_name: "Etternavn:"
+      choose_password: "Velg ett passord:"
+      password_confirmation: "Gjenta passord:"
+    registrations:
+      sign_up: "Registrer deg"
+      do_sign_up: "Registrer"
+      delete_account: "Slett min konto"
+      current_password: "(vi trenger ditt nåværende passord for å bekrefte dine endringer)"
+      leave_empty_if_no_change: "(la stå tom om du ikke vil endre)"
+      awaiting_confirmation: "Venter på bekretelse for:"
+    passwords:
+      forgotten: "Glemt passord?"
+      change_password: "Bytt ditt passord"
+      new_password: "Nytt passord"
+      forgotte_password: "Glemt passordet ditt?"
+      reset: "Send tilbakestillingsmail"
+    failure:
+      locked_link:
+        no_mail: "Ikke fått opplåsningsmail?"
+    login_with: "Logg inn med"
+    confirm: "Bekreft"
+  edit: Endre
+  update: Oppdater
+  account_confirmation: "Bekreft konto"
+  first_name: "Fornavn:"
+  order:
+    show:
+      first_name: "Fornavn:"
+      last_name: "Etternavn:"
+      sum: "Sum:"
+    prohibited: "forhindret denne orderen i å gå igjennom."
+  order_cost: Varer for
+  empty_quiltbag: "Tøm quiltepose"
+  users:
+    name: "Navn: "
+    street: "Gate: "
+    city: "By: "
+    zip: "Postnummer: "
+    country: "Land: "
+    cancel_order: "Kanseller ordre"
+    orders:
+      number_of_items: "Antall produkter:"
+      total_price: "Total pris:"
+      status: "Status:"
+      purchased_at: "Bestilt:"
+      closed_at: "Behandlet:"
+      your_orders: "Dine ordre"
+      number: "Ordrenummer:"
+      transactions:
+        number: "Transaksjonsnummer:"
+        name: "Transaksjoner"
+      transations:
+        created: "Gjennomført:"
+      action: "Handling:"
+  orders:
+    confirm: "Bekreft kjøp av følgende varer:"
+  mypage: "Min side"
+  activerecord:
+    attributes:
+      product_category:
+        name: "Kategori"
+  unsubscribe_from_newsletter: "Trykk her for å avbestille nyhetsbrev"
+  subscribe_to_newsletter: "Klikk her for å bestille nyhetsbrev"
+  root: "Ekrequilt"
+  address: Adresse
+  fourotwo: "Oops, det har skjedd en 500 feil!"
+  fourofour: "Oops, det har skjedd en 500 feil!"
+  fivehundred: "Oops, det har skjedd en 500 feil!"
+  try_again: "Prøv igjen!"
+  address: Adresse
+  items_sold: Antall solgt
+  confirm_order: Bekreft ordre
+  cancel_order: Kansellér ordre
+  refund_order: Refundér ordre
+  email_cannot_be_blank: "Epost kan ikke være tom"
+  user:
+    change_password: "Bytt passord"
+    administer_account: "Administrer konto"
+  cancel_account: "Kanseller konto:"
+  authorize_order: "Autoriser Ordre"

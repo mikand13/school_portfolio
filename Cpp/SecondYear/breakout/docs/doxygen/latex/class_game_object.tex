@@ -1,0 +1,96 @@
+\hypertarget{class_game_object}{}\section{Game\+Object Class Reference}
+\label{class_game_object}\index{Game\+Object@{Game\+Object}}
+
+
+This header file declares the base class for all Game\+Objects.  
+
+
+
+
+{\ttfamily \#include $<$Game\+Object.\+h$>$}
+
+Inheritance diagram for Game\+Object\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_game_object}
+\end{center}
+\end{figure}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_game_object_aa15598edc0e71df4b2765d036cabaf32}{}typedef std\+::vector$<$ std\+::unordered\+\_\+map$<$ int, \hyperlink{class_game_object}{Game\+Object} $\ast$ $>$ $\ast$ $>$ {\bfseries vector\+\_\+of\+\_\+maps\+\_\+gos}\label{class_game_object_aa15598edc0e71df4b2765d036cabaf32}
+
+\item 
+\hypertarget{class_game_object_ab21506a575f86173294bd94b3c7a48d3}{}typedef std\+::vector$<$ \hyperlink{class_component}{Component} $\ast$ $>$ {\bfseries vector\+\_\+of\+\_\+components}\label{class_game_object_ab21506a575f86173294bd94b3c7a48d3}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_game_object_a1fae8627f0de98cedd1457f7253556f3}{}int {\bfseries Get\+Name} () const \label{class_game_object_a1fae8627f0de98cedd1457f7253556f3}
+
+\item 
+\hypertarget{class_game_object_a77e945de9f52202defdafeb36d0cca5b}{}S\+D\+L\+\_\+\+Rect $\ast$ {\bfseries Get\+Coords} ()\label{class_game_object_a77e945de9f52202defdafeb36d0cca5b}
+
+\item 
+\hypertarget{class_game_object_a4fad55526c42fc5baf1499bc8ab3173c}{}S\+D\+L\+\_\+\+Rect {\bfseries Get\+Coords} () const \label{class_game_object_a4fad55526c42fc5baf1499bc8ab3173c}
+
+\item 
+\hypertarget{class_game_object_a411545b4436e623739e5983f2231804f}{}void {\bfseries Add\+Component} (\hyperlink{class_component}{Component} \&component)\label{class_game_object_a411545b4436e623739e5983f2231804f}
+
+\item 
+\hypertarget{class_game_object_a1afb5a377cf4f2d8655ca8d5a4e0f088}{}vector\+\_\+of\+\_\+components {\bfseries Get\+Components} () const \label{class_game_object_a1afb5a377cf4f2d8655ca8d5a4e0f088}
+
+\item 
+\hypertarget{class_game_object_a6692f17490344d6e95251f9f3d215d2b}{}\hyperlink{class_collision_component}{Collision\+Component} $\ast$ {\bfseries Get\+Collider} () const \label{class_game_object_a6692f17490344d6e95251f9f3d215d2b}
+
+\item 
+\hypertarget{class_game_object_ade27cb8f0cd61893efd4c2dee6c0f522}{}void {\bfseries Set\+Collision\+Grid\+Position} (const vector\+\_\+of\+\_\+maps\+\_\+gos \&grid\+\_\+cell)\label{class_game_object_ade27cb8f0cd61893efd4c2dee6c0f522}
+
+\item 
+\hypertarget{class_game_object_ab964b02bf537844e8fa159cfa192778d}{}vector\+\_\+of\+\_\+maps\+\_\+gos $\ast$ {\bfseries Get\+Collision\+Grid\+Position} ()\label{class_game_object_ab964b02bf537844e8fa159cfa192778d}
+
+\item 
+\hypertarget{class_game_object_af722f1a052cc4933b1dd6c2bf866b0ba}{}vector\+\_\+of\+\_\+maps\+\_\+gos {\bfseries Get\+Collision\+Grid\+Position} () const \label{class_game_object_af722f1a052cc4933b1dd6c2bf866b0ba}
+
+\item 
+\hypertarget{class_game_object_a38e4c210f6bb0508ca3868653cd83a06}{}virtual void {\bfseries Handle\+Collision} (const \hyperlink{class_game_object}{Game\+Object} \&)\label{class_game_object_a38e4c210f6bb0508ca3868653cd83a06}
+
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_game_object_a46fc0e2123b0112a2d1e2d2d4df452cf}{}vector\+\_\+of\+\_\+components {\bfseries components\+\_\+}\label{class_game_object_a46fc0e2123b0112a2d1e2d2d4df452cf}
+
+\end{DoxyCompactItemize}
+\subsection*{Friends}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_game_object_af35fce83d2954152d48746a9f9b2a16d}{}bool {\bfseries operator==} (const \hyperlink{class_game_object}{Game\+Object} \&lhs, const \hyperlink{class_game_object}{Game\+Object} \&rhs)\label{class_game_object_af35fce83d2954152d48746a9f9b2a16d}
+
+\item 
+\hypertarget{class_game_object_a0b1778f244697372788e724fee0f776e}{}bool {\bfseries operator!=} (const \hyperlink{class_game_object}{Game\+Object} \&lhs, const \hyperlink{class_game_object}{Game\+Object} \&rhs)\label{class_game_object_a0b1778f244697372788e724fee0f776e}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the base class for all Game\+Objects. 
+
+It is designed to be be subclassed for any objects visible to the player.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Game\+Object.\+h\item 
+Game\+Object.\+cpp\end{DoxyCompactItemize}

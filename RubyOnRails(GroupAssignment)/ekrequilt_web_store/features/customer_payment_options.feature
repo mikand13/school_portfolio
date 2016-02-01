@@ -1,0 +1,1 @@
+Feature: As a customer I want to be able to pay by card, paypal or invoice.

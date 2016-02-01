@@ -1,0 +1,102 @@
+en:
+  activerecord:
+    errors:
+      models:
+        account:
+          attributes:
+            password:
+              taken_in_past: "has been used before"
+    models:
+      account:
+        one: Account
+        other: Accounts
+      inventory:
+        one: Inventory
+        other: Inventories
+      order:
+        one: Order
+        other: Orders
+      order_transaction:
+        one: Transaction
+        other: Transactions
+      product:
+        one: Product
+        other: Products
+      product_category:
+        one: Category
+        other: Categories
+      user:
+        one: User
+        other: Users
+    attributes:
+      account:
+        password: Password
+        provider: Provider
+        created_at: Created at
+        updated_at: Updated
+        email: Email
+        sign_in_count: Sign in count
+        confirmed_at: Confirmed at
+        confirmation_sent_at: Confirmation sent
+        failed_attempts: Failed login attempts
+        first_name: First name
+        last_name: Last name
+        full_name: Full name
+      inventory:
+        available_quantity: Available products
+        pending_sale: Pending sales
+        created_at: Created at
+        updated_at: Updated
+      order:
+        ip_address: IP-address
+        first_name: First name
+        last_name: Last name
+        street: Street name
+        city: City
+        state: State
+        country: Country
+        zip: ZIP
+        card_number: Card Number
+        card_verification: Card Verification Number (CVV)
+        card_brand: Card-brand
+        card_expires_on: Expires
+        open: Open
+        status: Status
+        purchased_at: Bought
+        closed_at: Closed
+        created_at: Created at
+        updated_at: Updated
+        user: Bruker
+        status:
+          one: Status
+          other: Statuses
+          unprocessed: Unprocessed
+          authorized: Authorized
+          captured: Captured
+          refunded: Refunded
+          voided: Cancelled
+        transaction:
+          action:
+            authorize: Authorized
+            capture: Captured
+            refund: Refunded
+            void: Cancelled
+        address: "Address"
+      product:
+        id: Id
+        name: Name
+        product_category: Category
+        price: Price
+        image:
+          one: Image
+          other: Images
+        description: Description
+        created_at: Created at
+        updated_at: Updated
+      user:
+        first_name: First name
+        last_name: Last name
+        full_name: Full name
+        created_at: Created at
+        updated_at: Updated
+        subscribed_newsletter: Subscribes to newsletter

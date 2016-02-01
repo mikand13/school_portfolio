@@ -1,0 +1,1157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/UseCaseModel"
+  dslVersion="1.0.0.0"
+  Id="8ebfcc75-208e-422f-b492-ca994ef615dc"
+  name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <appliedStereotypesInternal>
+    <stereotypeInstance
+      Id="29375dee-d7f2-499d-9421-4bbdd5edf4c9"
+      name="namespace"
+      profile="CSharpProfile">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b1d68c8b-5948-4023-a392-c3b32d014229">
+          <propertyInstance
+            Id="967a08c2-8145-4cc8-9b96-bfc4e5a0fb51"
+            name="BaseName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="e74915a1-55ff-4973-8544-7c9a6f2f1625">
+          <propertyInstance
+            Id="12fd861b-23f0-41bb-8a05-fbefa24f88d1"
+            name="ClrAttributes" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="79aa1e01-b080-4aca-805c-1b33c05ab602">
+          <propertyInstance
+            Id="3f1d6405-2101-4e39-b497-4603afb8e3da"
+            name="Usings" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance
+      Id="01d87224-5e92-4bf4-9269-32832f8efa80"
+      name="TextTemplateBindings"
+      profile="TextTemplateBindings">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="f54c06cb-37ab-44c2-95c5-f96667cfc62e">
+          <propertyInstance
+            Id="dffcaa44-b305-49c8-9907-77048ef1aec8"
+            name="Alias"
+            value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="bc3a0a4a-70ff-4183-894e-1912214ee327">
+          <propertyInstance
+            Id="1bcb2392-d1c1-40e6-a2b0-6f7b3502e937"
+            name="TemplateFilePath"
+            value="ClassTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="1202cdc1-2b21-4ca4-bbb6-bf5d530d4eb0">
+          <propertyInstance
+            Id="c276b1c8-9aa1-438f-8336-dd7e82953c6b"
+            name="ProjectPath"
+            value="ClassTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|EnumTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|InterfaceTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj|StructTemplate=..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="a138c296-d8b8-4796-85e7-99893908f2a0">
+          <propertyInstance
+            Id="ff0e3b52-ffb2-429e-b0d1-f3df6ab35b23"
+            name="TargetDirectory"
+            value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="01b39d18-f5ce-4317-b1e1-73447d9b4d70">
+          <propertyInstance
+            Id="8dd7106a-cef4-41ee-90f6-57b181f285a0"
+            name="TargetName"
+            value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="85e56d26-0342-41ac-a36a-e2238af9e963">
+          <propertyInstance
+            Id="fb1232b3-1e27-4ef0-998c-07acd21cda6f"
+            name="Overwrite"
+            value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="889d1c56-1f10-4769-b3d4-33745c69838f">
+          <propertyInstance
+            Id="2d06cad5-ecd1-4785-8a26-c1a9c094d999"
+            name="Parameters" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="86a7f25f-e657-4d3a-9704-b044429efb1c">
+      <profileInstance
+        Id="749a803f-b542-4cf3-9b0f-67eed91c302f"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="b7bac356-53fb-40e7-b256-1462e7d8ead3">
+      <profileInstance
+        Id="b1303911-5a03-4150-abb8-47d104ef8c32"
+        name="TextTemplateBindings" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="81f64cad-e85b-4f90-b2a9-f926aba7b54c"
+        name="Player"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="d6bd1417-5746-432b-8ee2-54e0c2ea6e98"
+            isDerived="false"
+            sourceEndRoleName="Player"
+            targetEndRoleName="Start Game"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc"
+              LastKnownName="Start Game"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="ab5b61e8-afe1-4ca7-9e0f-eeaed69dfecf"
+                  name="Player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="3d3567d1-4f14-4d2d-8b54-4d77d2f0ff78"
+                  name="Start Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="3cdd5b43-eb22-485a-95ba-872e4080d1c4"
+        name="Control snake"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="51221c4b-d109-4245-85c5-7397af1b5f5a">
+            <useCaseMoniker
+              Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc"
+              LastKnownName="Start Game"
+              LastKnownLocation="snakemess.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <subsystem
+        Id="0ddbd8bf-c6f6-47e1-b62f-2eac57f6ca86"
+        name="Subsystem1"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="343170cf-1327-4e22-b92d-3f1347369aa2"
+        name="Snake"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="0b8c1c77-681b-4371-8706-b91cd6b1dce3"
+            isDerived="false"
+            sourceEndRoleName="Snake"
+            targetEndRoleName="Move"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="bbb56cc8-3188-4f9c-905b-cff9e21117ed"
+              LastKnownName="Move"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="16a11cf6-058b-4ab9-8ab5-7daa8efe22a5"
+                  name="Snake"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="3cf5f872-86d7-4a63-842f-d0ef11d45a1c"
+                  name="Move"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="270afdab-922f-4c33-aa69-43baadef68e4"
+        name="Collision"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="3530acc5-5809-4117-b789-983c5c2ce931">
+            <useCaseMoniker
+              Id="bbb56cc8-3188-4f9c-905b-cff9e21117ed"
+              LastKnownName="Move"
+              LastKnownLocation="snakemess.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="9a640af5-d2fa-402e-ab1b-c477c1973ab9"
+        name="Consume"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="5bc25c79-71b1-4b0e-9308-c06101a8bb62">
+            <useCaseMoniker
+              Id="bbb56cc8-3188-4f9c-905b-cff9e21117ed"
+              LastKnownName="Move"
+              LastKnownLocation="snakemess.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="bbb56cc8-3188-4f9c-905b-cff9e21117ed"
+        name="Move"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <artifact
+        Id="c8719ed5-6b22-4497-9c42-a30de531771c"
+        name="Artifact1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="744c84a4-e145-47df-850e-9f4424eeaced"
+        name="Snake"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <generalsInternal>
+          <generalization
+            Id="fe7390d4-6efe-4d74-a261-ae4fa2e11605"
+            isSubstitutable="false">
+            <classMoniker
+              Id="3a7939e4-02f6-4257-8b8c-bdd9d00d6ecd"
+              LastKnownName="GameObject"
+              LastKnownLocation="snakemess.uml" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property
+            Id="f0831e10-ea67-4217-b105-8670570822dc"
+            name="List&lt;Vector2D&gt;"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="a93ad515-be88-47a5-854d-2f69caed9025"
+                LastKnownName="body"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <enumeration
+        Id="3e924350-78e2-48d5-b07f-6e72668e69a2"
+        name="Direction"
+        isAbstract="false"
+        isLeaf="false">
+        <ownedLiterals>
+          <enumerationLiteral
+            Id="8278e705-166e-43dc-9576-b20e860f74ff"
+            name="NORTH" />
+          <enumerationLiteral
+            Id="f9c58933-dfed-4ee8-99cb-2e0b5149b4a4"
+            name="EAST" />
+          <enumerationLiteral
+            Id="53bb085c-4bee-40cf-a7a2-4b901607d80e"
+            name="SOUTH" />
+          <enumerationLiteral
+            Id="a58c4836-1c20-46d7-be70-775e1e03a520"
+            name="WEST" />
+        </ownedLiterals>
+      </enumeration>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <enumeration
+        Id="b346645f-23fe-489b-8527-51a09765f2e5"
+        name="GameState"
+        isAbstract="false"
+        isLeaf="false">
+        <ownedLiterals>
+          <enumerationLiteral
+            Id="a01ecdf0-8bba-4eba-b713-c782e532cd45"
+            name="RUNNING" />
+          <enumerationLiteral
+            Id="528c9797-92bf-4ea1-814e-289ec655a873"
+            name="PAUSED" />
+          <enumerationLiteral
+            Id="40d9165b-6c05-4b2f-ae4b-fce4165bd806"
+            name="OVER" />
+        </ownedLiterals>
+      </enumeration>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="12f846ef-d9af-4111-8c00-551b8dd811b5"
+        name="GameManager"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <targetEnds>
+          <association
+            Id="1eab933d-3f2c-473f-a8b3-443e1a035cee"
+            isDerived="false"
+            sourceEndRoleName="GameManager"
+            targetEndRoleName="GameState"
+            isLeaf="false"
+            isAbstract="false">
+            <enumerationMoniker
+              Id="b346645f-23fe-489b-8527-51a09765f2e5"
+              LastKnownName="GameState"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="8ab848be-64c1-411d-aa19-855e7a8af66a"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="9ff18b51-21d6-4bce-b5ed-0fe9b8e8bdfc"
+                  name="GameState"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="1531ed33-54d2-4e35-b36f-55b3fe69de7d"
+            isDerived="false"
+            sourceEndRoleName="GameManager"
+            targetEndRoleName="SnakePit"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="104c72ec-1f99-47d6-9ccf-f483831bb988"
+              LastKnownName="SnakeLevel"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="aea26e22-1310-4e85-88c2-f4c00823ff8f"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="9de04f91-a109-4f58-b147-f205d075251f"
+                  name="SnakePit"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="53201f5f-56ec-4c50-b95f-56fc9bca3f4e"
+            isDerived="false"
+            sourceEndRoleName="GameManager"
+            targetEndRoleName="InputManager"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="71cd0273-2054-4664-812c-fe69d0a61e59"
+              LastKnownName="InputManager"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="8bc61759-4357-4142-83ae-fa9612440357"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="1c77c8f8-1518-4461-90f1-1e2c83a1d4c9"
+                  name="InputManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="7e01dca8-2b60-425d-a136-625c567835b4"
+            isDerived="false"
+            sourceEndRoleName="GameManager"
+            targetEndRoleName="CollisionEngine"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="0f6a9c6c-8c59-4b55-8744-40f4c7450e41"
+              LastKnownName="CollisionEngine"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="832dd9d3-1138-4618-9a6b-9b526fcf28d6"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="300eb44c-0181-4e40-96c4-fce5653db388"
+                  name="CollisionEngine"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="1140c400-2949-4df8-b732-cd142200986b"
+            isDerived="false"
+            sourceEndRoleName="GameManager"
+            targetEndRoleName="GameObject"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="3a7939e4-02f6-4257-8b8c-bdd9d00d6ecd"
+              LastKnownName="GameObject"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="34516cd8-3a26-49ef-8052-6185c7deabf3"
+                  name="GameManager"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5a572f32-1aca-4a38-9f37-f155dea2f123"
+                  name="GameObject"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <ownedOperationsInternal>
+          <operation
+            Id="b8b92a29-9b29-418e-bdf2-fb6a59dd31ab"
+            name="void:GameLoop"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="99720628-a001-44ac-822e-5798c1797a49"
+        name="Vector2D"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedAttributesInternal>
+          <property
+            Id="ca8a3bf1-b152-4f27-ae84-0b195bbc239b"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="2b9c7a7d-6d1b-4f08-ad9a-3182b5f11a34"
+                LastKnownName="x"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="a4b6784f-1e70-47fd-968d-5826b702ed86"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="f81ddf03-11dc-414c-8c4c-6aef0be0540d"
+                LastKnownName="y"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="169acb8e-6083-4b3b-af2b-0bace07905ff"
+            name="void:Vector2D"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="633b1b10-d16c-43a7-b28b-6d2dabce26ef"
+                  name="Vector2D vector2d"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="eff9ec9d-1372-46f6-a10f-e19ee94b5590"
+            name="void:Vector2D"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="baf60089-dda3-48a9-badc-5478c53fb195"
+                  name="int x"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="93f976b0-3ebe-4cd9-b09f-b79b2a38b250"
+                  name="int y"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="678fbc1d-467b-4e87-9fdf-41987efea10b"
+            name="void:SetX"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="dc68195a-001a-4995-bd7a-311fcf14ede1"
+                  name="int x"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="d393e889-702c-40e8-94b1-f6ed7b9e1ddf"
+            name="void:SetY"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="2a53ea89-1c7d-4d3e-9390-14adc7d6fcce"
+                  name="int y"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="3f89eb9b-cb0a-4105-a5cf-21fd3af757e9"
+            name="int:GetX"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="7d10ab2d-2fc9-43bb-a75e-66b835881172"
+            name="int:GetY"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="28dd9939-28be-4b03-9db8-bed3fbb1d533"
+            name="Vector2D:GetPosition"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="55fd03b9-bd01-4f4b-a6f5-3eb159b02334"
+        name="Fruit"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <generalsInternal>
+          <generalization
+            Id="f55903cb-5915-4a7b-ab01-9b4b011ec0a0"
+            isSubstitutable="false">
+            <classMoniker
+              Id="3a7939e4-02f6-4257-8b8c-bdd9d00d6ecd"
+              LastKnownName="GameObject"
+              LastKnownLocation="snakemess.uml" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="3bf5b9c9-76cf-4d5f-8f33-ff0f9f2770c3"
+            name="void:Fruit"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="3a7939e4-02f6-4257-8b8c-bdd9d00d6ecd"
+        name="GameObject"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <targetEnds>
+          <association
+            Id="60623f4d-f9de-422e-ae66-fdb169169574"
+            isDerived="false"
+            sourceEndRoleName="GameObject"
+            targetEndRoleName="Vector2D"
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="99720628-a001-44ac-822e-5798c1797a49"
+              LastKnownName="Vector2D"
+              LastKnownLocation="snakemess.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="98e0b441-691c-4651-8221-4ea169b09325"
+                  name="GameObject"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Composite"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="c818ffc6-ed56-4f68-8f44-797ac48492b1"
+                  name="Vector2D"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="true" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property
+            Id="87c94e31-0a7c-4eab-b881-ab04f8db0690"
+            name="Vector2D"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="0d2b7642-6670-401d-befe-c88a988cc06b"
+                LastKnownName="position"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="e3bb2377-419b-4201-b457-2b8c0ee1b5f8"
+            name="void:Draw"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="6d228e21-8d3e-40c7-9c50-8c30c8ce1d06"
+            name="bool:CollisionWith"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false">
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="dedb2b14-e7d0-4820-9a70-4090e1dec7f4"
+                  name="GameObject go1"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter
+                  Id="41bdca23-8073-41a9-8082-b6424b58588e"
+                  name="GameObject g2"
+                  direction="In"
+                  isUnique="false" />
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation
+            Id="25935cfa-73bb-4292-81e7-9b06669e9b1b"
+            name="void:Update"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <enumeration
+        Id="c21b9c70-53e9-4e37-b439-68f7df2aa283"
+        name="Enumeration1"
+        isAbstract="false"
+        isLeaf="false">
+        <ownedLiterals>
+          <enumerationLiteral
+            Id="066b7c6d-8349-401d-a1d3-3334402b10af"
+            name="FITTEPOENG" />
+          <enumerationLiteral
+            Id="2123a213-63ab-4223-bf5d-67c788fd179f"
+            name="FRUKTPOENG" />
+        </ownedLiterals>
+      </enumeration>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="2b9c7a7d-6d1b-4f08-ad9a-3182b5f11a34"
+        name="x" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="f81ddf03-11dc-414c-8c4c-6aef0be0540d"
+        name="y" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="a93ad515-be88-47a5-854d-2f69caed9025"
+        name="body" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="be0eb446-2522-4728-aff6-b451ff330648"
+        name="fruit" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="26365521-db72-43f6-a029-b0af4d92f49b"
+        name="snake" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="0d2b7642-6670-401d-befe-c88a988cc06b"
+        name="position" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="104c72ec-1f99-47d6-9ccf-f483831bb988"
+        name="SnakeLevel"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedAttributesInternal>
+          <property
+            Id="4a02ae1a-c56d-4e4f-b444-886137be643b"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="c2441ad4-828a-4325-b0d9-e3078a0ef7da"
+                LastKnownName="FRUIT_AMOUNT"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="dcec1423-af9c-4121-a59d-4978fe0db1a5"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="c42fb39d-e062-42fb-adb4-43904cb15124"
+                LastKnownName="SNAKE_AMOUNT"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="ad5d2d18-0d1d-425e-9dcc-7dcf2284e526"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="be300b9f-3659-4a70-84ac-dadd511ffcb6"
+                LastKnownName="WIDTH_BOUNDS"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="e5a9bfc9-1109-4c6e-8999-623051d575ad"
+            name="int"
+            visibility="Private"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <undefinedTypeMoniker
+                Id="652eafb4-f31b-4585-9277-5e2f7d850aaf"
+                LastKnownName="HEIGHT_BOUNDS"
+                LastKnownLocation="snakemess.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="fc3a14e2-fd76-4e81-8039-a3ed5c1de1d0"
+        name="fruti" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="be300b9f-3659-4a70-84ac-dadd511ffcb6"
+        name="WIDTH_BOUNDS" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="652eafb4-f31b-4585-9277-5e2f7d850aaf"
+        name="HEIGHT_BOUNDS" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="71cd0273-2054-4664-812c-fe69d0a61e59"
+        name="InputManager"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedOperationsInternal>
+          <operation
+            Id="65fc54f4-c89d-4c98-b56c-2fb36b596094"
+            name="PollKey"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="e1dbfe0c-f84a-4213-8ebf-2d175d380636"
+        name="End Game"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="fa95fbed-5159-4cd3-9ad7-1e49a5706fb9">
+            <useCaseMoniker
+              Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc"
+              LastKnownName="Start Game"
+              LastKnownLocation="snakemess.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc"
+        name="Start Game"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="0f6a9c6c-8c59-4b55-8744-40f4c7450e41"
+        name="CollisionEngine"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="baccae5e-0a5c-4b63-8b84-785742fe4e16"
+        name="Pause Game"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="74822d63-498f-44dd-8fc6-fbcba399d5f0">
+            <useCaseMoniker
+              Id="fd81aad6-5fac-42d3-aac9-d5174e6c7efc"
+              LastKnownName="Start Game"
+              LastKnownLocation="snakemess.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="c2441ad4-828a-4325-b0d9-e3078a0ef7da"
+        name="FRUIT_AMOUNT" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="c42fb39d-e062-42fb-adb4-43904cb15124"
+        name="SNAKE_AMOUNT" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="ac605107-c3ab-4362-9e9c-06592f83e15b"
+        LastKnownName="SnakeMess.Engine"
+        LastKnownLocation="Package_1241.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="5f8a93d2-33f8-45a5-bac7-606c0ce5ccb9"
+        LastKnownName="SnakeMess.Engine.Util"
+        LastKnownLocation="Package_1244.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="dbb4bf71-9e11-4509-803b-d251c155a264"
+        LastKnownName="SnakeMess.Driver"
+        LastKnownLocation="Package_1401.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="6f2bf248-aa4c-48fa-87c7-4853b68c2886"
+        LastKnownName="SnakeMess.GUI"
+        LastKnownLocation="Package_2144.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="86d7e986-346f-4621-9140-7d012a406575"
+        LastKnownName="SnakeMess.GUI.Util"
+        LastKnownLocation="Package_2145.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

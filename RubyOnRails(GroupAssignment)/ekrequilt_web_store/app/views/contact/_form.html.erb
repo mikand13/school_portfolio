@@ -1,0 +1,21 @@
+<%= form_tag(contact_index_path, method: :post, html: {class: 'forms'}, remote: true) do |f| %>
+    <fieldset>
+      <div class="row">
+        <div class="large-12 columns">
+          <%= label_tag :email, t('mailer.contact_email')  %><br />
+          <%= text_field_tag :email %>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="large-12 columns">
+          <%= label_tag :content, t('mailer.contact_content')  %><br />
+          <%= text_area_tag :content, nil, rows: 20 %>
+        </div>
+      </div>
+
+      <div class="large-12 columns">
+        <%= submit_tag t('send'), class: 'button small success' %>
+      </div>
+    </fieldset>
+<% end %>

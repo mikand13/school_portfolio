@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:onClick="hideSoftKeyboard">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/newHighScore"
+            android:id="@+id/newHighScoreTextView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="72dp"
+            android:textSize="40sp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/roundsDefeatedTextView"
+            android:layout_below="@+id/newHighScoreTextView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="37dp"
+            android:textSize="24sp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/name"
+            android:id="@+id/nameTextView"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/newHighScoreTextView"
+            android:textSize="20sp"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/store"
+            android:id="@+id/storeButton"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"/>
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/newHighScoreNameEditText"
+            android:layout_below="@+id/nameTextView"
+            android:layout_alignStart="@+id/nameTextView"
+            android:layout_alignEnd="@+id/newHighScoreTextView"
+            android:inputType="text"/>
+</RelativeLayout>

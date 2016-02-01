@@ -1,0 +1,10 @@
+no.woact.mikand.controller
+no.woact.mikand.infrastructure
+no.woact.mikand.infrastructure.daotypes
+no.woact.mikand.infrastructure.event
+no.woact.mikand.infrastructure.location
+no.woact.mikand.infrastructure.subject
+no.woact.mikand.infrastructure.user
+no.woact.mikand.models
+no.woact.mikand.models.constraint
+no.woact.mikand.utils

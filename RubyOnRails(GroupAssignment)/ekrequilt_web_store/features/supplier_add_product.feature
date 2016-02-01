@@ -1,0 +1,1 @@
+Feature: As a supplier I want to be able to add products, so they can be sold on the site.

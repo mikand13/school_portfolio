@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="ProjectPath = ..\UMLProjectLib\UMLProjectLib.csproj" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:11" Importance="Medium" Text="UMLProject's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'UMLProject::CookieBakery.Driver::Program' -  (Class), 'UMLProject::CookieBakery.Model.Factory::CustomerFactory' -  (Class), 'UMLProject::CookieBakery.Model.Factory::CookieFactory' -  (Class), 'UMLProject::CookieBakery.Core::Bakery' -  (Class), 'UMLProject::CookieBakery.Model::Customer' -  (Class), 'UMLProject::CookieBakery.Model::Cookie' -  (Class), 'UMLProject::CookieBakery.Model::ChocolateCookie : Cookie' -  (Class), 'UMLProject::CookieBakery.Model::BlueberryCookie : Cookie' -  (Class), 'UMLProject::CookieBakery.Model::HotDogCookie : Cookie' -  (Class) " />
+  <Message Timestamp="2014-11-12T10:08:16" Importance="Medium" Text="Project Added: C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\UMLProjectLib.csproj" />
+  <Message Timestamp="2014-11-12T10:08:16" Importance="Medium" Text="'UMLProject::CookieBakery.Driver::Program' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Driver\Program.cs" />
+  <Message Timestamp="2014-11-12T10:08:16" Importance="Medium" Text="'UMLProject::CookieBakery.Model.Factory::CustomerFactory' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Model.Factory\CustomerFactory.cs" />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Medium" Text="'UMLProject::CookieBakery.Model.Factory::CookieFactory' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Model.Factory\CookieFactory.cs" />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Medium" Text="'UMLProject::CookieBakery.Core::Bakery' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Core\Bakery.cs" />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Medium" Text="'UMLProject::CookieBakery.Model::Customer' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Model\Customer.cs" />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Medium" Text="'UMLProject::CookieBakery.Model::Cookie' -  (Class) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Model\Cookie.cs" />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::ChocolateCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:17" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::BlueberryCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::HotDogCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="ProjectPath = ..\UMLProjectLib\UMLProjectLib.csproj" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Medium" Text="UMLProject's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'UMLProject::CookieBakery.Model.Factory::ECookieTypes' -  (Enumeration) " />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Medium" Text="'UMLProject::CookieBakery.Model.Factory::ECookieTypes' -  (Enumeration) : success (file created) - C:\Users\Anders\Documents\IdeaProjects\westerdals\pg3300\assignment2\assignment2\UMLProjectLib\GeneratedCode\CookieBakery.Model.Factory\ECookieTypes.cs" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="ProjectPath = ..\UMLProjectLib\UMLProjectLib.csproj" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Medium" Text="UMLProject's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'UMLProject::CookieBakery.Driver::Program' -  (Class), 'UMLProject::CookieBakery.Model.Factory::CustomerFactory' -  (Class), 'UMLProject::CookieBakery.Model.Factory::CookieFactory' -  (Class), 'UMLProject::CookieBakery.Core::Bakery' -  (Class), 'UMLProject::CookieBakery.Model::Customer' -  (Class), 'UMLProject::CookieBakery.Model::Cookie' -  (Class), 'UMLProject::CookieBakery.Model::ChocolateCookie : Cookie' -  (Class), 'UMLProject::CookieBakery.Model::BlueberryCookie : Cookie' -  (Class), 'UMLProject::CookieBakery.Model::HotDogCookie : Cookie' -  (Class) " />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Driver::Program' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model.Factory::CustomerFactory' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model.Factory::CookieFactory' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Core::Bakery' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::Customer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::ChocolateCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::BlueberryCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model::HotDogCookie : Cookie' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="The selection included 12 elements which were not bound to a template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Driver' -  (Package): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Driver::' -  (Association): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model.Factory' -  (Package): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model.Factory::' -  (Association): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Driver::' -  (Association): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Core::' -  (Association): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model.Factory::' -  (Association): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Core' -  (Package): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'UMLProject::CookieBakery.Model' -  (Package): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'03aeaf82-d112-4d19-a7d1-56c7ab7610d2' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'954bc12f-3ffd-4c1a-96e5-d1e8c0c3c41e' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="Diagnostic" Text="'e9856152-254f-4263-9dc8-8d47700cba5b' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-11-12T10:08:18" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

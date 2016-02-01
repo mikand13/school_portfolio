@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuterStops</string>
+    <string name="cannotConnectToLocationServices">Cannot connect to location services…</string>
+    <string name="currentPosition">Current Position:</string>
+    <string name="addingMarkerToMap">Adding Marker to Map</string>
+    <string name="interruptAtMapPopulate">Interrupted during map population</string>
+    <string name="errorAtRuterFetch">Error during fetch from ruter!</string>
+    <string name="badRuterApiUrlAllStops">Bad Ruter Api Url</string>
+    <string name="numberOfStops">"Stops: "</string>
+    <string name="markersRuterMap">Markers</string>
+    <string name="addingAllMarkers">Adding all markers</string>
+    <string name="allMarkersAdded">All markers added</string>
+    <string name="addingStopsToMap">Adding stops to map!</string>
+    <string name="allStopsAdded">All stops added!</string>
+    <string name="downloadingStopsFromRuter">Downloading stops from Ruter!</string>
+    <string name="downloaded">"Downloaded "</string>
+    <string name="stopsFromRuter">" stops from Ruter!"</string>
+    <string name="allStopsByNameSize">"AllStopsByName Size: "</string>
+    <string name="stop">"Stop: "</string>
+    <string name="atLat">" at Lat: "</string>
+    <string name="commaLng">", Lng: "</string>
+    <string name="ruterStopIDName">ID</string>
+    <string name="ruterStopNameName">Name</string>
+    <string name="ruterStopShortNameName">ShortName</string>
+    <string name="ruterStopUTM32XName">X</string>
+    <string name="ruterStopUTM32YName">Y</string>
+    <string name="ruterStopZoneName">Zone</string>
+    <string name="sone">" (Sone: "</string>
+    <string name="soneEnd">)</string>
+    <string name="ruterUtmBase">32N</string>
+    <string name="ruterAPIAllStopEndPoint">place/getstopsruter</string>
+    <string name="ruterAPI">http://reisapi.ruter.no/</string>
+    <string name="processingResultsFromRuter">Processing results from Ruter!</string>
+    <string name="noNetwork">No Network, retrying in one hour…</string>
+    <string name="timeOutAtRuterFetch">Ruter get timed out.</string>
+    <string name="tooSlowInternetConnection">Your internet connection is too slow, timed out of ruter…</string>
+    <string name="processed">"Processed "</string>
+    <string name="RuterDownloader">RuterDownloader</string>
+    <string name="RuterAPIHandler">RuterAPIHandler</string>
+    <string name="RuterMap">RuterMap</string>
+</resources>

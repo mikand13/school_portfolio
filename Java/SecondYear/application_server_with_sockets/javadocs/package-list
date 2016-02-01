@@ -1,0 +1,8 @@
+no.wsact.mikand.pg4100.assignment2.controllers
+no.wsact.mikand.pg4100.assignment2.controllers.mocks
+no.wsact.mikand.pg4100.assignment2.models
+no.wsact.mikand.pg4100.assignment2.models.mySqlConnectorModels
+no.wsact.mikand.pg4100.assignment2.utils
+no.wsact.mikand.pg4100.assignment2.utils.server
+no.wsact.mikand.pg4100.assignment2.views
+no.wsact.mikand.pg4100.assignment2.views.utils

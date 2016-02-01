@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app -->
+    <string name="app_name">TicTacToe</string>
+    <!-- Menu -->
+    <string name="ticTacToeLogo">Tic Tac Toe</string>
+    <string name="menuPlayButton">Play</string>
+    <string name="playerSelectFragmentName">playerSelectMenu</string>
+    <!-- PlayerSelect -->
+    <string name="playerOneDescriptor">Player 1:</string>
+    <string name="playerTwoDescriptor">Player 2:</string>
+    <string name="playerTwoComputer">Make Player 2 Computer</string>
+    <string name="playerSelectGoButton">Go!</string>
+    <string name="computerIsAKeyWordForNames">\"Computer\" is a registered name!
+    </string>
+    <string name="computerPlayer">Computer</string>
+    <string name="bothPlayers">Both players</string>
+    <string name="mustHaveName">must have a name!</string>
+    <string name="emptyString"/>
+    <!-- Game -->
+    <string name="imageDescriptorsInGame">Cross or Circle</string>
+    <string name="playerOneTextGame">Player One</string>
+    <string name="playerTwoTextGame">Player Two</string>
+    <string name="gamePlayerDoneButtonText">Done</string>
+    <string name="gamePauseText">(Pause: Swipe left)</string>
+    <string name="emptySquare">" "</string>
+    <string name="playerTwoSymbol">O</string>
+    <string name="playerOneSymbol">X</string>
+    <string name="playerOne">Player One</string>
+    <string name="playerTwo">Player Two</string>
+    <string name="LOGcurrentlySelectedImage">Currently clicked image</string>
+    <string name="winText">" wins against "</string>
+    <string name="drawText">" drew against "</string>
+    <string name="dateFormatEncode">%Y-%m-%d %H:%M:%S</string>
+    <string name="dateFormat">"yyyy-MM-dd HH:mm:ss</string>
+    <!-- Pause -->
+    <string name="pausedText">PAUSED</string>
+    <string name="pauseFragmentname">pauseFragment</string>
+    <!-- Result -->
+    <string name="resultGoAgainButton">Go Again</string>
+    <string name="resultsNewGameButton">Main Menu</string>
+    <string name="resultExitGameButton">Exit</string>
+    <string name="exitText">Goodbye!</string>
+    <string name="noResults">No results registered!</string>
+</resources>

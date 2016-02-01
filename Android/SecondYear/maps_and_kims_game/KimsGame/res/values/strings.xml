@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KimsGame</string>
+    <string name="memorizeTheseContacts">Memorize these names!</string>
+    <string name="roundText">Round</string>
+    <string name="readyButton">Ready!</string>
+    <string name="spacer">" "</string>
+    <string name="memorizerFragmentTag">Memorizer</string>
+    <string name="guessMissingWord">Guess the missing Word!</string>
+    <string name="guessFragmentTag">GuessFragment</string>
+    <string name="youWin">You win!</string>
+    <string name="youLoose">You loose!</string>
+    <string name="round">Round</string>
+    <string name="youConqueredRound">"You conquered round "</string>
+    <string name="youFailedMiserably">You failed miserably!</string>
+    <string name="goAgain">Go Again!</string>
+    <string name="exit">Exit</string>
+    <string name="newHighScoreFragmentTag">NewHighScore</string>
+    <string name="showHighScoresFragmentTag">ShowHighScores</string>
+    <string name="newHighScore">New Highscore!</string>
+    <string name="name">Name:</string>
+    <string name="store">Store!</string>
+    <string name="youDefeatedRound">"You defeated round "</string>
+    <string name="idWhereClause">id = ?</string>
+    <string name="nameCannotBeEmpty">Name cannot be empty!</string>
+    <string name="resultHandler">ResultHandler:</string>
+    <string name="resultAdded">Result added</string>
+    <string name="removed">"Removed: "</string>
+    <string name="hiddenWord">HiddenWord</string>
+    <string name="points">points</string>
+    <string name="gameRunning">GameRunning</string>
+</resources>

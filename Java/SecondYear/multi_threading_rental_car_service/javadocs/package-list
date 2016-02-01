@@ -1,0 +1,9 @@
+no.wsact.mikand.pg4100.assignment1.LeasingManager.application.controllers
+no.wsact.mikand.pg4100.assignment1.LeasingManager.application.models
+no.wsact.mikand.pg4100.assignment1.LeasingManager.application.utils
+no.wsact.mikand.pg4100.assignment1.LeasingManager.application.views
+no.wsact.mikand.pg4100.assignment1.LeasingManager.program
+no.wsact.mikand.pg4100.assignment1.LeasingManager.utils
+no.wsact.mikand.pg4100.assignment1.TestUtils
+testThreadUtils
+testThreadUtils.testThreads

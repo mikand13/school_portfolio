@@ -1,0 +1,5168 @@
+
+LOG: aaf5c5db-f53b-4f4a-b1f4-e105d3bca4ba
+
+DATE: Mon Feb 02 09:28:53 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 55
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: ef341954-4f4a-49c2-ab13-8de6815361a2
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 7694d5e6-6bcb-40d5-bf39-c792abdba7ce
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 34
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 48f88f59-28c7-4ac7-a933-3da18fffbbd8
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 36
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 468ddd49-01e2-4f32-80d2-990503a33de5
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1095c580-316f-4509-89cd-c4132930c944
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Customer: 37 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3a71ad2a-f8e0-4e07-a271-5a7f38f2661c
+
+DATE: Mon Feb 02 09:28:54 CET 2015
+
+Customer: 42 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cb81388e-4024-4f1d-9331-151c837a6660
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 34
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 02011b26-9123-44cc-9bd1-f9759fb65252
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Customer: 37 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1f138745-9749-4a57-b8a0-27f43bdf77a3
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 125f9261-db29-4575-9059-4739c0c741b8
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 81e174dc-2101-4384-9b81-82da049e58eb
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Customer: 42 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 73f5b70d-e1eb-4e67-bee8-311757288d70
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 11c1f89b-5919-4531-a0ae-30b5751da79b
+
+DATE: Mon Feb 02 09:28:55 CET 2015
+
+Customer: 57 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1f447568-bd3a-436f-b892-f73441fac577
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1d72bd4f-0035-4185-9145-3173615b84dd
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Customer: 57 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 08b05656-d808-4b92-be82-5be0b55c826b
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 57
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7dd463af-d7b3-4f9c-a60a-5293671e6015
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 36
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 09fabd8f-07b8-47e1-97aa-329e3333f3a5
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 5cc3857a-a404-471a-a75e-58e72f377545
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 80
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: f2d123f5-3be0-469b-b409-93aab70f54be
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 87
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e032cfc1-07e1-4327-9e07-aaf6e4b7d5ea
+
+DATE: Mon Feb 02 09:28:56 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 55
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c44e0dd5-75bc-40de-9507-a333f437cd61
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4df4eed9-3746-4140-9ee1-a974182b9f8c
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1d6ce4df-e531-4804-b675-3bb07ae19d8e
+
+DATE: Mon Feb 02 09:28:57 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e4113c61-d48e-40c3-a86b-3f359c6f5fc4
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 57
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fc7cfd20-4615-4958-964d-90464f299442
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8b4906f5-dad2-4bd4-a2b6-78d0e8cef2d4
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 80
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 793b2eff-a8af-47a1-bd2d-94f3437ebd29
+
+DATE: Mon Feb 02 09:28:58 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 99
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: bdad590b-e051-413a-b816-84f2af611bc7
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 87
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 29e8aa63-f22d-4eb4-bf36-25c0b393938c
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 93
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a82bb5f2-2b0a-47d8-a08b-0969cd030566
+
+DATE: Mon Feb 02 09:28:59 CET 2015
+
+Customer: 97 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 52e23c49-d03f-42e7-a108-0f388ef8b809
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 569350ae-b55b-4612-a959-0858e2a02139
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Customer: 97 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5bf934e8-9ac1-4304-bc54-d505d3b53dc8
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 97
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c2c7faf5-5730-4cb9-914b-d6778279f508
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c260bae3-1346-4f0e-95e3-f5c5d5283e3e
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 61
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: bc191b36-4650-4c15-9fe5-8b33ec812c74
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b2fb93f0-9d18-43c2-8bcc-8190e60a3076
+
+DATE: Mon Feb 02 09:29:00 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 99
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cb366af1-c30d-45dc-b931-7e04a4bbbd63
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 4
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 40531d62-9aff-4686-be68-b802bdab5770
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 33
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3e8d1fa8-d4b1-4271-b6cb-0904d12b8915
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 93
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: b614486c-78a6-4f74-9665-7d567bcb93b1
+
+DATE: Mon Feb 02 09:29:01 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 96d79fae-d0da-4423-985c-b7231058847b
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 4
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6e17f30f-3e27-4f35-a247-160aa4be04b4
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 97
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 06461561-f1af-43df-a2b7-f0a4ca591415
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 28
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7e77027c-e059-4c74-8090-8f48b9fbd9d5
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b3351fe3-3f3a-416a-befa-0dad6667be13
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Customer: 30 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8352d773-44cf-4557-9e48-c84edac97f79
+
+DATE: Mon Feb 02 09:29:02 CET 2015
+
+Customer: 41 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c5188e77-d938-4fff-acdb-117ec622b89e
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 33
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 060dac4f-04cf-4e8f-8c68-63670e89d7f2
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Customer: 30 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4eaa5cad-c48a-437c-9d08-d33ba784af98
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6bc622f3-0657-4809-b7c9-3f763bea2fa5
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 61
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7c68ccfe-1f44-48a3-9bb8-6393a736350e
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Customer: 41 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 558e8ab6-2eb6-4762-a3f5-81305f45e1cd
+
+DATE: Mon Feb 02 09:29:03 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8fb0ce3a-41dd-4b50-af4f-309d9ac03758
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 28
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0d7f5691-7d33-44fe-9ba3-e9c104a025c3
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 13931a5c-bdea-401d-bfe5-c599fc27473f
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0923eae0-0584-4ed5-9fa0-b3e12301e80b
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 35
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b1f5cff8-4191-4e7e-a44c-5ecbe302c8b2
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 59
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1be09355-c64e-4292-ab4b-4131303bf838
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 32629e6e-fca3-4b3d-be7e-ed02bac3848d
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 68098a5c-3aaa-4d49-8785-1c355d29e54a
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 57335506-b9f4-45d6-b063-7e0327ac2741
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: b2540d1b-b9ef-4008-b9b7-14f6d088d4da
+
+DATE: Mon Feb 02 09:29:04 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f6559e0f-c7ac-4610-be61-0a38679aa1ad
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c3bf432f-a5be-460b-af9d-5522a84b0af7
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 56
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: aa56fc4a-606e-4f46-bf7d-d4cccb56fe51
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 62 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 193c1d38-ca66-4ec3-904b-300e7d11b300
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 6cbf0cf8-ebe4-47eb-950c-3a8be6e958a0
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Customer: 62 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 88b389c1-5784-4ad7-807c-fb60bdd44617
+
+DATE: Mon Feb 02 09:29:05 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 62
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 22d898dd-57c4-4268-b091-a75f55d5d76f
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 35
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 55fe45a0-a192-415e-a3cd-7c7828894065
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 59
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c53a5432-b723-4a39-907a-dab31ec12e12
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e64723be-468e-4db4-bef7-71f6f60cc51b
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 58
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2a5d1d42-fe5c-4384-ab16-f9d3d545861a
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 56
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2f0eacf3-930f-4e67-81ea-3d8af636501c
+
+DATE: Mon Feb 02 09:29:06 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 449e5acb-2dad-48c9-be68-75371f084c27
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2523fcd2-f90b-4fd8-9a56-42c3a7bf3af8
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 58
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1538c9cb-68d6-4970-aee7-19e8429a9078
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e856cfc2-837e-4101-8d77-ca0b6d48561a
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ad6aa161-9a1d-4a4e-8384-9ebce89bfe5c
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0fefad0d-dca3-4639-8dbf-aa76827799f3
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 96
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 632e7b75-4158-45f0-bd29-76da01c9bf16
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9b4551b0-db26-4d5e-a1ec-1db448690abd
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 62
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: bc364767-e120-4543-b1db-620045a12f2f
+
+DATE: Mon Feb 02 09:29:07 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 65
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 8563307e-c5b7-4cc9-a509-d965727a1096
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 6
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6dc081ac-1c23-4e99-8d09-613bb8bbb530
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 72fcd39a-f8f9-4337-9b5b-fb3bb3b63f22
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 91
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f490c581-1fa9-428a-8cdd-0008966bb04e
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 96
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3d80c244-0618-4899-9001-d75927747948
+
+DATE: Mon Feb 02 09:29:08 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 17
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e7e160e5-b70e-4dfb-81b3-52512dfabbd6
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 17
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: bafeb695-8f88-4d6e-afee-f285bb2233d0
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 65
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 53b5f38e-3c0d-443d-9eb7-d6813d8d9b78
+
+DATE: Mon Feb 02 09:29:09 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b13a6fe8-4ebc-4ca5-adf7-c4ce020827c8
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 8
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d9c36798-6770-4eaa-9977-b6191353d16d
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 6
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: be804ca1-415e-4c73-b269-2ec93d96a7d4
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d83c6eb6-a850-4974-9614-1f8fb08b8360
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6a574997-f44c-4d66-b546-2bf46b489210
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 650eb35a-eeca-4314-b4a3-859a4f093a7f
+
+DATE: Mon Feb 02 09:29:10 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 544937e4-fe79-46d5-8c0f-a5589097f074
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 8
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 08fcc930-b27c-489d-83bf-d415a5647a43
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 13
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 00854369-7289-4654-a6b7-b39a85b7b3cc
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 458fceaf-1a67-4c05-899f-a61dea67be6f
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3330bad5-747a-443d-9289-eae0bf54c1ae
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1098e3a6-0157-44eb-9ce5-eb8032700c57
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 91
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 63a718ae-8229-484b-be1a-e9d12679b182
+
+DATE: Mon Feb 02 09:29:11 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 96
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5042babd-f097-48d8-b5d2-240a8e5945d1
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: c7611f21-6e49-4d6e-89d0-a8f2239f6ebc
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ee7f3e1f-b158-4835-a062-000e1363b4ac
+
+DATE: Mon Feb 02 09:29:12 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 96
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 76941697-0cf4-42fb-acff-d4a0fee56faa
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 011b77b2-2fe0-47f5-a605-ba2176ed9377
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 13
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0f1e3d55-9e12-40ee-a1a8-757d03b25a31
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 31
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fd09a875-bcf4-4073-bfaa-170b39c3a805
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 4f5f3d71-19dc-4b73-af7f-afde5771b557
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 18
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ecf7e491-f704-4206-85f3-95a66d8e7859
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 22f3651d-27a0-4a1f-b680-b374b756bf04
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8b4be2ae-932a-46ae-827d-1271ff61be30
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c00c747b-ce85-4a63-ba32-22357ff93e81
+
+DATE: Mon Feb 02 09:29:13 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8be7367e-3611-404b-8372-1cea404a69b4
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 98
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c53e9e2b-7b93-41c6-9129-c8b86cc2078d
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: dcb3c0b2-e9ed-43fb-b7a1-63e283f3576a
+
+DATE: Mon Feb 02 09:29:14 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 48
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f6dd21bd-1ec3-4dcb-b8d5-f5128989c49f
+
+DATE: Mon Feb 02 09:29:15 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d7b131c0-1988-4466-8cb6-da2e712eda1a
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a184c052-8e71-4c6d-be9e-e924a7c07792
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9b4f0e73-3d49-46d4-a8e0-9f3e1c445d7d
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 0
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 29652a59-452b-4a43-822a-bc246137713f
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 93c9c887-3c45-4519-b847-006ce0a9f479
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Customer: 19 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 44deb4d0-a55a-4b80-99dc-c0d532be5a9e
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 31
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 558eb4aa-5bcc-42bb-be1c-37c8fea4da98
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Customer: 19 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4366421a-9248-48d7-be6c-f9254fdca054
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 19
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 22c20872-83c5-40fd-a301-3f90f7923c42
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 18
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 8d7b0bfb-5ef4-4b27-b0bd-80239b28da4c
+
+DATE: Mon Feb 02 09:29:16 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 47
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1b9aee9e-47bb-41ef-b5a9-e70e48f1d4d8
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 53e39a2c-c08e-48ed-8a89-726c68d786ea
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 24
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1c02e066-aecb-4f78-83bc-6075959735dd
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Customer: 32 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ee1e59fe-1e7f-475e-b833-7c1b91c910d4
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 48
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d34aa752-a40b-48be-a672-6b5064254ddf
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Customer: 32 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: dce86ef5-182c-420b-8b3b-d0a593afe4e8
+
+DATE: Mon Feb 02 09:29:17 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 32
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cb1517c0-0527-4830-883a-c343a202d60d
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 32
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 89a0daf2-c477-48c1-be9f-48025ff29cb4
+
+DATE: Mon Feb 02 09:29:18 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 89
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 489f9f55-f78d-4517-9a2c-b984eb7bbbee
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 0
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9354f5f8-59f1-4458-910a-70024dace4c5
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 53ab822e-cc68-46e4-99bc-de449197cfb8
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 19
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3cbdf640-dffb-47ec-b067-f1eaa8eddcc3
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 47
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 286b0e99-f86b-40eb-a170-07afbdb8f4d1
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 60
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 442888e7-6463-4def-97ee-4a3bd6a1a563
+
+DATE: Mon Feb 02 09:29:19 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b1cd508c-4ffa-41bd-8556-cac6de895390
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f005a26c-70d8-45ea-a360-64918f789519
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 24
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b103e037-9d2b-4923-84a3-7adc844b1351
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 16
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 431c7642-bb88-4987-9119-199acba8dbd1
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 47
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 05be3479-bae5-4633-a02d-4f647baff732
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 60
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d7f107dd-aa64-49a5-add2-5a86464c4f13
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 10
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 919686ee-9270-4d50-9edf-7108ad273f53
+
+DATE: Mon Feb 02 09:29:20 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 89
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 209c9503-372c-4a4b-b85b-4380e2122ad9
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 11
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5e58a418-016e-4d69-940d-038bb8ab22fe
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 47
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2fc95d2a-faf6-4caf-bed9-cfd116a577c2
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 51
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4caf8d80-2f7b-41ed-b533-0dd037a97b5b
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 61825a93-d7ad-4516-9dde-1980e5983350
+
+DATE: Mon Feb 02 09:29:21 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7da98e82-3a60-46c4-9620-3fa1317022e1
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 11
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f090bcab-f73e-4a69-90c4-2b6eb8a236d6
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: eb3c722b-4273-4f6e-8aac-c67b28c6f0b3
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 16
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 68f95a71-69f5-4ad6-9927-0e9cf99aba16
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 79
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 60832d16-5321-4c9f-b63d-8d6b7d2a9fea
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 10
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 036d749e-83d1-4ba1-b307-1275864299cb
+
+DATE: Mon Feb 02 09:29:23 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 63a0a59c-0614-4c06-ac6e-5afa783d9597
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 79
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 544714cb-ffc9-4410-a883-2d588b882477
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9fbc69ff-0884-4f06-a61a-d43282fdae69
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 51
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 43681845-4772-4c6e-9058-b0a6e659ce53
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9ec6910a-8bb2-41d5-9133-d93d1c91f5f1
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: ba0ef89a-d552-4108-a3a1-bc599edbb31c
+
+DATE: Mon Feb 02 09:29:24 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 63
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 84b893b0-53f6-4c7d-89d8-d43f9e6f525c
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4aa7778f-fed2-41c5-9247-0feda2917852
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 63
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: df9f60b0-f34a-41a1-a51d-90a31fc1ab3e
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 82
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: dd88439c-8540-445a-9cc3-b4d2470b6110
+
+DATE: Mon Feb 02 09:29:25 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ff97bded-ebac-4f9f-9299-7bd5676bc2d9
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 82
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5851a239-d8e4-455c-b11d-195bf6afb99b
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e811e41f-5054-4bb6-9782-950d6eba0b2f
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 99
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ba502284-448e-4258-8b70-f0c2feb5d0f4
+
+DATE: Mon Feb 02 09:29:26 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 0ca07f66-9ec8-4773-a07b-cb0df467c3a3
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 21
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: f2945dd0-65f9-4b10-910b-eba49c4bb152
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 28
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e573a779-1021-47b0-930f-db21d2cdbfd5
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 14e2f691-746a-4890-b6d9-15ae84d6db2d
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 49
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 45823b23-349e-48a7-b0b9-bbcb017039e7
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 37
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1bcd0b06-e802-4997-9966-72021a48ca63
+
+DATE: Mon Feb 02 09:29:27 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: df021cf0-9a2a-473d-872a-659ce29b21f6
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 21
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 019e9d6f-f527-4383-87b3-e1a29c211989
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 43
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 571b313a-9351-4989-a6eb-c72d20fa5201
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 49
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fe43bb77-d978-47fc-b02c-681cfb3e1c04
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b7b7c7b8-9c71-4667-b39d-19f225d5749c
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a1e744df-6b93-4fa4-80ec-24a83ea81359
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cfbb92f7-063b-4703-900b-64c2e7ff8ac0
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Customer: 77 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3f48db0e-0c0e-4d92-877d-b874b4c9fd91
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Customer: 58 is in a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1430ebb9-a63e-4da3-a8ea-67cb8e00a10f
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 99
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cdba7d3b-efaa-4aa1-a567-3e431194d853
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Customer: 77 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4d6ffd1e-e146-4297-b5c1-baae5906f88d
+
+DATE: Mon Feb 02 09:29:29 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 77
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8b8b9572-d7a9-4b66-8c1c-dd364783f68f
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 28
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 31a77d79-f5cc-4892-b099-017a6d0143c7
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Customer: 58 has finished a queue at Avis!
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 073685da-2cb2-4077-b239-7b3e1a0c15e0
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 58
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ec4b5796-e6f1-4da5-b403-8b7fccadc394
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1e03441c-2da5-47b9-8012-13c1ac222aba
+
+DATE: Mon Feb 02 09:29:30 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 78
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 18d3feed-f762-4cce-bf26-acd5f3b33163
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 43
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 763cae43-a8f0-4d5f-a525-dddfac75091f
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 78
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5f4c4eb8-e976-4b9d-8764-c3b54d139268
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cc653ff2-3dc8-49e4-8038-687eac5d699d
+
+DATE: Mon Feb 02 09:29:31 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b072d859-4628-4d0e-ae0e-1bed099eb018
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 58
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 1b2f6006-ccc5-44ad-8439-fe2fd81fafab
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 11
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1bac61a3-95f8-4da1-a200-078ff862040b
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8c67207e-562b-425a-ac7c-6baf71d25a7d
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 61
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0440c1c4-c2b2-4969-88a0-b93ade8f71fc
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 914261aa-b6bd-4007-b261-e9f9df48c72f
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 42
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: eb29b571-69cf-491a-97f9-552b0d245095
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 39
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: bcc0fe5b-ff66-46cf-8c74-c2c0c51b3fdb
+
+DATE: Mon Feb 02 09:29:32 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 77
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 32897a08-bb3c-47b0-a317-dc97feef09bc
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 7
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 295dbaf3-6de7-4952-944d-6d11ae6fcec0
+
+DATE: Mon Feb 02 09:29:33 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b916fcbe-236f-4f45-b893-111470bde532
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9ebc546a-cbaf-4de3-9403-6977eb0a106c
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fe9bb6fc-c28a-4037-b4ec-9d69a8b411c6
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 39
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c5b439be-223d-4438-abd3-130a9fb34048
+
+DATE: Mon Feb 02 09:29:34 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 50
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 43e38492-abb8-441f-b0c2-ac8eb9e6d3e7
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 11
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 1e9c34ab-45dd-4540-beee-16fd2454ed1c
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7f2fbf57-e632-4d1b-a9d8-617bf25ee2cf
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 61
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2907af6d-a6f3-4727-b227-f4d3fb0ba94a
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7caa48a7-7d7c-42ab-9b6b-528500f86022
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 57
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: be256bd5-28cb-4bf7-826a-cb94486110cc
+
+DATE: Mon Feb 02 09:29:35 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 89
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d4f4ac0c-e609-42d9-b0a8-cb963f652875
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 7
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 75f35de9-17db-4159-933b-bc84f12e5b09
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a60df391-e17a-47d7-bc27-19b1839c4d61
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 57
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e11bacf0-c90b-4ecb-834d-7aec2c14b42e
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 50
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 388d06cb-38b8-4b05-aab4-6e1ed93364e6
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 48
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c5a2f79e-439e-4709-8bc1-9e70354ff9b7
+
+DATE: Mon Feb 02 09:29:36 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 84
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 0a4bc3a9-365b-48c8-a2c7-37d3af80529d
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: aca82564-da01-493a-b007-b71260e406fb
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 23b4683a-b671-4a3b-9ff0-f5cbe442c117
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 89
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9b53a8cf-ff13-4764-883e-4a6b1cadd362
+
+DATE: Mon Feb 02 09:29:37 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 44
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c4f1d9c4-533e-415f-9d73-f69c7a263528
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 5
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: f13a634b-a95b-492e-8893-de16b7307d09
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 7e765936-0a0b-4141-8bda-62f42a891ad3
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 70
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 7c55a40f-f79a-4c1c-9232-446b82d9d2a1
+
+DATE: Mon Feb 02 09:29:38 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 74
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c60c2508-8308-476e-8eda-5426b6cd1c5a
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 74
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 9c690a3f-d57c-48a0-936e-3dc1d8c27b2b
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 48
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 1f2f566f-d19a-450e-84f1-3c8708618dae
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 84
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: f6c20dfb-bbe6-4b3a-b788-cd9086d10f54
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 32
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: e08e548e-ceb5-49f8-8aaf-8f910dcf4d55
+
+DATE: Mon Feb 02 09:29:39 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 86
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 7142350b-01e8-44b6-adbe-60a4c918de6e
+
+DATE: Mon Feb 02 09:29:40 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 22
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 81669c32-bc57-4dc3-8194-c6ba571f6951
+
+DATE: Mon Feb 02 09:29:40 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 44
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2b23913f-df75-4f78-b508-85a38035ed25
+
+DATE: Mon Feb 02 09:29:40 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3250249f-67bf-4844-b6f0-872521daa9c6
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 70
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b820a5b5-b818-4143-a292-4ed9dd0ffb21
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 296b92ca-8d7a-4de9-a3b2-e50fd75dd19e
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 32
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a4c468b4-c63e-4ae6-83a2-793485a1bc1e
+
+DATE: Mon Feb 02 09:29:41 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 86
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 09c088aa-b0ca-4c24-9e17-c1a7e368c3a8
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 282b37ed-699d-4f70-a456-227a2f4f5116
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 36
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7f5d636d-5479-49e6-a8df-603157e89671
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 69
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2132306f-da9e-4dc2-ba16-f96c3cc4874f
+
+DATE: Mon Feb 02 09:29:42 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 63
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6074eb05-e863-449d-be37-fdd851df18fd
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 22
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: cabe95fa-da3f-48cc-9127-fdef28ad0960
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c1b5e356-4687-43d3-9d65-e63ab79ecabc
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 36
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 8b8d858f-2bf8-475b-8fb3-6154299aac7a
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 56
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 45730ca7-98de-4da4-ad5e-7f35ef35de2e
+
+DATE: Mon Feb 02 09:29:43 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 25
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 12e29707-2cbd-4234-bfad-7d97dc626d6a
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 4
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2dc5595a-5835-4050-a3e3-ab63eb03a002
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 63
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6d7d21c9-c7f5-4fdd-981b-023ea6508951
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 56
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 67237e35-9de0-472a-b635-6ef2f5b9fc2e
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d409d1a6-cc95-4eb7-bcb8-161a5755cc70
+
+DATE: Mon Feb 02 09:29:44 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 54
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3e9ef5bc-7552-4220-aba8-d27a08fbbb74
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 2
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4e09ddf5-e3d0-4f3e-9774-e23dc1ccc338
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 85
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 717e2a1f-81f7-44c1-a9d0-e37dc9520c5f
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 30
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 0ee40083-935f-4456-979e-ccbe0fd07bff
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ded63ab6-ce4d-4212-a0e4-ebd20be16a6f
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 41
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c16fe356-b30d-47ba-ad5e-b194524473ae
+
+DATE: Mon Feb 02 09:29:45 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 40a34b32-f91e-4010-8e71-421b483664e2
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 4
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6f437dd9-ba6e-41c9-8901-9adb2d862837
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 9
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fed11100-a7b3-44d7-99fb-c9af2b3ec091
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 54
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 12541663-b88c-438f-ac37-1b1ce104a049
+
+DATE: Mon Feb 02 09:29:46 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 13
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ecdfbeec-0def-4d07-af5a-598ee5fc17b3
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 9
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4e200bf2-715d-44d1-ae02-d7944ed9b54d
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: ebd37ed6-e8b3-4f3e-8065-52b3040bd26c
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 24
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 1ef7da81-b026-4334-bdb6-71766fb59e5f
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4463d518-252b-4c91-94ac-229f0283263c
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 2caceb2e-faed-4216-b8b1-44a5f73737ff
+
+DATE: Mon Feb 02 09:29:47 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 91
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c4751c8e-8e57-4602-b896-0b38a9860868
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 85
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c14d9748-b678-4136-99b2-dc6f6cfdb83f
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 1b445d7e-4ef7-493e-a71e-69f29e43a03e
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 67
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: c6001040-0b21-4d1f-bf9b-d8a8b63d22f4
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 90
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 99e52eba-6a97-4f2f-8841-9d9ea382e469
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 91
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 5adc4f6b-a650-4865-b8b9-b8935624e1ac
+
+DATE: Mon Feb 02 09:29:48 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ec2a94f6-afe3-4964-bd33-556d4edc8692
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 24
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f71c66b8-5e0f-43bf-814b-e63a1a07b575
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 75
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 10f4d016-d531-47fe-88f4-67ac8450f77f
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 13
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: adda8668-704d-4450-9902-85ee3e6aa3dd
+
+DATE: Mon Feb 02 09:29:49 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 26
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c5df0bcd-d4db-49b6-ac21-edbb9a1ce17f
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 27
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7c0317bf-560d-48f8-8391-db9337284c84
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: bc2c5ad8-b93c-4e9a-a999-d11aa4a5c803
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 75
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6725b013-1483-4262-b93b-7f0e76e59517
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 78
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c24e150d-18f8-4d62-8edd-4e3ad35b413d
+
+DATE: Mon Feb 02 09:29:50 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9d448ea5-4363-4346-bf60-a421dd654e0a
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 22
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 3ef977fa-af49-4a05-a1ff-3967b1c5471d
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 90
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 41121cf2-442c-49ea-b3b0-b1533b583ea8
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 39
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 97778563-93f6-4e38-80de-cedf8b749c8b
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 26
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e0a4ba44-7ab4-4c19-a5ee-84d959f1d60b
+
+DATE: Mon Feb 02 09:29:51 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: ae46b346-8e42-46ed-b398-2006341de295
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 22
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 364a2970-fd08-49d3-9ffe-783cdf65382c
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 6
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: abecb1c3-420c-406e-bcbc-fc1b6252a820
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 612d5212-8d6d-4d09-8805-7db16d3e545d
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: e3d3c653-b5c2-41bd-a368-e3877f7ba173
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 39
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: f504b2af-1d80-4aa4-982d-12639f9c1be1
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 78
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 2ef2f3e7-275f-434e-b3e5-342f0d356e6c
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 26
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 023dd378-a340-43ce-85eb-a1ead2d9683d
+
+DATE: Mon Feb 02 09:29:52 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fa87c451-87ba-4bb8-8e6c-2abbe0fe5c78
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 6
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 9df197a6-d55a-46af-adaf-4330f79e696d
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 97
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 564145d0-0625-40e0-b7bf-4f0a422c9338
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 83
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: fc4b64a3-696e-4f54-8bae-fc0c79e5de12
+
+DATE: Mon Feb 02 09:29:53 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 71
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c2db516f-428a-4f72-9b36-57c68cf16565
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 97
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f0e03326-bb08-4c7e-bd6d-6c425b0d177e
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 3
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b411b85a-7fdc-43e0-9105-4ef661763c0b
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: df218b7c-ba61-4222-9b67-11f6f2b3bfc4
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 36c11dc2-a355-417f-aed0-ee61716c4d0e
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 26
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 4c151def-85df-47e9-a4ab-5355ecb98a60
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 68
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 723a01a8-31f3-4605-bea9-e813e3819fc7
+
+DATE: Mon Feb 02 09:29:55 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 4b85cf6e-5a65-48c4-82bd-e92377ae0899
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 51
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 195f6a1c-d6c3-4e22-b8b5-ff0bb8edc560
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 52
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a64a3ff2-ae2f-4b02-8cdc-5117b7b61194
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 49
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 41a6252c-6f41-457a-8a23-b3ddd7656527
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 72
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 81487824-214c-42d8-9e66-fe393f551d31
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 82
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: d42c2cb6-a285-45ed-b7fc-83e30a36929e
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 71
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: cd5bdd5b-b7d5-433b-94d8-14a591a4ff28
+
+DATE: Mon Feb 02 09:29:56 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 84
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 470d7b61-0a52-4d5a-b8ad-925a331e9754
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 82
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: c47ed89e-0e8c-4407-b541-b8c0783fd493
+
+DATE: Mon Feb 02 09:29:57 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 64
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 630ca0ec-23e6-441c-b2d1-a0987f980a3f
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 46
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 6d1d8c89-3600-4c51-ad3c-d23a0577f8d7
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 64
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: a7c4797d-719a-4d05-a5f3-40c04a8125da
+
+DATE: Mon Feb 02 09:29:58 CET 2015
+
+Lease of: Avis-> BB111111: Leased
+Leased to: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 19a36ef4-8317-4287-b96c-fd5ddb3f93f4
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Lease of: Avis-> DD999999: Leased
+Leased to: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 68e55139-5523-4a42-a91d-5fc4088e40dc
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 51
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 9e15d582-b752-4f49-ac3f-377a33a0d6a7
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 49
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 516c4c83-fcf2-4435-8aa6-e64d52f49058
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 0c34099b-6e2e-4870-b17a-5345a38f9285
+
+DATE: Mon Feb 02 09:29:59 CET 2015
+
+Delivery of: Avis-> CC222222: Availible
+Delivered from: Customer: 84
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Availible
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 1ac419ab-e1eb-43cd-8033-a63f200261c2
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Avis-> CC222222: Leased
+Leased to: Customer: 16
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: ff16ba70-aeb0-4045-84b2-98784439eeee
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Avis-> EE888888: Leased
+Leased to: Customer: 60
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 7e4157de-c740-47c7-a110-ac15b0b16177
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 95
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: f60df6ce-6362-4267-92e0-3cd4818deeca
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 80
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Leased
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: 69297c92-99d2-434a-a1a3-35ee96debfe2
+
+DATE: Mon Feb 02 09:30:00 CET 2015
+
+Delivery of: Avis-> BB111111: Availible
+Delivered from: Customer: 81
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Leased
+******* Status for Avis ********
+
+LOG: b4fcc80f-0a9b-4557-85d7-f2fd9625f52c
+
+DATE: Mon Feb 02 09:30:01 CET 2015
+
+Delivery of: Avis-> EE888888: Availible
+Delivered from: Customer: 60
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 5161d0f1-8deb-4c54-b810-537e96121edd
+
+DATE: Mon Feb 02 09:30:01 CET 2015
+
+Delivery of: Avis-> AA000000: Availible
+Delivered from: Customer: 80
+
+******* Status for Avis ********
+* Avis-> AA000000: Availible
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: b01a3ff8-1a1c-4535-817c-e0c6aaa92109
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Lease of: Avis-> AA000000: Leased
+Leased to: Customer: 38
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Leased
+* Avis-> EE888888: Availible
+******* Status for Avis ********
+
+LOG: 5864014b-ee04-436d-a941-e66e50bc6d88
+
+DATE: Mon Feb 02 09:30:02 CET 2015
+
+Delivery of: Avis-> DD999999: Availible
+Delivered from: Customer: 23
+
+******* Status for Avis ********
+* Avis-> AA000000: Leased
+* Avis-> BB111111: Availible
+* Avis-> CC222222: Leased
+* Avis-> DD999999: Availible
+* Avis-> EE888888: Availible
+******* Status for Avis ********

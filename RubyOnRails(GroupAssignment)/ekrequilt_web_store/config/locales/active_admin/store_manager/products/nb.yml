@@ -1,0 +1,9 @@
+nb:
+  active_admin:
+    products:
+      created_at: Opprettet %{date}
+      all: Alle
+      in_stock: På lager
+      out_of_stock: Ikke på lager
+  newsletter_sent: "Nyhetsbrevet er sendt!"
+  newsletter: "Nyhetsbrev"

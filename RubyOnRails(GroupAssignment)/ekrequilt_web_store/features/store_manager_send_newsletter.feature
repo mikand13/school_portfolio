@@ -1,0 +1,1 @@
+Feature: As the store manager I want to be to send a newsletter, so I can promote products.

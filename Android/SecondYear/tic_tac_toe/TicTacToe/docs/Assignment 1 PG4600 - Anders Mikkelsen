@@ -1,0 +1,101 @@
+Assignment 1 PG4600-14 Anders Mikkelsen
+
+Screenshots:
+
+/docs/screenshots/
+
+Flowcharts and UML:
+
+/docs/assignment_1_pg4600_14_anders_mikkelsen.png
+/uml/
+
+Javadocs:
+
+/javadocs/index.html
+
+References:
+
+Icons for Circle and Cross:
+http://jayisgames.com/games/tic-tac-toe/
+
+    Code Style:
+
+    Google Code Style with 80 char breadth for terminal compatability.
+    http://google-styleguide.googlecode.com/svn/trunk/javaguide.html
+
+Design and Architecture:
+
+I quickly decided I wanted to try and follow MVC as I suspected that was the
+general idea with the Activities and the layout files. I did at a point come to
+terms with the fact that the lines between V and C quickly becomes blurred tho
+as the layout is after all initialized in the activities themselves. What I
+eventually focused on was trying to seperate between controllers and models
+which I believe I have mostly been able to do. I also wanted to try out how
+fragments work and try to incorporate a touchmovement. For that reason i wanted
+a transition from activity to fragment in both the Menu and the Game with
+different approaches in both classes. This worked out quite well. I ended up
+being quite happy with the pause implementation and result.
+
+Implementation:
+
+I started making some extremely simple UML with the different classes I wanted
+but this was mostly so i could easily generate the skeleton of my application. I
+honestly know way too little of Android yet to make any tests before hand.
+
+I then made a flowchart to determine how I wanted the application to work and
+then started digging in the API for the methods and classes i would need. After
+returning from the API catacombs with my sanity still in check I just started
+having fun with android. I particularly enjoyed making the pause screen and
+animation and would like some feedback on that.
+
+After the implementation was complete I stored the now current UML's.
+
+Extra: I noted you said Top 5 for the results. Is this because you anticipated
+we would hardcode 5 values? At any rate this seemed a bit backward to me so I
+retrieved a set instead and let the list get as long as it gets.
+
+Another Extra: I added the computer player for fun. It will will always result
+in a draw if you play perfectly and all ways win if you make a mistake. As far
+as I know i cover all forks. The code is not entirely optimized, its actually
+pretty far from it. Im running out of time so making it work was more important,
+excuse me for the ugly and repetetive code.
+
+Testing:
+
+I decided to do some simple tests to play around with unittesting of Android.
+My adventures with unittesting with fragments led me to this quote:
+
+    "After years of in-depth analysis,
+    I came to the conclusion that WTFs/min = 2^fragment count."
+
+  - http://corner.squareup.com/2014/10/advocating-against-android-fragments.html
+
+After that I put them to rest until its within the scope of the assignment...
+
+Conclusions:
+
+Android API. Android API. Android API. The inner workings of android are in my
+view complicated in many ways, but when you start understanding those ways its
+really quite logical. Having fun so far!
+
+I think the strength of my application is that I believe it is very intuitive. I
+added a helpertext for the pause but I felt like that was better than adding
+some other clutter. I also believe my code has strength and is hard to break by
+user interaction. I also explicitly finish all activities on transition as each
+activity in this simple TicTacToe game is in-order. So going through the
+activity backstack with the back button wouldnt make much sense. I seemed to
+have been able to make the app rotationproof as well. This I see as a strength.
+
+My last strength is the generifing of the gameboard and the AI for larger board.
+You will simply have to increase the GAME_SIZE in the Game class and increase
+the layout in the designer and youll be good to go!
+
+One weakness could be the lack of any way to quit ingame, but you can just press
+the back button on your phone and exit that way. Why would anyone go back to the
+menu screen?
+
+Known issues:
+
+    - Game screen blinks upon pausing.
+
+Anders Mikkelsen

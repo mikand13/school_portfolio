@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Min IMDB-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="duh-QB-nCv"/>
+                        <viewControllerLayoutGuide type="bottom" id="7To-mE-2A6"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="S61-SV-SPl">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RVe-Oq-Sy6">
+                                <rect key="frame" x="0.0" y="64" width="600" height="82"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gqn-ar-dN0">
+                                        <rect key="frame" x="8" y="11" width="584" height="44"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nothing is stored!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xs0-24-az9">
+                                                <rect key="frame" x="135" y="0.0" width="449" height="21"/>
+                                                <color key="backgroundColor" red="0.91163589020000002" green="0.91163589020000002" blue="0.91163589020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Favourite Genre:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dvd-WT-dXI">
+                                                <rect key="frame" x="0.0" y="0.0" width="127" height="21"/>
+                                                <color key="backgroundColor" red="0.91163589020000002" green="0.91163589020000002" blue="0.91163589020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="127" id="qxp-SP-rSn"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <color key="textColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.91163589020000002" green="0.91163589020000002" blue="0.91163589020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="trailing" secondItem="xs0-24-az9" secondAttribute="trailing" id="49W-7E-7z0"/>
+                                            <constraint firstItem="Dvd-WT-dXI" firstAttribute="top" secondItem="gqn-ar-dN0" secondAttribute="top" id="5w1-AS-iM0"/>
+                                            <constraint firstAttribute="height" constant="44" id="HCG-84-rC0"/>
+                                            <constraint firstItem="xs0-24-az9" firstAttribute="leading" secondItem="Dvd-WT-dXI" secondAttribute="trailing" constant="8" id="Tah-4H-r9N"/>
+                                            <constraint firstItem="Dvd-WT-dXI" firstAttribute="leading" secondItem="gqn-ar-dN0" secondAttribute="leading" id="hQY-Ky-BhU"/>
+                                            <constraint firstItem="xs0-24-az9" firstAttribute="top" secondItem="gqn-ar-dN0" secondAttribute="top" id="rYq-vf-nXY"/>
+                                        </constraints>
+                                    </view>
+                                    <searchBar contentMode="redraw" text="" placeholder="Search your elements..." showsSearchResultsButton="YES" showsCancelButton="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Xgu-Nk-oFI">
+                                        <rect key="frame" x="0.0" y="38" width="600" height="44"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="44" id="qDK-7n-Kcc"/>
+                                        </constraints>
+                                        <color key="barTintColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                                        <textInputTraits key="textInputTraits" returnKeyType="go"/>
+                                    </searchBar>
+                                </subviews>
+                                <color key="backgroundColor" red="0.91163589020000002" green="0.91163589020000002" blue="0.91163589020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="82" id="ICr-n4-oRU"/>
+                                    <constraint firstAttribute="trailing" secondItem="gqn-ar-dN0" secondAttribute="trailing" constant="8" id="Urj-zQ-zQj"/>
+                                    <constraint firstItem="Xgu-Nk-oFI" firstAttribute="top" secondItem="RVe-Oq-Sy6" secondAttribute="top" constant="38" id="ciS-A2-lRR"/>
+                                    <constraint firstItem="gqn-ar-dN0" firstAttribute="leading" secondItem="RVe-Oq-Sy6" secondAttribute="leading" constant="8" id="fgW-af-pg7"/>
+                                    <constraint firstItem="gqn-ar-dN0" firstAttribute="top" secondItem="RVe-Oq-Sy6" secondAttribute="top" constant="11" id="mNo-bw-9a3"/>
+                                    <constraint firstAttribute="trailing" secondItem="Xgu-Nk-oFI" secondAttribute="trailing" id="oiJ-RP-fiJ"/>
+                                    <constraint firstItem="Xgu-Nk-oFI" firstAttribute="leading" secondItem="RVe-Oq-Sy6" secondAttribute="leading" id="spc-NM-ke8"/>
+                                </constraints>
+                            </view>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DKN-LD-7aT">
+                                <rect key="frame" x="0.0" y="20" width="600" height="44"/>
+                                <items>
+                                    <navigationItem title="My IMDb" id="wXZ-Di-Feb">
+                                        <barButtonItem key="leftBarButtonItem" title="Edit" id="rD2-pn-6K5"/>
+                                        <barButtonItem key="rightBarButtonItem" title="Search IMDb" id="yME-eq-xZo"/>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imdb-logo" translatesAutoresizingMaskIntoConstraints="NO" id="rwg-bd-hPu">
+                                <rect key="frame" x="40" y="166" width="520" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="SZ3-AB-mfD"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loading..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yhG-gE-0Vy">
+                                <rect key="frame" x="40" y="302" width="520" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="dO4-Oo-tM5"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="RVe-Oq-Sy6" firstAttribute="leading" secondItem="S61-SV-SPl" secondAttribute="leadingMargin" constant="-20" id="23n-YR-TOI"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="DKN-LD-7aT" secondAttribute="trailing" constant="-20" id="8D3-eC-aQP"/>
+                            <constraint firstItem="rwg-bd-hPu" firstAttribute="top" secondItem="RVe-Oq-Sy6" secondAttribute="bottom" constant="20" id="ClK-dW-hXD"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="yhG-gE-0Vy" secondAttribute="trailing" constant="20" id="H6y-OL-6Jj"/>
+                            <constraint firstItem="RVe-Oq-Sy6" firstAttribute="width" secondItem="DKN-LD-7aT" secondAttribute="width" id="Ht8-17-ciP"/>
+                            <constraint firstItem="DKN-LD-7aT" firstAttribute="leading" secondItem="S61-SV-SPl" secondAttribute="leadingMargin" constant="-20" id="Rn1-kS-3f6"/>
+                            <constraint firstItem="rwg-bd-hPu" firstAttribute="leading" secondItem="S61-SV-SPl" secondAttribute="leadingMargin" constant="20" id="aF0-VM-kpD"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="rwg-bd-hPu" secondAttribute="trailing" constant="20" id="dcJ-AI-gVM"/>
+                            <constraint firstItem="RVe-Oq-Sy6" firstAttribute="top" secondItem="DKN-LD-7aT" secondAttribute="bottom" id="ezh-UE-P0R"/>
+                            <constraint firstItem="yhG-gE-0Vy" firstAttribute="leading" secondItem="S61-SV-SPl" secondAttribute="leadingMargin" constant="20" id="iEc-mp-WLG"/>
+                            <constraint firstItem="DKN-LD-7aT" firstAttribute="top" secondItem="S61-SV-SPl" secondAttribute="topMargin" constant="20" id="l8v-GF-Lbu"/>
+                            <constraint firstItem="RVe-Oq-Sy6" firstAttribute="top" secondItem="DKN-LD-7aT" secondAttribute="bottom" id="uNe-un-CDe"/>
+                            <constraint firstItem="yhG-gE-0Vy" firstAttribute="top" secondItem="rwg-bd-hPu" secondAttribute="bottom" constant="8" id="vQ2-CF-wtD"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" title="Min IMDB" id="wuJ-Oc-wLX"/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="390"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="imdb-logo" width="960" height="960"/>
+    </resources>
+</document>

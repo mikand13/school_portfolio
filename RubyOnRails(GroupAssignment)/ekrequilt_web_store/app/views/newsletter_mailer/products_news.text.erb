@@ -1,0 +1,14 @@
+Sjekk ut disse produktene!
+===============================================
+
+<% @products.each do |product| %>
+    Navn: <%= product.name %>
+    Pris: <%= number_to_currency(product.price) %>
+    Besk: <%= product.description %>
+    <%= '' %>
+    <%= '' %>
+<% end %>
+
+<%= url_for(controller: 'welcome',
+            action: 'index',
+            only_path: false) %>

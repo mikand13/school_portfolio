@@ -1,0 +1,1 @@
+Feature: As a supplier I want to be able to see all products, so I can see what the customers see.

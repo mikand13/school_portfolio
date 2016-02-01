@@ -1,0 +1,89 @@
+\hypertarget{class_s_d_lvideo}{}\section{S\+D\+Lvideo Class Reference}
+\label{class_s_d_lvideo}\index{S\+D\+Lvideo@{S\+D\+Lvideo}}
+
+
+This header file declares the facade for S\+D\+L video rendering.  
+
+
+
+
+{\ttfamily \#include $<$S\+D\+Lvideo.\+h$>$}
+
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_s_d_lvideo_a6c44bc386fc88f9576e6fc3c14048aa7}{}typedef std\+::vector$<$ std\+::shared\+\_\+ptr$<$ \hyperlink{class_game_object}{Game\+Object} $>$ $>$ {\bfseries vector\+\_\+of\+\_\+shared\+\_\+ptr\+\_\+gos}\label{class_s_d_lvideo_a6c44bc386fc88f9576e6fc3c14048aa7}
+
+\item 
+\hypertarget{class_s_d_lvideo_ab8cfa7af7d08ef2e9e6d040c8504eb2f}{}typedef std\+::vector$<$ std\+::string $>$ {\bfseries vector\+\_\+of\+\_\+strings}\label{class_s_d_lvideo_ab8cfa7af7d08ef2e9e6d040c8504eb2f}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_s_d_lvideo_aaf4d2054fa5a4a05a37d3f1c0cc3b728}{}void {\bfseries Init} ()\label{class_s_d_lvideo_aaf4d2054fa5a4a05a37d3f1c0cc3b728}
+
+\item 
+\hypertarget{class_s_d_lvideo_ab15173dc06278a380a59e512020cb40c}{}void {\bfseries Clean\+Up} ()\label{class_s_d_lvideo_ab15173dc06278a380a59e512020cb40c}
+
+\item 
+\hypertarget{class_s_d_lvideo_a5f6045e76aeac461a424597ac4905183}{}bool {\bfseries Kill} ()\label{class_s_d_lvideo_a5f6045e76aeac461a424597ac4905183}
+
+\item 
+\hypertarget{class_s_d_lvideo_ab8588460623d611ef25951514eaf1729}{}void {\bfseries Update} (E\+Game\+State game\+\_\+state, const vector\+\_\+of\+\_\+shared\+\_\+ptr\+\_\+gos \&game\+\_\+objects, int level, int current\+\_\+lives, int current\+\_\+score)\label{class_s_d_lvideo_ab8588460623d611ef25951514eaf1729}
+
+\item 
+\hypertarget{class_s_d_lvideo_ad10a8ab09774fb1771029e60146ed794}{}void {\bfseries Create\+Intro\+Texture} ()\label{class_s_d_lvideo_ad10a8ab09774fb1771029e60146ed794}
+
+\item 
+\hypertarget{class_s_d_lvideo_a06674910d743bb041e69f8cb40440f8c}{}void {\bfseries Create\+Game\+Over\+Texture} (bool new\+\_\+high\+\_\+score, vector\+\_\+of\+\_\+strings results)\label{class_s_d_lvideo_a06674910d743bb041e69f8cb40440f8c}
+
+\item 
+\hypertarget{class_s_d_lvideo_aa7004dc8ba964525a7725682e7ee1621}{}void {\bfseries Create\+Player\+Texture} (const \hyperlink{class_player}{Player} \&player)\label{class_s_d_lvideo_aa7004dc8ba964525a7725682e7ee1621}
+
+\item 
+\hypertarget{class_s_d_lvideo_a592243f65a44b39361367228161c273e}{}void {\bfseries Create\+Brick\+Texture} (const \hyperlink{class_brick}{Brick} \&brick)\label{class_s_d_lvideo_a592243f65a44b39361367228161c273e}
+
+\item 
+\hypertarget{class_s_d_lvideo_ad0b3b6623069a38ab9ec7250527139a4}{}void {\bfseries Create\+Ball\+Texture} (const \hyperlink{class_ball}{Ball} \&ball)\label{class_s_d_lvideo_ad0b3b6623069a38ab9ec7250527139a4}
+
+\item 
+\hypertarget{class_s_d_lvideo_aaaa0f579f5035b50218be9e52fc778b3}{}void {\bfseries Kill\+Game\+Object\+Texture} (const \hyperlink{class_game_object}{Game\+Object} \&go)\label{class_s_d_lvideo_aaaa0f579f5035b50218be9e52fc778b3}
+
+\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_s_d_lvideo_a15a3bde646d6744fbb97a49b50761454}{}static int {\bfseries Get\+Screen\+Width} ()\label{class_s_d_lvideo_a15a3bde646d6744fbb97a49b50761454}
+
+\item 
+\hypertarget{class_s_d_lvideo_a267b3503399bc79c2fa2cbaff30d1361}{}static int {\bfseries Get\+Screen\+Height} ()\label{class_s_d_lvideo_a267b3503399bc79c2fa2cbaff30d1361}
+
+\item 
+\hypertarget{class_s_d_lvideo_a8a1d40aea3d2cf50e865a3413f6ea793}{}static int {\bfseries Get\+G\+U\+I\+Area} ()\label{class_s_d_lvideo_a8a1d40aea3d2cf50e865a3413f6ea793}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This header file declares the facade for S\+D\+L video rendering. 
+
+It accepts normal game mechanical items such as Game\+Objects and gui texts and abstracts away any S\+D\+L for the outside classes.
+
+I showcase use of S\+D\+L\+\_\+image for pngs for the player and ball, normal B\+M\+P for bricks.
+
+\begin{DoxyAuthor}{Author}
+Anders Mikkelsen 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+13.\+04.\+2015 
+\end{DoxyDate}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+S\+D\+Lvideo.\+h\item 
+S\+D\+Lvideo.\+cpp\end{DoxyCompactItemize}
